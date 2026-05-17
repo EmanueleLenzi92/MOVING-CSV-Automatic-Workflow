@@ -1,0 +1,446 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "keyword_in_the_text": "Aragon",
+                "wikipedia_title": "Aragon"
+            },
+            {
+                "keyword_in_the_text": "European Agricultural Fund for Rural Development",
+                "wikipedia_title": "European Agricultural Fund for Rural Development"
+            },
+            {
+                "keyword_in_the_text": "Rural Development Program",
+                "wikipedia_title": "Rural development"
+            },
+            {
+                "keyword_in_the_text": "Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            },
+            {
+                "keyword_in_the_text": "legumes",
+                "wikipedia_title": "Legume"
+            },
+            {
+                "keyword_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Pyrenees",
+                "wikipedia_title": "Pyrenees"
+            },
+            {
+                "keyword_in_the_text": "Jaca",
+                "wikipedia_title": "Jaca"
+            },
+            {
+                "keyword_in_the_text": "Ascara",
+                "wikipedia_title": "Ascara, Spain"
+            },
+            {
+                "keyword_in_the_text": "Canal de Berdún",
+                "wikipedia_title": "Canal de Berdún"
+            },
+            {
+                "keyword_in_the_text": "Huesca",
+                "wikipedia_title": "Huesca"
+            },
+            {
+                "keyword_in_the_text": "Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            },
+            {
+                "keyword_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres de Berrellén"
+            },
+            {
+                "keyword_in_the_text": "Alagón",
+                "wikipedia_title": "Alagón, Zaragoza"
+            },
+            {
+                "keyword_in_the_text": "Montañana",
+                "wikipedia_title": "Montañana, Zaragoza"
+            },
+            {
+                "keyword_in_the_text": "Sigpac",
+                "wikipedia_title": "Single Payment Scheme"
+            },
+            {
+                "keyword_in_the_text": "Natura 2000 Network",
+                "wikipedia_title": "Natura 2000"
+            },
+            {
+                "keyword_in_the_text": "Jacetania",
+                "wikipedia_title": "Jacetania"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth"
+            },
+            {
+                "keyword_in_the_text": "regional",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "GVA",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "Primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "Secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "Tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "Hotel room"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Farm"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "employment",
+                "wikipedia_title": "Employment"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": "Cielos de Ascara"
+            },
+            {
+                "keyword_in_the_text": "Aragonese Pyrenees",
+                "wikipedia_title": "Aragonese Pyrenees"
+            },
+            {
+                "keyword_in_the_text": "organic food production",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "keyword_in_the_text": "public-private collaboration",
+                "wikipedia_title": "Public–private partnership"
+            },
+            {
+                "keyword_in_the_text": "social development",
+                "wikipedia_title": "Social development"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Aragon",
+                "wikipedia_title": "Aragon"
+            },
+            {
+                "keyword_in_the_text": "food heritage",
+                "wikipedia_title": "Cultural heritage"
+            },
+            {
+                "keyword_in_the_text": "sustainable",
+                "wikipedia_title": "Sustainability"
+            },
+            {
+                "keyword_in_the_text": "horticultural products",
+                "wikipedia_title": "Horticulture"
+            },
+            {
+                "keyword_in_the_text": "consumer",
+                "wikipedia_title": "Consumer"
+            },
+            {
+                "keyword_in_the_text": "market",
+                "wikipedia_title": "Market"
+            },
+            {
+                "keyword_in_the_text": "products",
+                "wikipedia_title": "Product"
+            },
+            {
+                "keyword_in_the_text": "traditional products",
+                "wikipedia_title": "Traditional knowledge"
+            },
+            {
+                "keyword_in_the_text": "Organic Production",
+                "wikipedia_title": "Organic farming"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "sustainability",
+                "wikipedia_title": "Sustainability"
+            },
+            {
+                "keyword_in_the_text": "economic",
+                "wikipedia_title": "Economics"
+            },
+            {
+                "keyword_in_the_text": "social",
+                "wikipedia_title": "Social"
+            },
+            {
+                "keyword_in_the_text": "ecological",
+                "wikipedia_title": "Ecology"
+            },
+            {
+                "keyword_in_the_text": "rural development",
+                "wikipedia_title": "Rural development"
+            },
+            {
+                "keyword_in_the_text": "urban",
+                "wikipedia_title": "Urban area"
+            },
+            {
+                "keyword_in_the_text": "consumption",
+                "wikipedia_title": "Consumption"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous development"
+            },
+            {
+                "keyword_in_the_text": "rural areas",
+                "wikipedia_title": "Rural area"
+            },
+            {
+                "keyword_in_the_text": "mountain areas",
+                "wikipedia_title": "Mountain area"
+            },
+            {
+                "keyword_in_the_text": "organic production",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "keyword_in_the_text": "New products",
+                "wikipedia_title": "New product development"
+            },
+            {
+                "keyword_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "keyword_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "keyword_in_the_text": "social",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "keyword_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            },
+            {
+                "keyword_in_the_text": "public-private cooperation",
+                "wikipedia_title": "Public–private partnership"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Sites of Community Importance",
+                "wikipedia_title": "Natura 2000"
+            },
+            {
+                "keyword_in_the_text": "Special Protection Area for Birds",
+                "wikipedia_title": "Special Protection Area"
+            },
+            {
+                "keyword_in_the_text": "San Juan de la Peña",
+                "wikipedia_title": "San Juan de la Peña"
+            },
+            {
+                "keyword_in_the_text": "Monte Oroel",
+                "wikipedia_title": "Monte Oroel"
+            },
+            {
+                "keyword_in_the_text": "Natural Park of the Western Valleys",
+                "wikipedia_title": "Valle del Aragón Oriental Natural Park"
+            },
+            {
+                "keyword_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres de Berrellén"
+            },
+            {
+                "keyword_in_the_text": "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
+                "wikipedia_title": "Centro de Investigación y Tecnología Agroalimentaria de Aragón"
+            },
+            {
+                "keyword_in_the_text": "CITA",
+                "wikipedia_title": "Centro de Investigación y Tecnología Agroalimentaria de Aragón"
+            },
+            {
+                "keyword_in_the_text": "Montañana",
+                "wikipedia_title": "Montañana"
+            },
+            {
+                "keyword_in_the_text": "ATADES",
+                "wikipedia_title": "ATADES"
+            },
+            {
+                "keyword_in_the_text": "Mercazaragoza",
+                "wikipedia_title": "Mercazaragoza"
+            },
+            {
+                "keyword_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "keyword_in_the_text": "agroecology",
+                "wikipedia_title": "Agroecology"
+            },
+            {
+                "keyword_in_the_text": "digital",
+                "wikipedia_title": "Digital"
+            }
+        ]
+    }
+]

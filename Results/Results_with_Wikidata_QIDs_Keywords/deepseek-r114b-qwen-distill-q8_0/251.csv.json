@@ -1,0 +1,426 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "VC 03 UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "heather moorland",
+                "original_value": "Heather moorland",
+                "Wikidata_ID": "Q1092661"
+            },
+            {
+                "originalKey": "heather honey",
+                "original_value": "Heather honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "hand cream",
+                "original_value": "Hand cream",
+                "Wikidata_ID": "Q1871151"
+            },
+            {
+                "originalKey": "lip balm",
+                "original_value": "Lip balm",
+                "Wikidata_ID": "Q1518347"
+            },
+            {
+                "originalKey": "Scottish heather Honey",
+                "original_value": "Heather honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Heather Hills in Perthshire",
+                "original_value": "Perthshire",
+                "Wikidata_ID": "Q67442430"
+            },
+            {
+                "originalKey": "beeswax",
+                "original_value": "Beeswax",
+                "Wikidata_ID": "Q143739"
+            },
+            {
+                "originalKey": "British Standards Institution Kitemark for Food Assurance",
+                "original_value": "Kite mark",
+                "Wikidata_ID": "Q6418160"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Highlands and Islands (RR9)",
+                "original_value": "Highlands and Islands",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Eastern Scotland (NUTS2)",
+                "original_value": "Eastern Scotland",
+                "Wikidata_ID": "Q4391979"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Tay",
+                "original_value": "River Tay",
+                "Wikidata_ID": "Q19719"
+            },
+            {
+                "originalKey": "Earn",
+                "original_value": "River Earn",
+                "Wikidata_ID": "Q1277544"
+            },
+            {
+                "originalKey": "Perth",
+                "original_value": "Perth",
+                "Wikidata_ID": "Q3183"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "size of the area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Demographic trends",
+                "Wikidata_ID": "Q381763"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "original_value": "Demographic trends",
+                "Wikidata_ID": "Q381763"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places (BPs)",
+                "original_value": "Bed and breakfast",
+                "Wikidata_ID": "Q367914"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Local Administrative Unit (LAU)",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional share",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Scottish Heather honey",
+                "original_value": "Scottish Heather Honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manuka Honey",
+                "original_value": "Manuka Honey",
+                "Wikidata_ID": "Q953395"
+            },
+            {
+                "originalKey": "Heather Hills farm",
+                "original_value": "Heather Hills Farm",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Perth and Kinross LAU1",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Natural assets",
+                "original_value": "Natural Capital",
+                "Wikidata_ID": "Q1540268"
+            },
+            {
+                "originalKey": "Cultural assets",
+                "original_value": "Cultural Capital",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Social assets",
+                "original_value": "Social Capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "Heather Hills",
+                "original_value": "Heather Hills",
+                "Wikidata_ID": "Q16784459"
+            },
+            {
+                "originalKey": "Honey Sommelier",
+                "original_value": "No exact match found",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "changing climate",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "traditional methods",
+                "original_value": "Traditional method",
+                "Wikidata_ID": "Q25326506"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Current and predicted",
+                "original_value": "Challenges",
+                "Wikidata_ID": "Q6554155"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "null",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous",
+                "Wikidata_ID": "Q285982"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous",
+                "Wikidata_ID": "Q293000"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "BCI kitemark",
+                "original_value": "Better Cotton Initiative Kitemark",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Natural environment",
+                "Wikidata_ID": "Q43619"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural environment",
+                "Wikidata_ID": "Q43619"
+            },
+            {
+                "originalKey": "Social",
+                "original_value": "Social science",
+                "Wikidata_ID": "Q34749"
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "Cultural studies",
+                "Wikidata_ID": "Q1143546"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Heather hills",
+                "original_value": "Heather",
+                "Wikidata_ID": "Q15041366"
+            },
+            {
+                "originalKey": "Aberdeenshire LAU1",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "heather bee farmers",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Luneburg",
+                "original_value": "Lüneburg",
+                "Wikidata_ID": "Q3920"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            }
+        ]
+    }
+]

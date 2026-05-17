@@ -1,0 +1,456 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING reference member state",
+                "original_value": "Value Chain (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "UCO (food)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 08 SCA",
+                "original_value": "Value Chain (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pultost",
+                "original_value": "Pultost",
+                "Wikidata_ID": "Q1776589"
+            },
+            {
+                "originalKey": "sour milk cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "cow's milk",
+                "original_value": "Milk",
+                "Wikidata_ID": "Q8495"
+            },
+            {
+                "originalKey": "rennet",
+                "original_value": "Rennet",
+                "Wikidata_ID": "Q326900"
+            },
+            {
+                "originalKey": "lactic bacteria",
+                "original_value": "Lactic acid bacteria",
+                "Wikidata_ID": "Q13360072"
+            },
+            {
+                "originalKey": "salt",
+                "original_value": "Salt",
+                "Wikidata_ID": "Q11254"
+            },
+            {
+                "originalKey": "caraway seeds",
+                "original_value": "Caraway seeds",
+                "Wikidata_ID": "Q26811"
+            },
+            {
+                "originalKey": "sour cream",
+                "original_value": "Sour cream",
+                "Wikidata_ID": "Q840171"
+            },
+            {
+                "originalKey": "butter",
+                "original_value": "Butter",
+                "Wikidata_ID": "Q34172"
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food",
+                "Wikidata_ID": "Q335823"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandes",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Lesja",
+                "original_value": "Lesja",
+                "Wikidata_ID": "Q1820720"
+            },
+            {
+                "originalKey": "Lesjaskogsvatnet",
+                "original_value": "Lesjas lake",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rauma river",
+                "original_value": "Rauma River",
+                "Wikidata_ID": "Q494838"
+            },
+            {
+                "originalKey": "Gudbrandsdalslågen river",
+                "original_value": "Gudbrandsdalslågen River",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Norwegian trout",
+                "original_value": "Atlantic salmon",
+                "Wikidata_ID": "Q188879"
+            },
+            {
+                "originalKey": "masl",
+                "original_value": "Masl",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "summer farms",
+                "original_value": "Summer farm",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional Population Density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "average per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "List of accommodations in the United States",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism in the United States",
+                "Wikidata_ID": "Q2986423"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regionalism",
+                "Wikidata_ID": "Q811302"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in [Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in [Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "High quality product",
+                "original_value": "Product",
+                "Wikidata_ID": "Q1796457"
+            },
+            {
+                "originalKey": "high reputation",
+                "original_value": "Reputation",
+                "Wikidata_ID": "Q877546"
+            },
+            {
+                "originalKey": "tradition",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "natural assets",
+                "original_value": "Natural resources",
+                "Wikidata_ID": "Q188460"
+            },
+            {
+                "originalKey": "natural pastures",
+                "original_value": "Pastures",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "mountain pastures",
+                "original_value": "Mountain pasture",
+                "Wikidata_ID": "Q14774083"
+            },
+            {
+                "originalKey": "cooperation",
+                "original_value": "Cooperation",
+                "Wikidata_ID": "Q380962"
+            },
+            {
+                "originalKey": "Pultost producers",
+                "original_value": "Pultost producers",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pultosts BA",
+                "original_value": "Pultosts BA",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pultost Innlandet SA",
+                "original_value": "Pultost Innlandet SA",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Slowfood Foundation",
+                "original_value": "Slow Food",
+                "Wikidata_ID": "Q335823"
+            },
+            {
+                "originalKey": "traditional knowledge",
+                "original_value": "Traditional Knowledge",
+                "Wikidata_ID": "Q1428168"
+            },
+            {
+                "originalKey": "cheese production",
+                "original_value": "Cheesemaking",
+                "Wikidata_ID": "Q1281188"
+            },
+            {
+                "originalKey": "butter production",
+                "original_value": "Butter Production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cattle management",
+                "original_value": "Cattle Management",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ecological system",
+                "original_value": "Ecological System",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "industrial dairies",
+                "original_value": "Dairy industry",
+                "Wikidata_ID": "Q637776"
+            },
+            {
+                "originalKey": "artisanal cheese making",
+                "original_value": "Cheesemaking",
+                "Wikidata_ID": "Q1281188"
+            },
+            {
+                "originalKey": "market",
+                "original_value": "Market (economics)",
+                "Wikidata_ID": "Q37654"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "Challenge (philosophy)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditionalism",
+                "Wikidata_ID": "Q354963"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "Land Use System",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land Use System",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "Local Assets",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Vector Calculus",
+                "Wikidata_ID": "Q200802"
+            },
+            {
+                "originalKey": "Etnedal",
+                "original_value": "Etnedal, Norway",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,256 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "EU PGI label",
+                "original_value": "Protected geographical indication",
+                "Wikidata_ID": "Q363268"
+            },
+            {
+                "originalKey": "Ostrava",
+                "original_value": "Ostrava",
+                "Wikidata_ID": "Q8385"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Moravian-Silesian Region",
+                "Wikidata_ID": "Q190550"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Javorníky",
+                "original_value": "Javorníky Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Beskydy",
+                "original_value": "Beskyd Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Western Carpathian",
+                "original_value": "Western Carpathians",
+                "Wikidata_ID": "Q927233"
+            },
+            {
+                "originalKey": "Vsetín",
+                "original_value": "Vsetín District",
+                "Wikidata_ID": "Q852541"
+            },
+            {
+                "originalKey": "LAU 1 Vsetín",
+                "original_value": "NUTS: CZ-71 (Zlínský kraj)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mountain Reference Landscape",
+                "original_value": "Reference landscape",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Gross domestic product per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary",
+                "original_value": "Tertiary_sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "EU",
+                "original_value": "European Union",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "Protected Geographical Indication",
+                "original_value": "Protected Designation of Origin",
+                "Wikidata_ID": "Q13439060"
+            },
+            {
+                "originalKey": "PGI",
+                "original_value": "Protected Geographical Indication",
+                "Wikidata_ID": "Q363268"
+            },
+            {
+                "originalKey": "Valašský",
+                "original_value": "Wallachia (Czech region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Beskydy",
+                "original_value": "Beščady Mountains",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Wallachia",
+                "Wikidata_ID": "Q171393"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Wallachia",
+                "Wikidata_ID": "Q171393"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous growth theory",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain management",
+                "Wikidata_ID": "Q492886"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Symbolic specificity of the territory",
+                "original_value": "Territorial branding",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Ladin language and culture",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "frgál",
+                "original_value": "Frágol",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

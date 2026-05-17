@@ -1,0 +1,213 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "keyword_in_the_text": "Engadiner",
+                "wikipedia_title": "Engadine"
+            },
+            {
+                "keyword_in_the_text": "Spiegelschaf",
+                "wikipedia_title": "Spiegelschaf"
+            },
+            {
+                "keyword_in_the_text": "Nera Verzasca",
+                "wikipedia_title": "Nera Verzasca"
+            },
+            {
+                "keyword_in_the_text": "Capra Grigia",
+                "wikipedia_title": "Capra Grigia"
+            },
+            {
+                "keyword_in_the_text": "Black Alpine Pig",
+                "wikipedia_title": "Black Alpine pig"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "mountain chain",
+                "wikipedia_title": "Mountain range"
+            },
+            {
+                "keyword_in_the_text": "mountain landscape",
+                "wikipedia_title": "Mountains"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added (GVA)",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "Local government"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agriculture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "employment",
+                "wikipedia_title": "Employment"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "traditional breeds",
+                "wikipedia_title": "Domesticated animal breed"
+            },
+            {
+                "keyword_in_the_text": "local situation",
+                "wikipedia_title": "Localism"
+            },
+            {
+                "keyword_in_the_text": "trend of localness being trendy",
+                "wikipedia_title": "Slow food movement"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "veganism",
+                "wikipedia_title": "Veganism"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous growth theory"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "keyword_in_the_text": "Natural and cultural",
+                "wikipedia_title": "Cultural heritage"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "local asset",
+                "wikipedia_title": "Asset"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "wild berries",
+                "wikipedia_title": "Wild berries"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "keywords": []
+    }
+]

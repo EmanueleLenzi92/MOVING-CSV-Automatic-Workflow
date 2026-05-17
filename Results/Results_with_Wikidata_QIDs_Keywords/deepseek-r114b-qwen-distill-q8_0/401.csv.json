@@ -1,0 +1,226 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Honey from the alps",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "original_value": "No exact title found",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "size of the area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "overall regional population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Beds",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Accommodation",
+                "Wikidata_ID": "Q122067"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "traditional VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "traditional VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bees",
+                "original_value": "Bees",
+                "Wikidata_ID": "Q7391"
+            },
+            {
+                "originalKey": "endangered",
+                "original_value": "Endangered species",
+                "Wikidata_ID": "Q11394"
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Predictive analytics in venture capital",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional venture capital",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Beehives",
+                "original_value": "Beehive",
+                "Wikidata_ID": "Q165107"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural (geography)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Key",
+                "original_value": "Key (cipher)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "asset",
+                "original_value": "Asset",
+                "Wikidata_ID": "Q46737"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "soil",
+                "original_value": "Soil",
+                "Wikidata_ID": "Q36133"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            }
+        ]
+    }
+]

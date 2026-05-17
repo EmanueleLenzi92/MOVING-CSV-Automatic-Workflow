@@ -1,0 +1,346 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "MOVING (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Switzerland",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "VC 17 CH1",
+                "original_value": "VC 17 CH1",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "gourmet taste",
+                "original_value": "Gourmet food",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "small batches",
+                "original_value": "Small-scale production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farm shops",
+                "original_value": "Farm shop",
+                "Wikidata_ID": "Q1371823"
+            },
+            {
+                "originalKey": "online shops",
+                "original_value": "Online shopping",
+                "Wikidata_ID": "Q212930"
+            },
+            {
+                "originalKey": "larger retailers",
+                "original_value": "Retailer",
+                "Wikidata_ID": "Q126793"
+            },
+            {
+                "originalKey": "Pro Montagna",
+                "original_value": "Pro Montagna",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            },
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "density",
+                "original_value": "Density",
+                "Wikidata_ID": "Q29539"
+            },
+            {
+                "originalKey": "change rate",
+                "original_value": "Demographic change",
+                "Wikidata_ID": "Q37732"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional economy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "List of cities by population",
+                "Wikidata_ID": "Q1496553"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment/year [Province]",
+                "original_value": "Employment by sector in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "employment/year [Region]",
+                "original_value": "Employment by sector in [Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "traditional VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "working well",
+                "original_value": "Success",
+                "Wikidata_ID": "Q7632586"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bees",
+                "original_value": "Apis mellifera",
+                "Wikidata_ID": "Q30034"
+            },
+            {
+                "originalKey": "endangered",
+                "original_value": "Endangered species",
+                "Wikidata_ID": "Q11394"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "predicted",
+                "original_value": "Prediction",
+                "Wikidata_ID": "Q748250"
+            },
+            {
+                "originalKey": "traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Beehives",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "Local resources",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "recognize",
+                "original_value": "Recognition",
+                "Wikidata_ID": "Q13725110"
+            },
+            {
+                "originalKey": "keywords",
+                "original_value": "Keywords",
+                "Wikidata_ID": "Q1289923"
+            },
+            {
+                "originalKey": "find",
+                "original_value": "Find",
+                "Wikidata_ID": "Q535119"
+            },
+            {
+                "originalKey": "exact",
+                "original_value": "Exact",
+                "Wikidata_ID": "Q16033993"
+            },
+            {
+                "originalKey": "title",
+                "original_value": "Title",
+                "Wikidata_ID": "Q216353"
+            },
+            {
+                "originalKey": "corresponding",
+                "original_value": "Corresponding",
+                "Wikidata_ID": "Q355415"
+            },
+            {
+                "originalKey": "Wikipedia",
+                "original_value": "Wikipedia",
+                "Wikidata_ID": "Q52"
+            },
+            {
+                "originalKey": "page",
+                "original_value": "Page",
+                "Wikidata_ID": "Q224749"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "null",
+                "original_value": "null",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "null",
+                "original_value": "null",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "null",
+                "original_value": "null",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "null",
+                "original_value": "null",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "keyword_in_the_text": "MOVING",
+                "wikipedia_title": "Moving (Value Chain)"
+            },
+            {
+                "keyword_in_the_text": "chestnut trees",
+                "wikipedia_title": "Chestnut"
+            },
+            {
+                "keyword_in_the_text": "farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "keyword_in_the_text": "local government",
+                "wikipedia_title": "Local government"
+            },
+            {
+                "keyword_in_the_text": "academic institutions",
+                "wikipedia_title": "Academic institution"
+            },
+            {
+                "keyword_in_the_text": "catering",
+                "wikipedia_title": "Catering"
+            },
+            {
+                "keyword_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "White Mountains",
+                "wikipedia_title": "White Mountains (Crete)"
+            },
+            {
+                "keyword_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "keyword_in_the_text": "Chania international airport",
+                "wikipedia_title": "Chania International Airport"
+            },
+            {
+                "keyword_in_the_text": "Souda bay international harbor",
+                "wikipedia_title": "Port of Souda"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "Inhabitants/km2",
+                "wikipedia_title": "Population density"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Gross domestic product per capita"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary",
+                "wikipedia_title": "Primary_sector"
+            },
+            {
+                "keyword_in_the_text": "secondary",
+                "wikipedia_title": "Secondary_sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary",
+                "wikipedia_title": "Tertiary_sector"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "keyword_in_the_text": "Chania",
+                "wikipedia_title": "Chania"
+            },
+            {
+                "keyword_in_the_text": "Chestnut trees",
+                "wikipedia_title": "Castanea sativa"
+            },
+            {
+                "keyword_in_the_text": "Olive oil monoculture",
+                "wikipedia_title": "Olive oil"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "forest",
+                "wikipedia_title": "Forest"
+            },
+            {
+                "keyword_in_the_text": "grasslands",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "keyword_in_the_text": "agro-tourism",
+                "wikipedia_title": "Agrotourism"
+            },
+            {
+                "keyword_in_the_text": "chestnut",
+                "wikipedia_title": "Chestnut"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "chestnut",
+                "wikipedia_title": "Chestnut"
+            },
+            {
+                "keyword_in_the_text": "olive oil trees",
+                "wikipedia_title": "Olive oil"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "keyword_in_the_text": "Value Chain",
+                "wikipedia_title": "Supply chain management"
+            },
+            {
+                "keyword_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous variable"
+            },
+            {
+                "keyword_in_the_text": "chestnuts",
+                "wikipedia_title": "Castanea sativa"
+            },
+            {
+                "keyword_in_the_text": "processed products",
+                "wikipedia_title": "Food processing"
+            },
+            {
+                "keyword_in_the_text": "New products",
+                "wikipedia_title": "Product development"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "keyword_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "keyword_in_the_text": "social",
+                "wikipedia_title": "Society"
+            },
+            {
+                "keyword_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "keyword_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    }
+]

@@ -1,0 +1,486 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "MOVING",
+                "wikipedia_title": "Value Chain (business model)"
+            },
+            {
+                "keyword_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "keyword_in_the_text": "VC 03 AT",
+                "wikipedia_title": "Value Chain (business model)"
+            },
+            {
+                "keyword_in_the_text": "organic farms",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "keyword_in_the_text": "processing",
+                "wikipedia_title": "Processing (manufacturing)"
+            },
+            {
+                "keyword_in_the_text": "cooperation",
+                "wikipedia_title": "Cooperation"
+            },
+            {
+                "keyword_in_the_text": "shops",
+                "wikipedia_title": "Retail"
+            },
+            {
+                "keyword_in_the_text": "hotels",
+                "wikipedia_title": "Hotels"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "keyword_in_the_text": "RR 11",
+                "wikipedia_title": "Rhine Valley (Switzerland)"
+            },
+            {
+                "keyword_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "keyword_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz, Austria"
+            },
+            {
+                "keyword_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "keyword_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "keyword_in_the_text": "pastures",
+                "wikipedia_title": "Pasture (agriculture)"
+            },
+            {
+                "keyword_in_the_text": "1.200 and 1.500 m above sea level",
+                "wikipedia_title": "Elevation"
+            },
+            {
+                "keyword_in_the_text": "humid",
+                "wikipedia_title": "Humidity"
+            },
+            {
+                "keyword_in_the_text": "thunderstorms",
+                "wikipedia_title": "Thunderstorm"
+            },
+            {
+                "keyword_in_the_text": "limestone",
+                "wikipedia_title": "Limestone"
+            },
+            {
+                "keyword_in_the_text": "phylite, slate and greywacke",
+                "wikipedia_title": "Slate"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population Growth Rate"
+            },
+            {
+                "keyword_in_the_text": "regional population density",
+                "wikipedia_title": "Regional Population Density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population Growth Rate"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "keyword_in_the_text": "average per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "List of hotels in the United States"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "regional share",
+                "wikipedia_title": "Regionalism"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in [Country]"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "List of regions in [Country]"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Almenland Nature Park",
+                "wikipedia_title": "Almenland Nature Park"
+            },
+            {
+                "keyword_in_the_text": "herb farmers",
+                "wikipedia_title": "List of herbalists"
+            },
+            {
+                "keyword_in_the_text": "association",
+                "wikipedia_title": "Association"
+            },
+            {
+                "keyword_in_the_text": "Almenland Kräuter",
+                "wikipedia_title": "Almenland Kräuter"
+            },
+            {
+                "keyword_in_the_text": "organic cultivation",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "keyword_in_the_text": "wild nature",
+                "wikipedia_title": "Wild plants"
+            },
+            {
+                "keyword_in_the_text": "hand harvested",
+                "wikipedia_title": "Hand harvesting"
+            },
+            {
+                "keyword_in_the_text": "food and drinks",
+                "wikipedia_title": "Food"
+            },
+            {
+                "keyword_in_the_text": "cosmetic products",
+                "wikipedia_title": "Cosmetics"
+            },
+            {
+                "keyword_in_the_text": "wellness products",
+                "wikipedia_title": "Wellness"
+            },
+            {
+                "keyword_in_the_text": "regional development",
+                "wikipedia_title": "Regional development"
+            },
+            {
+                "keyword_in_the_text": "nature park",
+                "wikipedia_title": "Nature reserve"
+            },
+            {
+                "keyword_in_the_text": "gastronomy",
+                "wikipedia_title": "Gastronomy"
+            },
+            {
+                "keyword_in_the_text": "hotels",
+                "wikipedia_title": "Hotels"
+            },
+            {
+                "keyword_in_the_text": "educational programmes",
+                "wikipedia_title": "Educational program"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "regional development strategy",
+                "wikipedia_title": "Regional Development Strategy"
+            },
+            {
+                "keyword_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "keyword_in_the_text": "culinary delight",
+                "wikipedia_title": "Gastronomy"
+            },
+            {
+                "keyword_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Austria's Agricultural Market"
+            },
+            {
+                "keyword_in_the_text": "educational programmes",
+                "wikipedia_title": "Education in Agriculture"
+            },
+            {
+                "keyword_in_the_text": "nature park",
+                "wikipedia_title": "Nature Park"
+            },
+            {
+                "keyword_in_the_text": "natural habitat",
+                "wikipedia_title": "Habitat"
+            },
+            {
+                "keyword_in_the_text": "health related aspects",
+                "wikipedia_title": "Health"
+            },
+            {
+                "keyword_in_the_text": "touristic programme",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "ecological perspective",
+                "wikipedia_title": "Ecology"
+            },
+            {
+                "keyword_in_the_text": "herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "keyword_in_the_text": "pesticide",
+                "wikipedia_title": "Pesticides"
+            },
+            {
+                "keyword_in_the_text": "flowering plants",
+                "wikipedia_title": "Flowering Plants"
+            },
+            {
+                "keyword_in_the_text": "habitat fragmentation",
+                "wikipedia_title": "Habitat Fragmentation"
+            },
+            {
+                "keyword_in_the_text": "wild collection",
+                "wikipedia_title": "Wild Collection"
+            },
+            {
+                "keyword_in_the_text": "permanent grasslands",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "keyword_in_the_text": "food supply",
+                "wikipedia_title": "Food Supply"
+            },
+            {
+                "keyword_in_the_text": "income",
+                "wikipedia_title": "Income"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Extreme weather conditions",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "keyword_in_the_text": "climate change",
+                "wikipedia_title": "Climate Change"
+            },
+            {
+                "keyword_in_the_text": "cultivation practices",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "keyword_in_the_text": "herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "keyword_in_the_text": "climate change",
+                "wikipedia_title": "Climate Change"
+            },
+            {
+                "keyword_in_the_text": "irrigation",
+                "wikipedia_title": "Irrigation"
+            },
+            {
+                "keyword_in_the_text": "variety",
+                "wikipedia_title": "Variety (genetics)"
+            },
+            {
+                "keyword_in_the_text": "challenge",
+                "wikipedia_title": "Challenge (general)"
+            },
+            {
+                "keyword_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Innovation (economics)"
+            },
+            {
+                "keyword_in_the_text": "products",
+                "wikipedia_title": "Product development"
+            },
+            {
+                "keyword_in_the_text": "spice mixes",
+                "wikipedia_title": "Spice blend"
+            },
+            {
+                "keyword_in_the_text": "liquor",
+                "wikipedia_title": "Alcoholic beverage"
+            },
+            {
+                "keyword_in_the_text": "syrups",
+                "wikipedia_title": "Syrup"
+            },
+            {
+                "keyword_in_the_text": "sweets",
+                "wikipedia_title": "Sweet treat"
+            },
+            {
+                "keyword_in_the_text": "birch sugar",
+                "wikipedia_title": "Birch sugar"
+            },
+            {
+                "keyword_in_the_text": "soaps",
+                "wikipedia_title": "Soap"
+            },
+            {
+                "keyword_in_the_text": "creams",
+                "wikipedia_title": "Cream"
+            },
+            {
+                "keyword_in_the_text": "incense materials",
+                "wikipedia_title": "Incense"
+            },
+            {
+                "keyword_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "keyword_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "keyword_in_the_text": "Natural and cultural",
+                "wikipedia_title": "Cultural heritage"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Products",
+                "wikipedia_title": "List of herbal products"
+            },
+            {
+                "keyword_in_the_text": "herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "keyword_in_the_text": "Austrian mountainous regions",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    }
+]

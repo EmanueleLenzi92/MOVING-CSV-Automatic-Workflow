@@ -1,0 +1,251 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Moving (company)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "VC 17 CH1",
+                "original_value": "Not found",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Pro Montagna",
+                "original_value": "Pro Montagna",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Valley Contraction",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Valley Contraction",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional population density",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "total number of bed places",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Share",
+                "Wikidata_ID": "Q399476"
+            },
+            {
+                "originalKey": "number of agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000",
+                "original_value": "Nearest settlement",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Traditional VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "well sought after",
+                "original_value": "Desirability",
+                "Wikidata_ID": "Q775842"
+            },
+            {
+                "originalKey": "working well",
+                "original_value": "Effectiveness",
+                "Wikidata_ID": "Q1296024"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bees",
+                "original_value": "List of bee species",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Volcanic eruption",
+                "Wikidata_ID": "Q7692360"
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Predictive modeling",
+                "Wikidata_ID": "Q7239673"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional risk management",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Beehives",
+                "original_value": "Apiary",
+                "Wikidata_ID": "Q857628"
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural resource",
+                "Wikidata_ID": "Q188460"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Key local asset",
+                "original_value": "Local asset",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "soil",
+                "original_value": "Soil",
+                "Wikidata_ID": "Q36133"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "cultivate",
+                "original_value": "Cultivation",
+                "Wikidata_ID": "Q5193165"
+            },
+            {
+                "originalKey": "process",
+                "original_value": "Processing (agriculture)",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

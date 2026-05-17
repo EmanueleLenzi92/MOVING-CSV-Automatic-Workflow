@@ -1,0 +1,376 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "cow",
+                "original_value": "Dairy cattle",
+                "DBpedia_URI": "http://dbpedia.org/resource/Dairy_cattle",
+                "Wikidata_ID": "Q2915"
+            },
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep milk",
+                "DBpedia_URI": "http://dbpedia.org/resource/Sheep_milk",
+                "Wikidata_ID": "Q2736146"
+            },
+            {
+                "originalKey": "goat",
+                "original_value": "Goat milk",
+                "DBpedia_URI": "http://dbpedia.org/resource/Goat_milk",
+                "Wikidata_ID": "Q1418287"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Germany",
+                "DBpedia_URI": "http://dbpedia.org/resource/Germany",
+                "Wikidata_ID": "Q183"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Province of Vercelli",
+                "DBpedia_URI": "http://dbpedia.org/resource/Province_of_Vercelli",
+                "Wikidata_ID": "Q15096"
+            },
+            {
+                "originalKey": "RR",
+                "original_value": "Revised Romanization of Korean",
+                "DBpedia_URI": "http://dbpedia.org/resource/Revised_Romanization_of_Korean",
+                "Wikidata_ID": "Q498721"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "DBpedia_URI": "http://dbpedia.org/resource/Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz",
+                "DBpedia_URI": "http://dbpedia.org/resource/Weiz",
+                "Wikidata_ID": "Q21881904"
+            },
+            {
+                "originalKey": "Styrian",
+                "original_value": "Styria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Styria",
+                "Wikidata_ID": "Q41358"
+            },
+            {
+                "originalKey": "alpine pasture",
+                "original_value": "Alpine transhumance",
+                "DBpedia_URI": "http://dbpedia.org/resource/Alpine_transhumance",
+                "Wikidata_ID": "Q14774083"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "DBpedia_URI": "http://dbpedia.org/resource/Europe",
+                "Wikidata_ID": "Q18473304"
+            },
+            {
+                "originalKey": "rock",
+                "original_value": "Rock music",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rock_music",
+                "Wikidata_ID": "Q11399"
+            },
+            {
+                "originalKey": "limestone",
+                "original_value": "Limestone",
+                "DBpedia_URI": "http://dbpedia.org/resource/Limestone",
+                "Wikidata_ID": "Q23757"
+            },
+            {
+                "originalKey": "phyllite",
+                "original_value": "Phyllite",
+                "DBpedia_URI": "http://dbpedia.org/resource/Phyllite",
+                "Wikidata_ID": "Q731880"
+            },
+            {
+                "originalKey": "slate",
+                "original_value": "Slate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Slate",
+                "Wikidata_ID": "Q207079"
+            },
+            {
+                "originalKey": "greywacke",
+                "original_value": "Greywacke",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greywacke",
+                "Wikidata_ID": "Q917545"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "cow",
+                "original_value": "Cattle",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cattle",
+                "Wikidata_ID": "Q19610691"
+            },
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep milk",
+                "DBpedia_URI": "http://dbpedia.org/resource/Sheep_milk",
+                "Wikidata_ID": "Q2736146"
+            },
+            {
+                "originalKey": "goat",
+                "original_value": "Goat milk",
+                "DBpedia_URI": "http://dbpedia.org/resource/Goat_milk",
+                "Wikidata_ID": "Q1418287"
+            },
+            {
+                "originalKey": "milk",
+                "original_value": "Sheep milk",
+                "DBpedia_URI": "http://dbpedia.org/resource/Sheep_milk",
+                "Wikidata_ID": "Q2736146"
+            },
+            {
+                "originalKey": "pit house",
+                "original_value": "Pit-house",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pit-house",
+                "Wikidata_ID": "Q2340310"
+            },
+            {
+                "originalKey": "tunnel",
+                "original_value": "Tunnel",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tunnel",
+                "Wikidata_ID": "Q44377"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "milk",
+                "original_value": "Milk",
+                "DBpedia_URI": "http://dbpedia.org/resource/Milk",
+                "Wikidata_ID": "Q8495"
+            },
+            {
+                "originalKey": "online marketing platform",
+                "original_value": "Online advertising",
+                "DBpedia_URI": "http://dbpedia.org/resource/Online_advertising",
+                "Wikidata_ID": "Q624902"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "milk",
+                "original_value": "Milk",
+                "DBpedia_URI": "http://dbpedia.org/resource/Milk",
+                "Wikidata_ID": "Q8495"
+            },
+            {
+                "originalKey": "extreme weather",
+                "original_value": "Extreme weather",
+                "DBpedia_URI": "http://dbpedia.org/resource/Extreme_weather",
+                "Wikidata_ID": "Q1277161"
+            },
+            {
+                "originalKey": "drought",
+                "original_value": "Drought",
+                "DBpedia_URI": "http://dbpedia.org/resource/Drought",
+                "Wikidata_ID": "Q43059"
+            },
+            {
+                "originalKey": "alpine pasture",
+                "original_value": "Alpine transhumance",
+                "DBpedia_URI": "http://dbpedia.org/resource/Alpine_transhumance",
+                "Wikidata_ID": "Q14774083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "tunnel",
+                "original_value": "Tunnel",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tunnel",
+                "Wikidata_ID": "Q44377"
+            },
+            {
+                "originalKey": "milk",
+                "original_value": "Milk",
+                "DBpedia_URI": "http://dbpedia.org/resource/Milk",
+                "Wikidata_ID": "Q8495"
+            },
+            {
+                "originalKey": "USA",
+                "original_value": "United States",
+                "DBpedia_URI": "http://dbpedia.org/resource/United_States",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agriculture",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "DBpedia_URI": "http://dbpedia.org/resource/Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "hay milk",
+                "original_value": "Milk",
+                "DBpedia_URI": "http://dbpedia.org/resource/Milk",
+                "Wikidata_ID": "Q8495"
+            }
+        ]
+    }
+]

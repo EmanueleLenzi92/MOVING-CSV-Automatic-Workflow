@@ -1,0 +1,322 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "MOVING",
+                "wikipedia_title": "MOVING (Value Chain)"
+            },
+            {
+                "keyword_in_the_text": "Switzerland",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "keyword_in_the_text": "VC 18 CH1",
+                "wikipedia_title": "VC 18 CH1"
+            },
+            {
+                "keyword_in_the_text": "Alpine tourism",
+                "wikipedia_title": "Alpine tourism"
+            },
+            {
+                "keyword_in_the_text": "hotels",
+                "wikipedia_title": "Hotel"
+            },
+            {
+                "keyword_in_the_text": "restaurants",
+                "wikipedia_title": "Restaurant"
+            },
+            {
+                "keyword_in_the_text": "ski lifts",
+                "wikipedia_title": "Ski lift"
+            },
+            {
+                "keyword_in_the_text": "richer regions",
+                "wikipedia_title": "Economic development"
+            },
+            {
+                "keyword_in_the_text": "less prosperous regions",
+                "wikipedia_title": "Poverty"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            },
+            {
+                "keyword_in_the_text": "mountain chain",
+                "wikipedia_title": "Mountain range"
+            },
+            {
+                "keyword_in_the_text": "mountain landscape",
+                "wikipedia_title": "Landscape"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "size",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "density",
+                "wikipedia_title": "Density"
+            },
+            {
+                "keyword_in_the_text": "change rate",
+                "wikipedia_title": "Demographic change"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "keyword_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "keyword_in_the_text": "regional share",
+                "wikipedia_title": "Regional share"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "keyword_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Population density"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "employment/year [Province]",
+                "wikipedia_title": "Employment by sector in [Province]"
+            },
+            {
+                "keyword_in_the_text": "employment/year [Region]",
+                "wikipedia_title": "Employment by sector in [Region]"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC-systems",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "keyword_in_the_text": "varied",
+                "wikipedia_title": "Variety"
+            },
+            {
+                "keyword_in_the_text": "high impact",
+                "wikipedia_title": "Impact"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "traditional",
+                "wikipedia_title": "Traditional"
+            },
+            {
+                "keyword_in_the_text": "innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "Innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "keyword_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous"
+            },
+            {
+                "keyword_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous"
+            },
+            {
+                "keyword_in_the_text": "Touristic attractions",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "keyword_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "keyword_in_the_text": "Land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "keyword_in_the_text": "Landscape",
+                "wikipedia_title": "Landscape"
+            },
+            {
+                "keyword_in_the_text": "Natural assets",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "keyword_in_the_text": "Social assets",
+                "wikipedia_title": "Society"
+            },
+            {
+                "keyword_in_the_text": "Cultural assets",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "recognize",
+                "wikipedia_title": "Recognition"
+            },
+            {
+                "keyword_in_the_text": "keywords",
+                "wikipedia_title": "Keywords"
+            },
+            {
+                "keyword_in_the_text": "find",
+                "wikipedia_title": "Find"
+            },
+            {
+                "keyword_in_the_text": "exact",
+                "wikipedia_title": "Exact"
+            },
+            {
+                "keyword_in_the_text": "title",
+                "wikipedia_title": "Title"
+            },
+            {
+                "keyword_in_the_text": "corresponding",
+                "wikipedia_title": "Corresponding"
+            },
+            {
+                "keyword_in_the_text": "Wikipedia",
+                "wikipedia_title": "Wikipedia"
+            },
+            {
+                "keyword_in_the_text": "page",
+                "wikipedia_title": "Page"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Other regions",
+                "wikipedia_title": "Regions"
+            },
+            {
+                "keyword_in_the_text": "provide this service",
+                "wikipedia_title": "Service provision"
+            },
+            {
+                "keyword_in_the_text": "high impact on region",
+                "wikipedia_title": "Impact of services on regions"
+            },
+            {
+                "keyword_in_the_text": "same as above",
+                "wikipedia_title": "Service provision"
+            }
+        ]
+    }
+]

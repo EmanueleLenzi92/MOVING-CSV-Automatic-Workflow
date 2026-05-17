@@ -1,0 +1,234 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "keyword_in_the_text": "MOVING",
+                "wikipedia_title": "Moving (company)"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "keyword_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz, Styria"
+            },
+            {
+                "keyword_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "Inhabitants/km2",
+                "wikipedia_title": "Population density"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Gross domestic product per capita"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary",
+                "wikipedia_title": "Primary_sector"
+            },
+            {
+                "keyword_in_the_text": "secondary",
+                "wikipedia_title": "Secondary_sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary",
+                "wikipedia_title": "Tertiary_sector"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "keyword_in_the_text": "Nature Park",
+                "wikipedia_title": "National park"
+            },
+            {
+                "keyword_in_the_text": "Kräuter",
+                "wikipedia_title": "Herbs"
+            },
+            {
+                "keyword_in_the_text": "organic cultivation",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "keyword_in_the_text": "cosmetic products",
+                "wikipedia_title": "Cosmetics"
+            },
+            {
+                "keyword_in_the_text": "wellness products",
+                "wikipedia_title": "Wellness"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "keyword_in_the_text": "Genussregion",
+                "wikipedia_title": "GenussRegion Almenland"
+            },
+            {
+                "keyword_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Agrarmarkt Österreich"
+            },
+            {
+                "keyword_in_the_text": "nature park",
+                "wikipedia_title": "Nature reserve"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Extreme weather conditions",
+                "wikipedia_title": "Extreme weather"
+            },
+            {
+                "keyword_in_the_text": "Climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "keyword_in_the_text": "Vegetation",
+                "wikipedia_title": "Vegetation"
+            },
+            {
+                "keyword_in_the_text": "Cultivation practices",
+                "wikipedia_title": "Agricultural practices"
+            },
+            {
+                "keyword_in_the_text": "Herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "keyword_in_the_text": "Irrigation",
+                "wikipedia_title": "Irrigation"
+            },
+            {
+                "keyword_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous growth theory"
+            },
+            {
+                "keyword_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous variable"
+            },
+            {
+                "keyword_in_the_text": "Value Chain",
+                "wikipedia_title": "Supply chain management"
+            },
+            {
+                "keyword_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "keyword_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "keyword_in_the_text": "Natural and cultural",
+                "wikipedia_title": "Cultural heritage"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Austrian",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "keyword_in_the_text": "mountainous",
+                "wikipedia_title": "Mountainous_region"
+            }
+        ]
+    }
+]

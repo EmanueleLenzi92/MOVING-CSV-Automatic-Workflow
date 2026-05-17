@@ -1,0 +1,315 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Pinus",
+                "original_value": "Pine",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pine",
+                "Wikidata_ID": "Q12024"
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Cooperative",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "SES",
+                "original_value": "SES S.A.",
+                "DBpedia_URI": "http://dbpedia.org/resource/SES_S.A.",
+                "Wikidata_ID": "Q333025"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Bergama",
+                "original_value": "Bergama",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bergama",
+                "Wikidata_ID": "Q18986"
+            },
+            {
+                "originalKey": "İzmir",
+                "original_value": "Occupation of Smyrna",
+                "DBpedia_URI": "http://dbpedia.org/resource/Occupation_of_Smyrna",
+                "Wikidata_ID": "Q2451365"
+            },
+            {
+                "originalKey": "Soil structure",
+                "original_value": "Soil structure",
+                "DBpedia_URI": "http://dbpedia.org/resource/Soil_structure",
+                "Wikidata_ID": "Q889539"
+            },
+            {
+                "originalKey": "peanut",
+                "original_value": "Peanut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Peanut",
+                "Wikidata_ID": "Q37383"
+            },
+            {
+                "originalKey": "granite",
+                "original_value": "Granite",
+                "DBpedia_URI": "http://dbpedia.org/resource/Granite",
+                "Wikidata_ID": "Q41177"
+            },
+            {
+                "originalKey": "gneiss",
+                "original_value": "Gneiss",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gneiss",
+                "Wikidata_ID": "Q166409"
+            },
+            {
+                "originalKey": "pinus pinea",
+                "original_value": "Stone pine",
+                "DBpedia_URI": "http://dbpedia.org/resource/Stone_pine",
+                "Wikidata_ID": "Q106094"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Pinus",
+                "original_value": "Pine",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pine",
+                "Wikidata_ID": "Q12024"
+            },
+            {
+                "originalKey": "Mediterranean climate",
+                "original_value": "Mediterranean climate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Mediterranean_climate",
+                "Wikidata_ID": "Q13996"
+            },
+            {
+                "originalKey": "plateau",
+                "original_value": "Plateau",
+                "DBpedia_URI": "http://dbpedia.org/resource/Plateau",
+                "Wikidata_ID": "Q75520"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "peanut",
+                "original_value": "Peanut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Peanut",
+                "Wikidata_ID": "Q37383"
+            },
+            {
+                "originalKey": "granite",
+                "original_value": "Granite",
+                "DBpedia_URI": "http://dbpedia.org/resource/Granite",
+                "Wikidata_ID": "Q41177"
+            },
+            {
+                "originalKey": "Bergama",
+                "original_value": "Bergama",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bergama",
+                "Wikidata_ID": "Q18986"
+            },
+            {
+                "originalKey": "agriculture",
+                "original_value": "Agriculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Pine nut",
+                "original_value": "Pine nut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pine_nut",
+                "Wikidata_ID": "Q212933"
+            },
+            {
+                "originalKey": "niche market",
+                "original_value": "Niche market",
+                "DBpedia_URI": "http://dbpedia.org/resource/Niche_market",
+                "Wikidata_ID": "Q1758705"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agriculture",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "pine nut",
+                "original_value": "Pine nut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pine_nut",
+                "Wikidata_ID": "Q212933"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Bergama",
+                "original_value": "Bergama",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bergama",
+                "Wikidata_ID": "Q18986"
+            },
+            {
+                "originalKey": "Geographical Indication",
+                "original_value": "Geographical indication",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indication",
+                "Wikidata_ID": "Q325668"
+            },
+            {
+                "originalKey": "Turkish",
+                "original_value": "Turkish language",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkish_language",
+                "Wikidata_ID": "Q256"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "plateau",
+                "original_value": "Plateau",
+                "DBpedia_URI": "http://dbpedia.org/resource/Plateau",
+                "Wikidata_ID": "Q75520"
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Cooperative",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "keywords": []
+    }
+]

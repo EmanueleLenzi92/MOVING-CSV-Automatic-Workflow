@@ -1,0 +1,451 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "TURKEY",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "migratory beekeepers",
+                "original_value": "Migratory Beekeeping",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Valley Corporation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Menteşe Mountains",
+                "original_value": "Menteşe Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Ula",
+                "original_value": "Ula",
+                "Wikidata_ID": "Q22151638"
+            },
+            {
+                "originalKey": "Mediterranean climate",
+                "original_value": "Mediterranean climate",
+                "Wikidata_ID": "Q13996"
+            },
+            {
+                "originalKey": "Muğla province",
+                "original_value": "Muğla Province",
+                "Wikidata_ID": "Q123934"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "tourist destinations",
+                "original_value": "Tourist destinations in Turkey",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional Population Density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "average per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "List of hotels in the United States",
+                "Wikidata_ID": "Q6623780"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism in the United States",
+                "Wikidata_ID": "Q2986423"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit (administrative division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regionalism",
+                "Wikidata_ID": "Q811302"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture in the United States",
+                "Wikidata_ID": "Q783770"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement (urban area)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces in [Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "List of regions in [Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "pine honey",
+                "original_value": "Pine Honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Geographical Indication",
+                "original_value": "Geographical indication",
+                "Wikidata_ID": "Q325668"
+            },
+            {
+                "originalKey": "Beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Agriculture",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Pine honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Muğla Province",
+                "original_value": "Muğla Province",
+                "Wikidata_ID": "Q123934"
+            },
+            {
+                "originalKey": "forests",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "pine honey production",
+                "original_value": "Pine honey production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "forest villages",
+                "original_value": "Village",
+                "Wikidata_ID": "Q532"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Honey yield",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "climatic conditions",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "migratory beekeeper",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "young people",
+                "original_value": "Youth",
+                "Wikidata_ID": "Q190007"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "Challenge (general)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "original_value": "Future of beekeeping",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Organic",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Rainforest Alliance certified tea",
+                "original_value": "Rainforest Alliance certification",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural resources",
+                "Wikidata_ID": "Q188460"
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "90-92%",
+                "original_value": "Honey production in Turkey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Vitamin C",
+                "Wikidata_ID": "Q199678"
+            },
+            {
+                "originalKey": "MRLs",
+                "original_value": "Maximum Residue Limits",
+                "Wikidata_ID": "Q3241116"
+            },
+            {
+                "originalKey": "Switzerland",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "France",
+                "original_value": "France",
+                "Wikidata_ID": "Q142"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Hungary",
+                "original_value": "Hungary",
+                "Wikidata_ID": "Q28"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "North Macedonia",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "Romania",
+                "original_value": "Romania",
+                "Wikidata_ID": "Q218"
+            },
+            {
+                "originalKey": "Serbia",
+                "original_value": "Serbia",
+                "Wikidata_ID": "Q403"
+            },
+            {
+                "originalKey": "Slovakia",
+                "original_value": "Slovakia",
+                "Wikidata_ID": "Q214"
+            },
+            {
+                "originalKey": "Spain",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            }
+        ]
+    }
+]

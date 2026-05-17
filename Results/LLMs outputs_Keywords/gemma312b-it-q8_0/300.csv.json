@@ -1,0 +1,386 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "MOVING",
+                "wikipedia_title": "Moving"
+            },
+            {
+                "keyword_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Scandinavia"
+            },
+            {
+                "keyword_in_the_text": "Barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "keyword_in_the_text": "Roros",
+                "wikipedia_title": "Røros"
+            },
+            {
+                "keyword_in_the_text": "fungui",
+                "wikipedia_title": "Fungi"
+            },
+            {
+                "keyword_in_the_text": "pesticide",
+                "wikipedia_title": "Pesticide"
+            },
+            {
+                "keyword_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rørosmat"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "keyword_in_the_text": "Scandes",
+                "wikipedia_title": "Scandes"
+            },
+            {
+                "keyword_in_the_text": "Tynset",
+                "wikipedia_title": "Tynset"
+            },
+            {
+                "keyword_in_the_text": "Østerdalen",
+                "wikipedia_title": "Østerdalen"
+            },
+            {
+                "keyword_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "keyword_in_the_text": "forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "keyword_in_the_text": "skiing",
+                "wikipedia_title": "Skiing"
+            },
+            {
+                "keyword_in_the_text": "fishing",
+                "wikipedia_title": "Fishing"
+            },
+            {
+                "keyword_in_the_text": "hiking",
+                "wikipedia_title": "Hiking"
+            },
+            {
+                "keyword_in_the_text": "hunting",
+                "wikipedia_title": "Hunting"
+            },
+            {
+                "keyword_in_the_text": "climate",
+                "wikipedia_title": "Climate"
+            },
+            {
+                "keyword_in_the_text": "subarctic climate",
+                "wikipedia_title": "Subarctic climate"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth"
+            },
+            {
+                "keyword_in_the_text": "regional",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "GVA",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "Hotel room"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Farm"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "employment",
+                "wikipedia_title": "Employment"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Ancient crop",
+                "wikipedia_title": "Ancient grains"
+            },
+            {
+                "keyword_in_the_text": "grain",
+                "wikipedia_title": "Grain"
+            },
+            {
+                "keyword_in_the_text": "flour",
+                "wikipedia_title": "Flour"
+            },
+            {
+                "keyword_in_the_text": "farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "keyword_in_the_text": "e-commerce",
+                "wikipedia_title": "E-commerce"
+            },
+            {
+                "keyword_in_the_text": "markets",
+                "wikipedia_title": "Market"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "keyword_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "keyword_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rørosmat"
+            },
+            {
+                "keyword_in_the_text": "stone mill",
+                "wikipedia_title": "Mill"
+            },
+            {
+                "keyword_in_the_text": "traditional techniques",
+                "wikipedia_title": "Traditional skills"
+            },
+            {
+                "keyword_in_the_text": "masl",
+                "wikipedia_title": "Altitude"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "growing techniques",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "keyword_in_the_text": "fertilizers",
+                "wikipedia_title": "Fertilizer"
+            },
+            {
+                "keyword_in_the_text": "pesticides",
+                "wikipedia_title": "Pesticide"
+            },
+            {
+                "keyword_in_the_text": "barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "keyword_in_the_text": "wheat",
+                "wikipedia_title": "Wheat"
+            },
+            {
+                "keyword_in_the_text": "Climate Change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "keyword_in_the_text": "plant diseases",
+                "wikipedia_title": "Plant pathology"
+            },
+            {
+                "keyword_in_the_text": "pest",
+                "wikipedia_title": "Pest"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "Traditional",
+                "wikipedia_title": "Tradition"
+            },
+            {
+                "keyword_in_the_text": "Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous variable"
+            },
+            {
+                "keyword_in_the_text": "Rorosmat",
+                "wikipedia_title": "Røros"
+            },
+            {
+                "keyword_in_the_text": "e-commerce",
+                "wikipedia_title": "E-commerce"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "keyword_in_the_text": "social",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "keyword_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Products",
+                "wikipedia_title": "Product"
+            },
+            {
+                "keyword_in_the_text": "mountain regions",
+                "wikipedia_title": "Mountain range"
+            },
+            {
+                "keyword_in_the_text": "quality",
+                "wikipedia_title": "Quality"
+            },
+            {
+                "keyword_in_the_text": "taste",
+                "wikipedia_title": "Taste"
+            },
+            {
+                "keyword_in_the_text": "customers",
+                "wikipedia_title": "Customer"
+            }
+        ]
+    }
+]

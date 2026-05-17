@@ -1,0 +1,601 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING reference member state",
+                "original_value": "Moving (business model)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "economic crisis of 2008-2016",
+                "original_value": "Economic Crisis of Greece (2008–2016)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "juice",
+                "original_value": "Aloe vera juice",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "gel",
+                "original_value": "Aloe vera gel",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cosmetics",
+                "original_value": "Cosmetics industry",
+                "Wikidata_ID": "Q12752882"
+            },
+            {
+                "originalKey": "nutraceuticals",
+                "original_value": "Nutraceuticals",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "research",
+                "original_value": "Research and development",
+                "Wikidata_ID": "Q276099"
+            },
+            {
+                "originalKey": "processing methods",
+                "original_value": "Processing techniques",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "local diet",
+                "original_value": "Traditional Greek cuisine",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourist sector",
+                "original_value": "Tourism industry",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "distribution of the leaves",
+                "original_value": "Distribution channels",
+                "Wikidata_ID": "Q867147"
+            },
+            {
+                "originalKey": "leaf-processing units",
+                "original_value": "Aloe vera processing",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "seasonality in production",
+                "original_value": "Seasonal fluctuations",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "quality certification",
+                "original_value": "Quality control",
+                "Wikidata_ID": "Q827792"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "original_value": "Minoan Land",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cretan Diet Festival",
+                "original_value": "Cretan Diet Festival",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Dikti Mountains",
+                "original_value": "Dikti Mountains",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "VIANNOS",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "Dicte",
+                "original_value": "Dikti/Dicte",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pine",
+                "original_value": "Pine tree",
+                "Wikidata_ID": "Q12024"
+            },
+            {
+                "originalKey": "Kermes oak",
+                "original_value": "Kermes Oak",
+                "Wikidata_ID": "Q158178"
+            },
+            {
+                "originalKey": "cypress",
+                "original_value": "Cypress",
+                "Wikidata_ID": "Q14169641"
+            },
+            {
+                "originalKey": " Holm oak",
+                "original_value": "Holm Oak",
+                "Wikidata_ID": "Q104552567"
+            },
+            {
+                "originalKey": "Cretan Maple",
+                "original_value": "Cretan Maple",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional Population Density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "average per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "List of hotels in the United States",
+                "Wikidata_ID": "Q6623780"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture in the United States",
+                "Wikidata_ID": "Q783770"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in [Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in [Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Dikti mountain landscape",
+                "original_value": "Dikti Mountains",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "rural development",
+                "original_value": "Rural Development",
+                "Wikidata_ID": "Q3045473"
+            },
+            {
+                "originalKey": "Drought tolerant",
+                "original_value": "Drought tolerance",
+                "Wikidata_ID": "Q12142810"
+            },
+            {
+                "originalKey": "nutraceutical products",
+                "original_value": "Nutraceuticals",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "pharmaceutical products",
+                "original_value": "Pharmaceuticals",
+                "Wikidata_ID": "Q12140"
+            },
+            {
+                "originalKey": "processing and marketing companies",
+                "original_value": "Business",
+                "Wikidata_ID": "Q4830453"
+            },
+            {
+                "originalKey": "organic fertilization",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Aloe Vera's adaptation",
+                "original_value": "Adaptation (biology)",
+                "Wikidata_ID": "Q483921"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "North America",
+                "original_value": "North America",
+                "Wikidata_ID": "Q49"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            },
+            {
+                "originalKey": "PanCretan Network",
+                "original_value": "Pan-Cretan Network",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "agricultural sector",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "olives",
+                "original_value": "Olive cultivation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "manufacturing methods",
+                "original_value": "Manufacturing process",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "processing facilities",
+                "original_value": "Industrial processing",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "food/cosmetic industries",
+                "original_value": "Food and cosmetic industry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "e-commerce",
+                "original_value": "E-commerce",
+                "Wikidata_ID": "Q484847"
+            },
+            {
+                "originalKey": "export pathways",
+                "original_value": "International trade",
+                "Wikidata_ID": "Q178803"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "risk of extinction of rare plants",
+                "original_value": "Endemic species",
+                "Wikidata_ID": "Q123452"
+            },
+            {
+                "originalKey": "leaf-processing units",
+                "original_value": "Industrial processing",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "quality checks",
+                "original_value": "Quality control",
+                "Wikidata_ID": "Q827792"
+            },
+            {
+                "originalKey": "reduced harvests",
+                "original_value": "Crop yield",
+                "Wikidata_ID": "Q889514"
+            },
+            {
+                "originalKey": "adulteration of the final products",
+                "original_value": "Product adulteration",
+                "Wikidata_ID": "Q1658591"
+            },
+            {
+                "originalKey": "competition of land use",
+                "original_value": "Land use competition",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "investment programms",
+                "original_value": "Investment programs",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "farmerns",
+                "original_value": "Farmers",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "originalKey": "crisis-ravaged",
+                "original_value": "Economic crisis",
+                "Wikidata_ID": "Q114380"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous Innovation",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Exogenous Innovation",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Organic Farming",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Contract Farming",
+                "original_value": "Contract farming",
+                "Wikidata_ID": "Q5165669"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Nutritional Supplements",
+                "original_value": "Nutritional supplements",
+                "Wikidata_ID": "Q645858"
+            },
+            {
+                "originalKey": "Herbal Cosmetics",
+                "original_value": "Herbal cosmetics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Green Economy",
+                "original_value": "Green economy",
+                "Wikidata_ID": "Q598188"
+            },
+            {
+                "originalKey": "Natural Fertilizers",
+                "original_value": "Fertilizer",
+                "Wikidata_ID": "Q83323"
+            },
+            {
+                "originalKey": "Medical Institutions",
+                "original_value": "Medical institutions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New Products",
+                "original_value": "Product development",
+                "Wikidata_ID": "Q1395034"
+            },
+            {
+                "originalKey": "New Processes",
+                "original_value": "Process innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New Marketing Strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Cropland",
+                "Wikidata_ID": "Q3395383"
+            },
+            {
+                "originalKey": "Natural Land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "MRLs",
+                "original_value": "List of medicinal and recreational plants",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "European consumers",
+                "original_value": "Consumers of Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Nutritional supplements",
+                "original_value": "Dietary supplements",
+                "Wikidata_ID": "Q645858"
+            },
+            {
+                "originalKey": "Health products",
+                "original_value": "Health products",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

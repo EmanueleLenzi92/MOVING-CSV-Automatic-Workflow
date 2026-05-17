@@ -1,0 +1,472 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greece",
+                "Wikidata_ID": "Q194327"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aloe_vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "gel",
+                "original_value": "Gel",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gel",
+                "Wikidata_ID": "Q185744"
+            },
+            {
+                "originalKey": "cosmetics",
+                "original_value": "Cosmetics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "nutraceuticals",
+                "original_value": "Nutraceutical",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "Minoan",
+                "original_value": "Minoan civilization",
+                "DBpedia_URI": "http://dbpedia.org/resource/Minoan_civilization",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "Vera",
+                "original_value": "Vera Duckworth",
+                "DBpedia_URI": "http://dbpedia.org/resource/Vera_Duckworth",
+                "Wikidata_ID": "Q7920768"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Dikti Mountains",
+                "original_value": "Dikti",
+                "DBpedia_URI": "http://dbpedia.org/resource/Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "VIANNOS",
+                "original_value": "Viannos",
+                "DBpedia_URI": "http://dbpedia.org/resource/Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "mountain range",
+                "original_value": "Mountain range",
+                "DBpedia_URI": "http://dbpedia.org/resource/Mountain_range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "Pinus",
+                "original_value": "Pine",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pine",
+                "Wikidata_ID": "Q12024"
+            },
+            {
+                "originalKey": "Quercus",
+                "original_value": "Oak",
+                "DBpedia_URI": "http://dbpedia.org/resource/Oak",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "Cupressus",
+                "original_value": "Cupressus",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cupressus",
+                "Wikidata_ID": "Q146911"
+            },
+            {
+                "originalKey": "Holm Oaks",
+                "original_value": "Quercus ilex",
+                "DBpedia_URI": "http://dbpedia.org/resource/Quercus_ilex",
+                "Wikidata_ID": "Q218155"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "Acer",
+                "original_value": "Maple",
+                "DBpedia_URI": "http://dbpedia.org/resource/Maple",
+                "Wikidata_ID": "Q156944"
+            },
+            {
+                "originalKey": "Dicte",
+                "original_value": "Dikti",
+                "DBpedia_URI": "http://dbpedia.org/resource/Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "aloe vera",
+                "original_value": "Aloe vera",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aloe_vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aloe_vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "drought",
+                "original_value": "Drought",
+                "DBpedia_URI": "http://dbpedia.org/resource/Drought",
+                "Wikidata_ID": "Q43059"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "nutraceutical",
+                "original_value": "Nutraceutical",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "pharmaceutical",
+                "original_value": "Medication",
+                "DBpedia_URI": "http://dbpedia.org/resource/Medication",
+                "Wikidata_ID": "Q12140"
+            },
+            {
+                "originalKey": "medicinal plant",
+                "original_value": "Medicinal plants",
+                "DBpedia_URI": "http://dbpedia.org/resource/Medicinal_plants",
+                "Wikidata_ID": "Q188840"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greece",
+                "Wikidata_ID": "Q194327"
+            },
+            {
+                "originalKey": "Vera",
+                "original_value": "Vera Duckworth",
+                "DBpedia_URI": "http://dbpedia.org/resource/Vera_Duckworth",
+                "Wikidata_ID": "Q7920768"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "DBpedia_URI": "http://dbpedia.org/resource/Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "fertilization",
+                "original_value": "Fertilizer",
+                "DBpedia_URI": "http://dbpedia.org/resource/Fertilizer",
+                "Wikidata_ID": "Q83323"
+            },
+            {
+                "originalKey": "aloe",
+                "original_value": "Aloe",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aloe",
+                "Wikidata_ID": "Q127134"
+            },
+            {
+                "originalKey": "North America",
+                "original_value": "North America",
+                "DBpedia_URI": "http://dbpedia.org/resource/North_America",
+                "Wikidata_ID": "Q49"
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Agricultural cooperative",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agricultural_cooperative",
+                "Wikidata_ID": "Q2996615"
+            },
+            {
+                "originalKey": "Minoan",
+                "original_value": "Minoan civilization",
+                "DBpedia_URI": "http://dbpedia.org/resource/Minoan_civilization",
+                "Wikidata_ID": "Q134178"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Vera",
+                "original_value": "Vera Duckworth",
+                "DBpedia_URI": "http://dbpedia.org/resource/Vera_Duckworth",
+                "Wikidata_ID": "Q7920768"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aloe_vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "e-commerce",
+                "original_value": "E-commerce",
+                "DBpedia_URI": "http://dbpedia.org/resource/E-commerce",
+                "Wikidata_ID": "Q484847"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "flora",
+                "original_value": "Flora",
+                "DBpedia_URI": "http://dbpedia.org/resource/Flora",
+                "Wikidata_ID": "Q756"
+            },
+            {
+                "originalKey": "endemic",
+                "original_value": "Endemism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Endemism",
+                "Wikidata_ID": "Q123452"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "DBpedia_URI": "http://dbpedia.org/resource/Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "supply chain",
+                "original_value": "Supply chain",
+                "DBpedia_URI": "http://dbpedia.org/resource/Supply_chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "Vera",
+                "original_value": "Vera Duckworth",
+                "DBpedia_URI": "http://dbpedia.org/resource/Vera_Duckworth",
+                "Wikidata_ID": "Q7920768"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aloe_vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Vera",
+                "original_value": "Vera Duckworth",
+                "DBpedia_URI": "http://dbpedia.org/resource/Vera_Duckworth",
+                "Wikidata_ID": "Q7920768"
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Agricultural cooperative",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agricultural_cooperative",
+                "Wikidata_ID": "Q2996615"
+            },
+            {
+                "originalKey": "Minoan",
+                "original_value": "Minoan civilization",
+                "DBpedia_URI": "http://dbpedia.org/resource/Minoan_civilization",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Organic farming",
+                "DBpedia_URI": "http://dbpedia.org/resource/Organic_farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "cosmetics",
+                "original_value": "Cosmetics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "green economy",
+                "original_value": "Green economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Green_economy",
+                "Wikidata_ID": "Q598188"
+            },
+            {
+                "originalKey": "aromatic",
+                "original_value": "Essential oil",
+                "DBpedia_URI": "http://dbpedia.org/resource/Essential_oil",
+                "Wikidata_ID": "Q170885"
+            },
+            {
+                "originalKey": "pharmaceutical",
+                "original_value": "Medication",
+                "DBpedia_URI": "http://dbpedia.org/resource/Medication",
+                "Wikidata_ID": "Q12140"
+            },
+            {
+                "originalKey": "nutraceuticals",
+                "original_value": "Nutraceutical",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Vera",
+                "original_value": "Vera Duckworth",
+                "DBpedia_URI": "http://dbpedia.org/resource/Vera_Duckworth",
+                "Wikidata_ID": "Q7920768"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "DBpedia_URI": "http://dbpedia.org/resource/Andalusia",
+                "Wikidata_ID": "Q4753502"
+            },
+            {
+                "originalKey": "Spain",
+                "original_value": "Spain",
+                "DBpedia_URI": "http://dbpedia.org/resource/Spain",
+                "Wikidata_ID": "Q29"
+            }
+        ]
+    }
+]

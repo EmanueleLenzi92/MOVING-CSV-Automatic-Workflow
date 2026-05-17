@@ -1,0 +1,381 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Moving (programming)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "TURKEY",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Çay-Kur",
+                "original_value": "Çaykur",
+                "Wikidata_ID": "Q6021512"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Eastern Black Sea Mountains",
+                "original_value": "Eastern Black Sea Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Güneysu",
+                "original_value": "Güneysu",
+                "Wikidata_ID": "Q2671161"
+            },
+            {
+                "originalKey": "Rize Province",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Black Sea Region",
+                "original_value": "Black Sea Region",
+                "Wikidata_ID": "Q155533"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize",
+                "Wikidata_ID": "Q201101"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Rainforest Alliance",
+                "original_value": "Rainforest Alliance",
+                "Wikidata_ID": "Q2034373"
+            },
+            {
+                "originalKey": "Organic tea production",
+                "original_value": "Organic tea",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sustainable production",
+                "original_value": "Sustainable agriculture",
+                "Wikidata_ID": "Q2751054"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Geological",
+                "original_value": "Geology",
+                "Wikidata_ID": "Q1069"
+            },
+            {
+                "originalKey": "Climatic",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize_Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Mountains",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "original_value": "Turkish_Patent_and_Trademark_Office",
+                "Wikidata_ID": "Q7855305"
+            },
+            {
+                "originalKey": "Tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "Turkish culture",
+                "original_value": "Culture_of_Turkey",
+                "Wikidata_ID": "Q1082380"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Turkish tradition",
+                "original_value": "Culture_of_Turkey",
+                "Wikidata_ID": "Q1082380"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "tea plantations",
+                "original_value": "Tea plantation",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "laborers",
+                "original_value": "Labor",
+                "Wikidata_ID": "Q6120474"
+            },
+            {
+                "originalKey": "logistics",
+                "original_value": "Logistics",
+                "Wikidata_ID": "Q177777"
+            },
+            {
+                "originalKey": "climatic change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Cropland",
+                "Wikidata_ID": "Q3395383"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Production",
+                "Wikidata_ID": "Q663143"
+            }
+        ]
+    }
+]

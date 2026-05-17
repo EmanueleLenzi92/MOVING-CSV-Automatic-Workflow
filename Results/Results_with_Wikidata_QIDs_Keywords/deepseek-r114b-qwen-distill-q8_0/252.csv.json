@@ -1,0 +1,506 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "Deer hunting",
+                "original_value": "Deer Hunting",
+                "Wikidata_ID": "Q1025479"
+            },
+            {
+                "originalKey": "stalking",
+                "original_value": "Stalking (hunting)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Highlands and Islands of Scotland",
+                "original_value": "Highlands and Islands",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "mountain hares",
+                "original_value": "Mountain Hare",
+                "Wikidata_ID": "Q180035"
+            },
+            {
+                "originalKey": "heather/ gorse",
+                "original_value": "Heather",
+                "Wikidata_ID": "Q15041366"
+            },
+            {
+                "originalKey": "heather/ gorse",
+                "original_value": "Gorse",
+                "Wikidata_ID": "Q393278"
+            },
+            {
+                "originalKey": "stag",
+                "original_value": "Stag",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "roe and fallow bucks",
+                "original_value": "Roe Deer",
+                "Wikidata_ID": "Q122069"
+            },
+            {
+                "originalKey": "roe and fallow bucks",
+                "original_value": "Fallow Deer",
+                "Wikidata_ID": "Q912336"
+            },
+            {
+                "originalKey": "Perth and Kinross (LAU1)",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Blair Atholl Estates",
+                "original_value": "Blair Atholl Estates",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Glen Lyon",
+                "original_value": "Glen Lyon",
+                "Wikidata_ID": "Q2451934"
+            },
+            {
+                "originalKey": "venison meat",
+                "original_value": "Venison",
+                "Wikidata_ID": "Q2296872"
+            },
+            {
+                "originalKey": "www.highlandgame.com",
+                "original_value": "Highland Game",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Highlands and Islands (RR9)",
+                "original_value": "Highlands and Islands",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Eastern Scotland (NUTS2)",
+                "original_value": "Eastern Scotland",
+                "Wikidata_ID": "Q4391979"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Tay",
+                "original_value": "River Tay",
+                "Wikidata_ID": "Q19719"
+            },
+            {
+                "originalKey": "Earn",
+                "original_value": "River Earn",
+                "Wikidata_ID": "Q1277544"
+            },
+            {
+                "originalKey": "Perth",
+                "original_value": "Perth",
+                "Wikidata_ID": "Q3183"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "size of the area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Demographic trends",
+                "Wikidata_ID": "Q381763"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "original_value": "Demographic trends",
+                "Wikidata_ID": "Q381763"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places (BPs)",
+                "original_value": "Bed and breakfast",
+                "Wikidata_ID": "Q367914"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Local Administrative Unit (LAU)",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional share",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Sporting game",
+                "original_value": "Game",
+                "Wikidata_ID": "Q11410"
+            },
+            {
+                "originalKey": "Deer stalking",
+                "original_value": "Deer Stalking",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vension meat",
+                "original_value": "Venison",
+                "Wikidata_ID": "Q2296872"
+            },
+            {
+                "originalKey": "Atholl estate",
+                "original_value": "Atholl Estate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Blair Atholl and Glen Lyon estate",
+                "original_value": "Blair Atholl and Glen Lyon Estate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Natural assets",
+                "original_value": "Natural Capital",
+                "Wikidata_ID": "Q1540268"
+            },
+            {
+                "originalKey": "Social assets",
+                "original_value": "Social Capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "Cultural assets",
+                "original_value": "Cultural Capital",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "wild land",
+                "original_value": "Wildland",
+                "Wikidata_ID": "Q911871"
+            },
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "grouse",
+                "original_value": "Grouse",
+                "Wikidata_ID": "Q201240"
+            },
+            {
+                "originalKey": "local communities",
+                "original_value": "Community",
+                "Wikidata_ID": "Q177634"
+            },
+            {
+                "originalKey": "hikers",
+                "original_value": "Hiking",
+                "Wikidata_ID": "Q12014035"
+            },
+            {
+                "originalKey": "wildlife conservation organisations",
+                "original_value": "Wildlife conservation organization",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "traditional knowledge",
+                "original_value": "Traditional knowledge",
+                "Wikidata_ID": "Q1428168"
+            },
+            {
+                "originalKey": "sporting game",
+                "original_value": "Game (sport)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ponies",
+                "original_value": "Pony",
+                "Wikidata_ID": "Q188828"
+            },
+            {
+                "originalKey": "mountain",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "hillwalking",
+                "original_value": "Hillwalking",
+                "Wikidata_ID": "Q11347618"
+            },
+            {
+                "originalKey": "international tourists",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "COVID",
+                "original_value": "COVID-19",
+                "Wikidata_ID": "Q84263196"
+            },
+            {
+                "originalKey": "culling of mountain hares",
+                "original_value": "Mountain Hare",
+                "Wikidata_ID": "Q180035"
+            },
+            {
+                "originalKey": "gorse",
+                "original_value": "Gorse",
+                "Wikidata_ID": "Q393278"
+            },
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "raptors",
+                "original_value": "Raptor",
+                "Wikidata_ID": "Q137956"
+            },
+            {
+                "originalKey": "Brexit",
+                "original_value": "Brexit",
+                "Wikidata_ID": "Q7888194"
+            },
+            {
+                "originalKey": "grouse shooting",
+                "original_value": "Grouse",
+                "Wikidata_ID": "Q201240"
+            },
+            {
+                "originalKey": "venison",
+                "original_value": "Venison",
+                "Wikidata_ID": "Q2296872"
+            },
+            {
+                "originalKey": "overgrazing",
+                "original_value": "Overgrazing",
+                "Wikidata_ID": "Q334487"
+            },
+            {
+                "originalKey": "land management practices",
+                "original_value": "Land management",
+                "Wikidata_ID": "Q2001056"
+            },
+            {
+                "originalKey": "population numbers of other birds",
+                "original_value": "Bird population",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "methods of counting deer numbers",
+                "original_value": "Population estimation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "drones",
+                "original_value": "Unmanned aerial vehicle",
+                "Wikidata_ID": "Q484000"
+            },
+            {
+                "originalKey": "camera traps",
+                "original_value": "Camera trap",
+                "Wikidata_ID": "Q1723004"
+            },
+            {
+                "originalKey": "GPS collars",
+                "original_value": "Global Positioning System (GPS) tracking",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "thermal imaging",
+                "original_value": "Thermal imaging",
+                "Wikidata_ID": "Q624587"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Natural landscape",
+                "Wikidata_ID": "Q1286517"
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "Natural capital",
+                "Wikidata_ID": "Q1540268"
+            },
+            {
+                "originalKey": "Social and Cultural",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Deer Stalking",
+                "original_value": "Deer Stalking",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Grouse Shooting",
+                "original_value": "Grouse shooting",
+                "Wikidata_ID": "Q5307967"
+            }
+        ]
+    }
+]

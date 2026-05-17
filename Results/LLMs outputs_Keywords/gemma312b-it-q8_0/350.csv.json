@@ -1,0 +1,374 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "keyword_in_the_text": "Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierra de Cazorla, Segura y Las Villas Natural Park"
+            },
+            {
+                "keyword_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "keyword_in_the_text": "Sierra de Castril",
+                "wikipedia_title": "Sierra de Castril"
+            },
+            {
+                "keyword_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "keyword_in_the_text": "Livestock",
+                "wikipedia_title": "Livestock"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Betic System",
+                "wikipedia_title": "Betic System"
+            },
+            {
+                "keyword_in_the_text": "Castril",
+                "wikipedia_title": "Castril"
+            },
+            {
+                "keyword_in_the_text": "transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "keyword_in_the_text": "livestock",
+                "wikipedia_title": "Livestock"
+            },
+            {
+                "keyword_in_the_text": "Natura 2000 Network",
+                "wikipedia_title": "Natura 2000 network"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth"
+            },
+            {
+                "keyword_in_the_text": "regional",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "GVA",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "Primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "Secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "Tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "EUR",
+                "wikipedia_title": "Euro"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "Hotel room"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Farm"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "employment",
+                "wikipedia_title": "Employment"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "keyword_in_the_text": "Pastoralism",
+                "wikipedia_title": "Pastoralism"
+            },
+            {
+                "keyword_in_the_text": "Mediterranean",
+                "wikipedia_title": "Mediterranean"
+            },
+            {
+                "keyword_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "keyword_in_the_text": "Spain",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "keyword_in_the_text": "UNESCO",
+                "wikipedia_title": "UNESCO"
+            },
+            {
+                "keyword_in_the_text": "Representative List of the Intangible Cultural Heritage of Humanity",
+                "wikipedia_title": "Representative List of the Intangible Cultural Heritage of Humanity"
+            },
+            {
+                "keyword_in_the_text": "Livestock",
+                "wikipedia_title": "Livestock"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "livestock transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "keyword_in_the_text": "sheeps",
+                "wikipedia_title": "Sheep"
+            },
+            {
+                "keyword_in_the_text": "goats",
+                "wikipedia_title": "Goat"
+            },
+            {
+                "keyword_in_the_text": "cows",
+                "wikipedia_title": "Cattle"
+            },
+            {
+                "keyword_in_the_text": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierra de Cazorla, Segura y Las Villas Natural Park"
+            },
+            {
+                "keyword_in_the_text": "Jaén",
+                "wikipedia_title": "Jaén"
+            },
+            {
+                "keyword_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "keyword_in_the_text": "Sierra Morena",
+                "wikipedia_title": "Sierra Morena"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "keyword_in_the_text": "Livestock",
+                "wikipedia_title": "Livestock"
+            },
+            {
+                "keyword_in_the_text": "Shepherds",
+                "wikipedia_title": "Shepherd"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous (economics)"
+            },
+            {
+                "keyword_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous variable"
+            },
+            {
+                "keyword_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "keyword_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "keyword_in_the_text": "Social",
+                "wikipedia_title": "Social"
+            },
+            {
+                "keyword_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Spanish regions",
+                "wikipedia_title": "Autonomous communities of Spain"
+            },
+            {
+                "keyword_in_the_text": "provinces",
+                "wikipedia_title": "List of provinces of Spain"
+            },
+            {
+                "keyword_in_the_text": "transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "keyword_in_the_text": "Soria",
+                "wikipedia_title": "Soria"
+            },
+            {
+                "keyword_in_the_text": "Cuenca",
+                "wikipedia_title": "Cuenca"
+            },
+            {
+                "keyword_in_the_text": "La Rioja",
+                "wikipedia_title": "La Rioja"
+            },
+            {
+                "keyword_in_the_text": "Andalusia",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "keyword_in_the_text": "Jaén",
+                "wikipedia_title": "Jaén"
+            },
+            {
+                "keyword_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "keyword_in_the_text": "Sierra Morena",
+                "wikipedia_title": "Sierra Morena"
+            },
+            {
+                "keyword_in_the_text": "Sierra Nevada",
+                "wikipedia_title": "Sierra Nevada"
+            },
+            {
+                "keyword_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "keyword_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "keyword_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    }
+]

@@ -1,0 +1,406 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "keyword_in_the_text": "ALMO",
+                "wikipedia_title": "Almo (beef)"
+            },
+            {
+                "keyword_in_the_text": "ÖPUL",
+                "wikipedia_title": "Austrian Program for Environmentally Sound Agriculture"
+            },
+            {
+                "keyword_in_the_text": "Urlaub am Bauernhof",
+                "wikipedia_title": "Farm stay"
+            },
+            {
+                "keyword_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Agrarmarkt Austria"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "keyword_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz, Styria"
+            },
+            {
+                "keyword_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "keyword_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "keyword_in_the_text": "limestone",
+                "wikipedia_title": "Limestone"
+            },
+            {
+                "keyword_in_the_text": "phyllite",
+                "wikipedia_title": "Phyllite"
+            },
+            {
+                "keyword_in_the_text": "slate",
+                "wikipedia_title": "Slate"
+            },
+            {
+                "keyword_in_the_text": "greywacke",
+                "wikipedia_title": "Greywacke"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth"
+            },
+            {
+                "keyword_in_the_text": "regional",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "GVA",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "Local government"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "employment",
+                "wikipedia_title": "Employment"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "ALMO",
+                "wikipedia_title": "ALMO (brand)"
+            },
+            {
+                "keyword_in_the_text": "farmers association",
+                "wikipedia_title": "Farmers' association"
+            },
+            {
+                "keyword_in_the_text": "LEADER",
+                "wikipedia_title": "LEADER (rural development)"
+            },
+            {
+                "keyword_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "keyword_in_the_text": "Weiz-Gleisdorf",
+                "wikipedia_title": "Weiz District"
+            },
+            {
+                "keyword_in_the_text": "pasture framing",
+                "wikipedia_title": "Pastoral farming"
+            },
+            {
+                "keyword_in_the_text": "animal welfare",
+                "wikipedia_title": "Animal welfare"
+            },
+            {
+                "keyword_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "keyword_in_the_text": "veterinaries",
+                "wikipedia_title": "Veterinary medicine"
+            },
+            {
+                "keyword_in_the_text": "retailers",
+                "wikipedia_title": "Retail"
+            },
+            {
+                "keyword_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "regional development",
+                "wikipedia_title": "Regional development"
+            },
+            {
+                "keyword_in_the_text": "culture",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "slaughter house",
+                "wikipedia_title": "Slaughterhouse"
+            },
+            {
+                "keyword_in_the_text": "sheep farmers",
+                "wikipedia_title": "Sheep farming"
+            },
+            {
+                "keyword_in_the_text": "pig farmers",
+                "wikipedia_title": "Pig farming"
+            },
+            {
+                "keyword_in_the_text": "butcher",
+                "wikipedia_title": "Butcher"
+            },
+            {
+                "keyword_in_the_text": "regional development",
+                "wikipedia_title": "Regional development"
+            },
+            {
+                "keyword_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "hiking",
+                "wikipedia_title": "Hiking"
+            },
+            {
+                "keyword_in_the_text": "pasture farming",
+                "wikipedia_title": "Pastoral farming"
+            },
+            {
+                "keyword_in_the_text": "regional identity",
+                "wikipedia_title": "Regional identity"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "climate",
+                "wikipedia_title": "Climate"
+            },
+            {
+                "keyword_in_the_text": "drought",
+                "wikipedia_title": "Drought"
+            },
+            {
+                "keyword_in_the_text": "rain",
+                "wikipedia_title": "Rain"
+            },
+            {
+                "keyword_in_the_text": "vegetation",
+                "wikipedia_title": "Vegetation"
+            },
+            {
+                "keyword_in_the_text": "pasture",
+                "wikipedia_title": "Pasture"
+            },
+            {
+                "keyword_in_the_text": "forage",
+                "wikipedia_title": "Forage"
+            },
+            {
+                "keyword_in_the_text": "alpine",
+                "wikipedia_title": "Alpine"
+            },
+            {
+                "keyword_in_the_text": "farms",
+                "wikipedia_title": "Farm"
+            },
+            {
+                "keyword_in_the_text": "income",
+                "wikipedia_title": "Income"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous growth theory"
+            },
+            {
+                "keyword_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous variable"
+            },
+            {
+                "keyword_in_the_text": "social relations",
+                "wikipedia_title": "Social relations"
+            },
+            {
+                "keyword_in_the_text": "regional development",
+                "wikipedia_title": "Regional development"
+            },
+            {
+                "keyword_in_the_text": "LEADER",
+                "wikipedia_title": "LEADER (rural development)"
+            },
+            {
+                "keyword_in_the_text": "pasture farming",
+                "wikipedia_title": "Pastoral farming"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Natural environment"
+            },
+            {
+                "keyword_in_the_text": "social",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "keyword_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            },
+            {
+                "keyword_in_the_text": "System Haberl",
+                "wikipedia_title": "Haberl system"
+            },
+            {
+                "keyword_in_the_text": "marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Lower Austria",
+                "wikipedia_title": "Lower Austria"
+            },
+            {
+                "keyword_in_the_text": "Carinthia",
+                "wikipedia_title": "Carinthia"
+            },
+            {
+                "keyword_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "keyword_in_the_text": "alp oxen",
+                "wikipedia_title": "Ox"
+            },
+            {
+                "keyword_in_the_text": "beef",
+                "wikipedia_title": "Beef"
+            }
+        ]
+    }
+]

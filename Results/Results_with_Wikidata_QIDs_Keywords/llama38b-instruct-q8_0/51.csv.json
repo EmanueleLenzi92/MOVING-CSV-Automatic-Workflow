@@ -1,0 +1,256 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "MOVING",
+                "original_value": "Moving (company)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Herb liquers",
+                "original_value": "Herbal liqueur",
+                "Wikidata_ID": "Q178780"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Giant Mountains",
+                "original_value": "Giant Mountains",
+                "Wikidata_ID": "Q214644"
+            },
+            {
+                "originalKey": "LAU 1 Trutnov",
+                "original_value": "Trutnov District",
+                "Wikidata_ID": "Q517734"
+            },
+            {
+                "originalKey": "NUTS 3 Kralovehradecky",
+                "original_value": "Kralovehradecko Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "National Park",
+                "original_value": "Bohemian Switzerland National Park",
+                "Wikidata_ID": "Q1019768"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Gross domestic product per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary",
+                "original_value": "Tertiary_sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Vodka",
+                "Wikidata_ID": "Q374"
+            },
+            {
+                "originalKey": "herb liquers",
+                "original_value": "Liqueur",
+                "Wikidata_ID": "Q178780"
+            },
+            {
+                "originalKey": "regional product",
+                "original_value": "Regional cuisine",
+                "Wikidata_ID": "Q94951"
+            },
+            {
+                "originalKey": "symbolic assets",
+                "original_value": "Symbolic capital",
+                "Wikidata_ID": "Q1751638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "traditional knowledge",
+                "original_value": "Traditional ecological knowledge",
+                "Wikidata_ID": "Q7832334"
+            },
+            {
+                "originalKey": "cultural traits",
+                "original_value": "Cultural trait",
+                "Wikidata_ID": "Q7552789"
+            },
+            {
+                "originalKey": "symbolic value",
+                "original_value": "Symbolic value",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Herb liquers",
+                "original_value": "Herbal liqueur",
+                "Wikidata_ID": "Q178780"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Valorization",
+                "original_value": "Valuation (finance)",
+                "Wikidata_ID": "Q4008379"
+            },
+            {
+                "originalKey": "Marketing strategy",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Current",
+                "original_value": "Current (business)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional venture capital",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Natural environment",
+                "Wikidata_ID": "Q43619"
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "Local asset",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Virtual_City",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "mountain region",
+                "original_value": "Mountain_region",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

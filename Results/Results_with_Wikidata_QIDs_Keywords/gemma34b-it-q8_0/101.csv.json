@@ -1,0 +1,436 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Moving average",
+                "Wikidata_ID": "Q1130194"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "chestnut",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Farmer",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "originalKey": "local government",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "White Mountains",
+                "original_value": "White Mountains (Crete)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Elos",
+                "original_value": "Elos, Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "chestnut trees",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "pine trees",
+                "original_value": "Pine",
+                "Wikidata_ID": "Q12024"
+            },
+            {
+                "originalKey": "oak trees",
+                "original_value": "Oak",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "cypress",
+                "original_value": "Cypress",
+                "Wikidata_ID": "Q14169641"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Kilometer square",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Income",
+                "Wikidata_ID": "Q1527264"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Industry",
+                "Wikidata_ID": "Q257927"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Services",
+                "Wikidata_ID": "Q232576"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Hotel",
+                "Wikidata_ID": "Q27686"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Chestnut trees",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Chania",
+                "original_value": "Chania",
+                "Wikidata_ID": "Q182299"
+            },
+            {
+                "originalKey": "Cooperatives",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "Olive oil",
+                "original_value": "Olive oil",
+                "Wikidata_ID": "Q93165"
+            },
+            {
+                "originalKey": "Monoculture",
+                "original_value": "Monoculture",
+                "Wikidata_ID": "Q220212"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "forested areas",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "semi forested areas",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "grasslands",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Western White Mountains",
+                "original_value": "White Mountains (New Hampshire)",
+                "Wikidata_ID": "Q1556007"
+            },
+            {
+                "originalKey": "agro-tourism",
+                "original_value": "Agrotourism",
+                "Wikidata_ID": "Q1956672"
+            },
+            {
+                "originalKey": "chestnut",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "social bonds",
+                "original_value": "Social cohesion",
+                "Wikidata_ID": "Q553270"
+            },
+            {
+                "originalKey": "conservation",
+                "original_value": "Conservation",
+                "Wikidata_ID": "Q342041"
+            },
+            {
+                "originalKey": "traditional knowledge",
+                "original_value": "Traditional knowledge",
+                "Wikidata_ID": "Q1428168"
+            },
+            {
+                "originalKey": "chestnut festival",
+                "original_value": "Festival",
+                "Wikidata_ID": "Q132241"
+            },
+            {
+                "originalKey": "cultural associations",
+                "original_value": "Cultural association",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "chestnut trees",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "infections",
+                "original_value": "Plant disease",
+                "Wikidata_ID": "Q2662845"
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Agricultural production",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "economic crisis",
+                "original_value": "Economic crisis",
+                "Wikidata_ID": "Q114380"
+            },
+            {
+                "originalKey": "olive oil trees",
+                "original_value": "Olive tree",
+                "Wikidata_ID": "Q37083"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "chestnuts",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "chestnut trees",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "VCs",
+                "original_value": "Viral cointegration",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "EL531",
+                "original_value": "None found - This appears to be a specific code/identifier and doesn't have a general Wikipedia page.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL525",
+                "original_value": "None found - This appears to be a specific code/identifier and doesn't have a general Wikipedia page.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL612",
+                "original_value": "None found - This appears to be a specific code/identifier and doesn't have a general Wikipedia page.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EL644",
+                "original_value": "None found - This appears to be a specific code/identifier and doesn't have a general Wikipedia page.",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

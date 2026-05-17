@@ -1,0 +1,278 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "keyword_in_the_text": "Herb liquers",
+                "wikipedia_title": "Herbal liqueur"
+            },
+            {
+                "keyword_in_the_text": "farmers markets",
+                "wikipedia_title": "Farmers' market"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Giant Mountains",
+                "wikipedia_title": "Giant Mountains"
+            },
+            {
+                "keyword_in_the_text": "LAU 1 Trutnov",
+                "wikipedia_title": "Trutnov"
+            },
+            {
+                "keyword_in_the_text": "NUTS 3 Kralovehradecky",
+                "wikipedia_title": "Kralovehradecký Region"
+            },
+            {
+                "keyword_in_the_text": "National Park",
+                "wikipedia_title": "Giant Mountains National Park"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "size of the area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Highest altitude"
+            },
+            {
+                "keyword_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Lowest altitude"
+            },
+            {
+                "keyword_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density (Inhabitants/km2)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Demographic trends"
+            },
+            {
+                "keyword_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Demographic trends"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income (EUR/year)",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added (GVA) (EUR million/year)",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total GVA/year",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total GVA/year",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total GVA/year",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "Bed and breakfast"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism accommodation"
+            },
+            {
+                "keyword_in_the_text": "regional share",
+                "wikipedia_title": "Regional statistics"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "keyword_in_the_text": "nearest settlement",
+                "wikipedia_title": "Nearest town or city"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value creation"
+            },
+            {
+                "keyword_in_the_text": "herb liquers",
+                "wikipedia_title": "Herbal liqueur"
+            },
+            {
+                "keyword_in_the_text": "regional product",
+                "wikipedia_title": "Regional product"
+            },
+            {
+                "keyword_in_the_text": "symbolic assets of the region",
+                "wikipedia_title": "Cultural asset"
+            },
+            {
+                "keyword_in_the_text": "mountain regions",
+                "wikipedia_title": "Mountainous regions"
+            },
+            {
+                "keyword_in_the_text": "unique selling proposition",
+                "wikipedia_title": "Unique selling proposition"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "natural assets",
+                "wikipedia_title": "Natural Capital"
+            },
+            {
+                "keyword_in_the_text": "social construction of quality",
+                "wikipedia_title": "Social Constructionism"
+            },
+            {
+                "keyword_in_the_text": "traditional knowledge",
+                "wikipedia_title": "Traditional Knowledge"
+            },
+            {
+                "keyword_in_the_text": "product labels",
+                "wikipedia_title": "Product Labeling"
+            },
+            {
+                "keyword_in_the_text": "cultural traits",
+                "wikipedia_title": "Cultural Trait"
+            },
+            {
+                "keyword_in_the_text": "mountain area",
+                "wikipedia_title": "Mountain"
+            },
+            {
+                "keyword_in_the_text": "symbolic value",
+                "wikipedia_title": "Symbolic Value"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Herb liquers",
+                "wikipedia_title": "Liquor"
+            },
+            {
+                "keyword_in_the_text": "mainstream food markets",
+                "wikipedia_title": "Food market"
+            },
+            {
+                "keyword_in_the_text": "highly competetive",
+                "wikipedia_title": "Market competition"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "valorization of the product",
+                "wikipedia_title": "Product development"
+            },
+            {
+                "keyword_in_the_text": "marketing strategy",
+                "wikipedia_title": "Marketing"
+            },
+            {
+                "keyword_in_the_text": "Current",
+                "wikipedia_title": "Current (business)"
+            },
+            {
+                "keyword_in_the_text": "Traditional",
+                "wikipedia_title": "Traditional business model"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Natural land",
+                "wikipedia_title": "Natural land"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "keyword_in_the_text": "Cultural",
+                "wikipedia_title": "Cultural"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "mountain region",
+                "wikipedia_title": "Mountain"
+            }
+        ]
+    }
+]

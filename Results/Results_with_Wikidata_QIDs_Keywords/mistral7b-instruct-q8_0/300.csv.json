@@ -1,0 +1,396 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "MOVING (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "SKANDINAVIAN UCELLOSE",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 07 SCA",
+                "original_value": "Value Chain Organization",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "barley",
+                "original_value": "Barley",
+                "Wikidata_ID": "Q11577"
+            },
+            {
+                "originalKey": "Roros",
+                "original_value": "Roros",
+                "Wikidata_ID": "Q131648592"
+            },
+            {
+                "originalKey": "cold climate",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "fungui",
+                "original_value": "Fungi",
+                "Wikidata_ID": "Q764"
+            },
+            {
+                "originalKey": "pesticide",
+                "original_value": "Pesticides",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Rorosmat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandes",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Tynset",
+                "original_value": "Tynset",
+                "Wikidata_ID": "Q2774548"
+            },
+            {
+                "originalKey": "Østerdalen",
+                "original_value": "Østerdalen",
+                "Wikidata_ID": "Q308349"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Farming",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "skiing",
+                "original_value": "Skiing",
+                "Wikidata_ID": "Q130949"
+            },
+            {
+                "originalKey": "fishing",
+                "original_value": "Fishing",
+                "Wikidata_ID": "Q14373"
+            },
+            {
+                "originalKey": "hiking",
+                "original_value": "Hiking",
+                "Wikidata_ID": "Q12014035"
+            },
+            {
+                "originalKey": "hunting",
+                "original_value": "Hunting",
+                "Wikidata_ID": "Q36963"
+            },
+            {
+                "originalKey": "subarctic climate",
+                "original_value": "Subarctic climate",
+                "Wikidata_ID": "Q5967371"
+            },
+            {
+                "originalKey": "annual average precipitation",
+                "original_value": "Annual average precipitation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "mean temperature",
+                "original_value": "Mean temperature",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "density",
+                "original_value": "Density",
+                "Wikidata_ID": "Q29539"
+            },
+            {
+                "originalKey": "change rate",
+                "original_value": "Change rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional share",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural land use",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nearest settlement",
+                "original_value": "Nearest city",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment/year [Province]",
+                "original_value": "Employment by sector in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "employment/year [Region]",
+                "original_value": "Employment by sector in [Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Ancient crop",
+                "original_value": "List of ancient crops",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "extreme climate conditions",
+                "original_value": "Extreme climates",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Farmers grow and mill the grain",
+                "original_value": "Grain milling",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "sell the flour directly to final customers",
+                "original_value": "Direct-to-consumer sales",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "e-commerce platform",
+                "original_value": "E-commerce",
+                "Wikidata_ID": "Q484847"
+            },
+            {
+                "originalKey": "innovation is fully related with the way they access the markets",
+                "original_value": "Market access",
+                "Wikidata_ID": "Q6770787"
+            },
+            {
+                "originalKey": "keeping the control over the product from the beginning stage of the process to the final cutomers",
+                "original_value": "Vertical integration",
+                "Wikidata_ID": "Q1571520"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "natural asset",
+                "original_value": "Natural resource",
+                "Wikidata_ID": "Q188460"
+            },
+            {
+                "originalKey": "social asset",
+                "original_value": "Branding",
+                "Wikidata_ID": "Q898030"
+            },
+            {
+                "originalKey": "cultural aspect",
+                "original_value": "Millstone",
+                "Wikidata_ID": "Q670985"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "growing techniques",
+                "original_value": "Agricultural practices",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "barley",
+                "original_value": "Barley",
+                "Wikidata_ID": "Q11577"
+            },
+            {
+                "originalKey": "nutritious value",
+                "original_value": "Nutrition",
+                "Wikidata_ID": "Q2138622"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous",
+                "Wikidata_ID": "Q293000"
+            },
+            {
+                "originalKey": "Rorosmat brand",
+                "original_value": "Rorosmat",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural, social and cultural",
+                "original_value": "Local assets",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Products",
+                "original_value": "Product",
+                "Wikidata_ID": "Q1796457"
+            },
+            {
+                "originalKey": "produced",
+                "original_value": "Production",
+                "Wikidata_ID": "Q663143"
+            },
+            {
+                "originalKey": "mountain regions",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "reputation",
+                "original_value": "Reputation",
+                "Wikidata_ID": "Q877546"
+            },
+            {
+                "originalKey": "customers",
+                "original_value": "Customer",
+                "Wikidata_ID": "Q852835"
+            },
+            {
+                "originalKey": "quality",
+                "original_value": "Quality",
+                "Wikidata_ID": "Q298413"
+            },
+            {
+                "originalKey": "taste",
+                "original_value": "Taste",
+                "Wikidata_ID": "Q124794"
+            }
+        ]
+    }
+]

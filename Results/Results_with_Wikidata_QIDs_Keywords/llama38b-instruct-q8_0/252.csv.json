@@ -1,0 +1,351 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Hutton",
+                "original_value": "John Hutton, Baron Hutton of Furness",
+                "Wikidata_ID": "Q332562"
+            },
+            {
+                "originalKey": "Deer hunting",
+                "original_value": "Deer hunting",
+                "Wikidata_ID": "Q1025479"
+            },
+            {
+                "originalKey": "Highlands and Islands",
+                "original_value": "Highlands and Islands of Scotland",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Highlands",
+                "original_value": "Highlands_and_Islands_of_Scotland",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Islands",
+                "original_value": "Highlands_and_Islands_of_Scotland",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth_and_Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Tay",
+                "original_value": "River_Tay",
+                "Wikidata_ID": "Q19719"
+            },
+            {
+                "originalKey": "Earn",
+                "original_value": "River_Earn",
+                "Wikidata_ID": "Q1277544"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Gross domestic product per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary",
+                "original_value": "Tertiary_sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Scottish",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Deer stalking",
+                "original_value": "Deer stalking in Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Atholl estate",
+                "original_value": "Blair Atholl",
+                "Wikidata_ID": "Q881156"
+            },
+            {
+                "originalKey": "Glen Lyon",
+                "original_value": "Glen Lyon, Perth and Kinross",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "wild",
+                "original_value": "Wildland",
+                "Wikidata_ID": "Q911871"
+            },
+            {
+                "originalKey": "deer",
+                "original_value": "Red Deer",
+                "Wikidata_ID": "Q79794"
+            },
+            {
+                "originalKey": "grouse",
+                "original_value": "Grouse (bird)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "communities",
+                "original_value": "Community",
+                "Wikidata_ID": "Q177634"
+            },
+            {
+                "originalKey": "conservation",
+                "original_value": "Conservation biology",
+                "Wikidata_ID": "Q641498"
+            },
+            {
+                "originalKey": "ponies",
+                "original_value": "Pony",
+                "Wikidata_ID": "Q188828"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "COVID",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            },
+            {
+                "originalKey": "Brexit",
+                "original_value": "United Kingdom withdrawal from the European Union",
+                "Wikidata_ID": "Q7888194"
+            },
+            {
+                "originalKey": "Grouse shooting",
+                "original_value": "Driven grouse shooting",
+                "Wikidata_ID": "Q5307967"
+            },
+            {
+                "originalKey": "Raptors",
+                "original_value": "Bird of prey",
+                "Wikidata_ID": "Q48428"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "drones",
+                "original_value": "Unmanned aerial vehicle",
+                "Wikidata_ID": "Q484000"
+            },
+            {
+                "originalKey": "camera traps",
+                "original_value": "Camera trap",
+                "Wikidata_ID": "Q1723004"
+            },
+            {
+                "originalKey": "GPS collars",
+                "original_value": "Global Positioning System",
+                "Wikidata_ID": "Q18822"
+            },
+            {
+                "originalKey": "thermal imaging",
+                "original_value": "Thermal imaging",
+                "Wikidata_ID": "Q624587"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "Social",
+                "original_value": "Society",
+                "Wikidata_ID": "Q8425"
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Deer stalking",
+                "original_value": "Deer_stalking",
+                "Wikidata_ID": "Q16249440"
+            },
+            {
+                "originalKey": "Highland",
+                "original_value": "Highlands_(Scotland)",
+                "Wikidata_ID": "Q106652"
+            },
+            {
+                "originalKey": "Islands NUT3 region",
+                "original_value": "Scottish_Islands",
+                "Wikidata_ID": "Q587046"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "Badendoch",
+                "original_value": "Badenoch",
+                "Wikidata_ID": "Q45850"
+            },
+            {
+                "originalKey": "Strathsphey LAU1 areas",
+                "original_value": "Strathspey",
+                "Wikidata_ID": "Q7622167"
+            },
+            {
+                "originalKey": "Grouse shooting",
+                "original_value": "Grouse_shooting",
+                "Wikidata_ID": "Q5307967"
+            },
+            {
+                "originalKey": "North east England",
+                "original_value": "North_East_England",
+                "Wikidata_ID": "Q47983"
+            },
+            {
+                "originalKey": "North West England",
+                "original_value": "North_West_England",
+                "Wikidata_ID": "Q47967"
+            }
+        ]
+    }
+]

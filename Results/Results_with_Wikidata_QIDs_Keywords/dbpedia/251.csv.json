@@ -1,0 +1,424 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "DBpedia_URI": "http://dbpedia.org/resource/United_Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "heather",
+                "original_value": "Calluna",
+                "DBpedia_URI": "http://dbpedia.org/resource/Calluna",
+                "Wikidata_ID": "Q26615"
+            },
+            {
+                "originalKey": "moorland",
+                "original_value": "Moorland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Moorland",
+                "Wikidata_ID": "Q1092661"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Perth",
+                "original_value": "Perth",
+                "DBpedia_URI": "http://dbpedia.org/resource/Perth",
+                "Wikidata_ID": "Q3183"
+            },
+            {
+                "originalKey": "Kinross",
+                "original_value": "Kinross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kinross",
+                "Wikidata_ID": "Q781885"
+            },
+            {
+                "originalKey": "cosmetics",
+                "original_value": "Cosmetics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "hand cream",
+                "original_value": "Lotion",
+                "DBpedia_URI": "http://dbpedia.org/resource/Lotion",
+                "Wikidata_ID": "Q1871151"
+            },
+            {
+                "originalKey": "lip balm",
+                "original_value": "Lip balm",
+                "DBpedia_URI": "http://dbpedia.org/resource/Lip_balm",
+                "Wikidata_ID": "Q1518347"
+            },
+            {
+                "originalKey": "Scottish",
+                "original_value": "Scotland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Scotland",
+                "Wikidata_ID": "Q1048625"
+            },
+            {
+                "originalKey": "champagne",
+                "original_value": "Champagne",
+                "DBpedia_URI": "http://dbpedia.org/resource/Champagne",
+                "Wikidata_ID": "Q134862"
+            },
+            {
+                "originalKey": "Perthshire",
+                "original_value": "Perthshire",
+                "DBpedia_URI": "http://dbpedia.org/resource/Perthshire",
+                "Wikidata_ID": "Q1247411"
+            },
+            {
+                "originalKey": "hives",
+                "original_value": "Beehive",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beehive",
+                "Wikidata_ID": "Q110714724"
+            },
+            {
+                "originalKey": "beeswax",
+                "original_value": "Beeswax",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beeswax",
+                "Wikidata_ID": "Q143739"
+            },
+            {
+                "originalKey": "British Standards Institution",
+                "original_value": "BSI Group",
+                "DBpedia_URI": "http://dbpedia.org/resource/BSI_Group",
+                "Wikidata_ID": "Q3778585"
+            },
+            {
+                "originalKey": "Kitemark",
+                "original_value": "Kitemark",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kitemark",
+                "Wikidata_ID": "Q6418160"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Scotland",
+                "Wikidata_ID": "Q1048625"
+            },
+            {
+                "originalKey": "NUTS2",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Perth",
+                "original_value": "Perth",
+                "DBpedia_URI": "http://dbpedia.org/resource/Perth",
+                "Wikidata_ID": "Q3183"
+            },
+            {
+                "originalKey": "Kinross",
+                "original_value": "Kinross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kinross",
+                "Wikidata_ID": "Q781885"
+            },
+            {
+                "originalKey": "Tay",
+                "original_value": "River Tay",
+                "DBpedia_URI": "http://dbpedia.org/resource/River_Tay",
+                "Wikidata_ID": "Q19719"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Scottish",
+                "original_value": "Scottish people",
+                "DBpedia_URI": "http://dbpedia.org/resource/Scottish_people",
+                "Wikidata_ID": "Q181634"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Champagne",
+                "original_value": "Champagne",
+                "DBpedia_URI": "http://dbpedia.org/resource/Champagne",
+                "Wikidata_ID": "Q134862"
+            },
+            {
+                "originalKey": "hives",
+                "original_value": "Beehive",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beehive",
+                "Wikidata_ID": "Q110714724"
+            },
+            {
+                "originalKey": "Perth",
+                "original_value": "Perth",
+                "DBpedia_URI": "http://dbpedia.org/resource/Perth",
+                "Wikidata_ID": "Q3183"
+            },
+            {
+                "originalKey": "Kinross",
+                "original_value": "Kinross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kinross",
+                "Wikidata_ID": "Q781885"
+            },
+            {
+                "originalKey": "heather",
+                "original_value": "Calluna",
+                "DBpedia_URI": "http://dbpedia.org/resource/Calluna",
+                "Wikidata_ID": "Q26615"
+            },
+            {
+                "originalKey": "cosmetics",
+                "original_value": "Cosmetics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "Manuka Honey",
+                "original_value": "Mānuka honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Mānuka_honey",
+                "Wikidata_ID": "Q953395"
+            },
+            {
+                "originalKey": "bacteria",
+                "original_value": "Bacteria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bacteria",
+                "Wikidata_ID": "Q10876"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "heather",
+                "original_value": "Calluna",
+                "DBpedia_URI": "http://dbpedia.org/resource/Calluna",
+                "Wikidata_ID": "Q26615"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "hives",
+                "original_value": "Beehive",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beehive",
+                "Wikidata_ID": "Q110714724"
+            },
+            {
+                "originalKey": "traditional knowledge",
+                "original_value": "Traditional knowledge",
+                "DBpedia_URI": "http://dbpedia.org/resource/Traditional_knowledge",
+                "Wikidata_ID": "Q1428168"
+            },
+            {
+                "originalKey": "Sommelier",
+                "original_value": "Sommelier",
+                "DBpedia_URI": "http://dbpedia.org/resource/Sommelier",
+                "Wikidata_ID": "Q191493"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "hives",
+                "original_value": "Beehive",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beehive",
+                "Wikidata_ID": "Q110714724"
+            },
+            {
+                "originalKey": "kitemark",
+                "original_value": "Kitemark",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kitemark",
+                "Wikidata_ID": "Q6418160"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "DBpedia_URI": "http://dbpedia.org/resource/United_Kingdom",
+                "Wikidata_ID": "Q145"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "hives",
+                "original_value": "Beehive",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beehive",
+                "Wikidata_ID": "Q110714724"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aberdeenshire",
+                "Wikidata_ID": "Q13194614"
+            },
+            {
+                "originalKey": "heather",
+                "original_value": "Calluna",
+                "DBpedia_URI": "http://dbpedia.org/resource/Calluna",
+                "Wikidata_ID": "Q26615"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Scotland",
+                "Wikidata_ID": "Q1048625"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Germany",
+                "DBpedia_URI": "http://dbpedia.org/resource/Germany",
+                "Wikidata_ID": "Q183"
+            },
+            {
+                "originalKey": "Ireland",
+                "original_value": "Ireland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Ireland",
+                "Wikidata_ID": "Q20283873"
+            }
+        ]
+    }
+]

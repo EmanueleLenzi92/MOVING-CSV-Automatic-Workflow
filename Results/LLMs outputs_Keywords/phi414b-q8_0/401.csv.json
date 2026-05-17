@@ -1,0 +1,222 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "keyword_in_the_text": "Honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "keyword_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "keyword_in_the_text": "Value Chain",
+                "wikipedia_title": "Supply chain management"
+            },
+            {
+                "keyword_in_the_text": "Pro Montagna",
+                "wikipedia_title": "Pro Montagna"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "mountain chain",
+                "wikipedia_title": "Mountain range"
+            },
+            {
+                "keyword_in_the_text": "mountain landscape",
+                "wikipedia_title": "Landscape"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Nomenclature of Territorial Units for Statistics#Local administrative units"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "Inhabitants/km2",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Demographic transition model"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per_capita_income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added (GVA)",
+                "wikipedia_title": "Gross_value_added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary_sector_of_the_economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary_sector_of_the_economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary_sector_of_the_economy"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "Bed and breakfast"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism accommodation"
+            },
+            {
+                "keyword_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "NUTS statistical regions of Europe#Nomenclature of Territorial Units for Statistics (NUTS)"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Regions of the European Union"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Settlement (archaeology)"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "traditional VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bees",
+                "wikipedia_title": "Honey bee"
+            },
+            {
+                "keyword_in_the_text": "endangered",
+                "wikipedia_title": "Endangered species"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "keyword_in_the_text": "Value Chain",
+                "wikipedia_title": "Supply chain management"
+            },
+            {
+                "keyword_in_the_text": "Beehives",
+                "wikipedia_title": "Hive (bee)"
+            },
+            {
+                "keyword_in_the_text": "land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Key local asset",
+                "wikipedia_title": "Local assets"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "soil",
+                "wikipedia_title": "Soil"
+            },
+            {
+                "keyword_in_the_text": "climate conditions",
+                "wikipedia_title": "Climate"
+            },
+            {
+                "keyword_in_the_text": "cultivate",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "keyword_in_the_text": "process the production",
+                "wikipedia_title": "Food processing"
+            }
+        ]
+    }
+]

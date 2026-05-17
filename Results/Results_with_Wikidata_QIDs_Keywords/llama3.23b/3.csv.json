@@ -1,0 +1,306 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Moving (company)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC 03 AT",
+                "original_value": "Not found",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "organic",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alpen",
+                "Wikidata_ID": "Q446296"
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz",
+                "Wikidata_ID": "Q875641"
+            },
+            {
+                "originalKey": "Styrian alpine pasture region",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Almenland Kräuter",
+                "original_value": "Almenland Kräuter",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "organic cultivation",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "wild nature",
+                "original_value": "Wildcrafting",
+                "Wikidata_ID": "Q2991771"
+            },
+            {
+                "originalKey": "cosmetic products",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "wellness products",
+                "original_value": "Wellness",
+                "Wikidata_ID": "Q2587748"
+            },
+            {
+                "originalKey": "regional development",
+                "original_value": "Regional development",
+                "Wikidata_ID": "Q482379"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "regional development strategy",
+                "original_value": "Regional development",
+                "Wikidata_ID": "Q482379"
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "original_value": "AgrarMarkt Austria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ecological perspective",
+                "original_value": "Ecological economics",
+                "Wikidata_ID": "Q1049066"
+            },
+            {
+                "originalKey": "pesticides",
+                "original_value": "Pesticide",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "insect",
+                "original_value": "Insect",
+                "Wikidata_ID": "Q1390"
+            },
+            {
+                "originalKey": "nectar",
+                "original_value": "Nectar",
+                "Wikidata_ID": "Q171934"
+            },
+            {
+                "originalKey": "pollen",
+                "original_value": "Pollen",
+                "Wikidata_ID": "Q79932"
+            },
+            {
+                "originalKey": "habitat fragmentation",
+                "original_value": "Habitat fragmentation",
+                "Wikidata_ID": "Q913302"
+            },
+            {
+                "originalKey": "wild collection",
+                "original_value": "Wildcrafting",
+                "Wikidata_ID": "Q2991771"
+            },
+            {
+                "originalKey": "permanent grasslands",
+                "original_value": "Permanent grassland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Extreme weather conditions",
+                "original_value": "Extreme weather",
+                "Wikidata_ID": "Q1277161"
+            },
+            {
+                "originalKey": "Climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "Cultivation practices",
+                "original_value": "Agricultural practice",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Irrigation",
+                "original_value": "Irrigation",
+                "Wikidata_ID": "Q11453"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product innovation",
+                "Wikidata_ID": "Q7247768"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Process innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Agroecology",
+                "Wikidata_ID": "Q396338"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Ecological economics",
+                "Wikidata_ID": "Q1049066"
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "Intangible cultural heritage",
+                "Wikidata_ID": "Q84036549"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "herbs",
+                "original_value": "Herb",
+                "Wikidata_ID": "Q207123"
+            },
+            {
+                "originalKey": "Austrian",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    }
+]

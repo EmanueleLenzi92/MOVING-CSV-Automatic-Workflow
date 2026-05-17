@@ -1,0 +1,601 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING reference member state",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "SPAIN ADEGUA",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "VC 33 ES",
+                "original_value": "VC (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "round trip",
+                "original_value": "Round Trip",
+                "Wikidata_ID": "Q7371217"
+            },
+            {
+                "originalKey": "mountains and plains",
+                "original_value": "Mountains and Plains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Transhumance shepherds",
+                "original_value": "Shepherd",
+                "Wikidata_ID": "Q81710"
+            },
+            {
+                "originalKey": "sustainable and efficient methods of livestock rearing",
+                "original_value": "Sustainable Agriculture",
+                "Wikidata_ID": "Q2751054"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Betic System",
+                "original_value": "Betics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            },
+            {
+                "originalKey": "transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "management",
+                "original_value": "Land management",
+                "Wikidata_ID": "Q2001056"
+            },
+            {
+                "originalKey": "forests",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "water resources",
+                "original_value": "Water resource management",
+                "Wikidata_ID": "Q1049799"
+            },
+            {
+                "originalKey": "natural hazards",
+                "original_value": "Natural hazard mitigation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "shepherds",
+                "original_value": "Shepherd",
+                "Wikidata_ID": "Q81710"
+            },
+            {
+                "originalKey": "environmental conservation",
+                "original_value": "Environmental conservation",
+                "Wikidata_ID": "Q113674735"
+            },
+            {
+                "originalKey": "extensive livestock farming",
+                "original_value": "Extensive livestock farming",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional Population Density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "average per capita income (EUR/year) [Region]",
+                "original_value": "Median Income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "List of accommodations in the United States",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in [Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in [Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "Pastoralism",
+                "original_value": "Pastoralism",
+                "Wikidata_ID": "Q9056738"
+            },
+            {
+                "originalKey": "Mediterranean area",
+                "original_value": "Mediterranean Sea",
+                "Wikidata_ID": "Q4918"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Spring",
+                "original_value": "Spring",
+                "Wikidata_ID": "Q19304"
+            },
+            {
+                "originalKey": "Autumn",
+                "original_value": "Autumn",
+                "Wikidata_ID": "Q1314"
+            },
+            {
+                "originalKey": "Cattle trails",
+                "original_value": "Cattle trail",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "UNESCO",
+                "original_value": "UNESCO",
+                "Wikidata_ID": "Q7809"
+            },
+            {
+                "originalKey": "Intangible Cultural Heritage of Humanity",
+                "original_value": "List of Intangible Cultural Heritage of Humanity",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Livestock management",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "Natural ecosystems",
+                "original_value": "Ecosystem",
+                "Wikidata_ID": "Q37813"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "livestock transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "sheeps",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "goats",
+                "original_value": "Goat",
+                "Wikidata_ID": "Q2934"
+            },
+            {
+                "originalKey": "cows",
+                "original_value": "Cow",
+                "Wikidata_ID": "Q830"
+            },
+            {
+                "originalKey": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "original_value": "Sierra de Cazorla Natural Park",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Jaén",
+                "original_value": "Jaén",
+                "Wikidata_ID": "Q230847"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "original_value": "Sierra Morena",
+                "Wikidata_ID": "Q686362"
+            },
+            {
+                "originalKey": "management",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "livestock trails",
+                "original_value": "Livestock trail",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "infrastructures",
+                "original_value": "Infrastructure",
+                "Wikidata_ID": "Q121359"
+            },
+            {
+                "originalKey": "living conditions",
+                "original_value": "Living conditions",
+                "Wikidata_ID": "Q5636875"
+            },
+            {
+                "originalKey": "shepherds",
+                "original_value": "Shepherd",
+                "Wikidata_ID": "Q81710"
+            },
+            {
+                "originalKey": "extensive livestock farming",
+                "original_value": "Extensive livestock farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "survival",
+                "original_value": "Survival",
+                "Wikidata_ID": "Q104482419"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional (business model)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "value chain",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "environmental",
+                "original_value": "Environmental Impact",
+                "Wikidata_ID": "Q2144359"
+            },
+            {
+                "originalKey": "economic",
+                "original_value": "Economic Impact",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "social",
+                "original_value": "Social Impact",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "researchers",
+                "original_value": "Academic Research",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "municipalities",
+                "original_value": "Local Government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "technical projects",
+                "original_value": "Technical Project",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "initiatives",
+                "original_value": "Community Initiative",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "livestock trails",
+                "original_value": "Livestock Trails",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "livestock economy",
+                "original_value": "Animal Husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "Land Use System",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "Local Resources",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural Resource",
+                "Wikidata_ID": "Q188460"
+            },
+            {
+                "originalKey": "social",
+                "original_value": "Social Capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Cultural Heritage",
+                "Wikidata_ID": "Q210272"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "Soria",
+                "original_value": "Province of Soria",
+                "Wikidata_ID": "Q55276"
+            },
+            {
+                "originalKey": "Cuenca",
+                "original_value": "Province of Cuenca",
+                "Wikidata_ID": "Q54888"
+            },
+            {
+                "originalKey": "La Rioja",
+                "original_value": "La Rioja",
+                "Wikidata_ID": "Q5727"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "Sierras of Cazorla, Segura and Las Villas",
+                "original_value": "Sierra de Cazorla",
+                "Wikidata_ID": "Q7511639"
+            },
+            {
+                "originalKey": "Jaén",
+                "original_value": "Province of Jaén",
+                "Wikidata_ID": "Q230847"
+            },
+            {
+                "originalKey": "Sierra de Castril",
+                "original_value": "Sierra de Castril",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Province of Granada",
+                "Wikidata_ID": "Q82142"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "original_value": "Sierra Morena",
+                "Wikidata_ID": "Q686362"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    }
+]

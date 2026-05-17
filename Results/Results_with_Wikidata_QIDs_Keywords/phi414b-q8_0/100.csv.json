@@ -1,0 +1,411 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "economic crisis of 2008-2016",
+                "original_value": "European sovereign-debt crisis",
+                "Wikidata_ID": "Q217197"
+            },
+            {
+                "originalKey": "juice",
+                "original_value": "Juice",
+                "Wikidata_ID": "Q8492"
+            },
+            {
+                "originalKey": "gel",
+                "original_value": "Gel (material)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cosmetics",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "nutraceuticals",
+                "original_value": "Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "original_value": "Minoan Land",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cretan Diet Festival",
+                "original_value": "Cretan Diet",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "original_value": "null",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Dikti Mountains",
+                "original_value": "Mount Dikte",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "VIANNOS",
+                "original_value": "Vrachionas National Park",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pinus brutia",
+                "original_value": "Turkish pine",
+                "Wikidata_ID": "Q628329"
+            },
+            {
+                "originalKey": "Quercus coccifera",
+                "original_value": "Kermes oak",
+                "Wikidata_ID": "Q158178"
+            },
+            {
+                "originalKey": "Cupressus sempervirens",
+                "original_value": "Mediterranean cypress",
+                "Wikidata_ID": "Q147513"
+            },
+            {
+                "originalKey": "Quercus ilex",
+                "original_value": "Holm oak",
+                "Wikidata_ID": "Q104552567"
+            },
+            {
+                "originalKey": "Acer sempervirens",
+                "original_value": "Cretan maple",
+                "Wikidata_ID": "Q1788044"
+            },
+            {
+                "originalKey": "aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Demographic transition model",
+                "Wikidata_ID": "Q381763"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per_capita_income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary_sector_of_an_economy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary_sector_of_an_economy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary_sector_of_an_economy",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "bed places",
+                "original_value": "Bed and breakfast",
+                "Wikidata_ID": "Q367914"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement (archaeology)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Dikti mountain landscape",
+                "original_value": "Mount Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "original_value": "Minoan Land",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Dikti Mountain",
+                "original_value": "Mount Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "agricultural sector",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Olives",
+                "original_value": "Olive (fruit)",
+                "Wikidata_ID": "Q37083"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "food/cosmetic industries",
+                "original_value": "Cosmetics industry",
+                "Wikidata_ID": "Q12752882"
+            },
+            {
+                "originalKey": "e-commerce",
+                "original_value": "E-commerce",
+                "Wikidata_ID": "Q484847"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Dikti area",
+                "original_value": "Mount Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous growth theory",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous and endogenous variables",
+                "Wikidata_ID": "Q61985482"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Dikti region",
+                "original_value": "Mount Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Organic farming",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Contract farming",
+                "original_value": "Contract farming",
+                "Wikidata_ID": "Q5165669"
+            },
+            {
+                "originalKey": "Green economy",
+                "original_value": "Green economy",
+                "Wikidata_ID": "Q598188"
+            },
+            {
+                "originalKey": "Nutritional supplements",
+                "original_value": "Dietary supplement",
+                "Wikidata_ID": "Q645858"
+            },
+            {
+                "originalKey": "Herbal cosmetics",
+                "original_value": "Herbalism",
+                "Wikidata_ID": "Q861699"
+            },
+            {
+                "originalKey": "Aromatic/medicinal plants",
+                "original_value": "Medicinal plant",
+                "Wikidata_ID": "Q188840"
+            },
+            {
+                "originalKey": "Food industry",
+                "original_value": "Food industry",
+                "Wikidata_ID": "Q540912"
+            },
+            {
+                "originalKey": "Pharmaceutical industry",
+                "original_value": "Pharmaceutical industry",
+                "Wikidata_ID": "Q507443"
+            },
+            {
+                "originalKey": "Nutraceuticals",
+                "original_value": "Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Arable land",
+                "Wikidata_ID": "Q843920"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Natural environment",
+                "Wikidata_ID": "Q43619"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Andalusia, Spain",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "nutritional supplements",
+                "original_value": "Nutritional supplement",
+                "Wikidata_ID": "Q645858"
+            },
+            {
+                "originalKey": "health products",
+                "original_value": "Health product",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

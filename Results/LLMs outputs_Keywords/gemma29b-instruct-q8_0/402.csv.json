@@ -1,0 +1,214 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "keyword_in_the_text": "Alpine tourism",
+                "wikipedia_title": "Alpine tourism"
+            },
+            {
+                "keyword_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "mountain chain",
+                "wikipedia_title": "Mountain range"
+            },
+            {
+                "keyword_in_the_text": "mountain landscape",
+                "wikipedia_title": "Mountains"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added (GVA)",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "Local government"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agriculture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "employment",
+                "wikipedia_title": "Employment"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC-systems",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "skiing",
+                "wikipedia_title": "Skiing"
+            },
+            {
+                "keyword_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "keyword_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "New governance systems",
+                "wikipedia_title": "Corporate governance"
+            },
+            {
+                "keyword_in_the_text": "Landscape",
+                "wikipedia_title": "Landscape"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "keyword_in_the_text": "social",
+                "wikipedia_title": "Society"
+            },
+            {
+                "keyword_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "local asset",
+                "wikipedia_title": "Asset"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    }
+]

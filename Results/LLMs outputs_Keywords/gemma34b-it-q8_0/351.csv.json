@@ -1,0 +1,410 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "MOVING",
+                "wikipedia_title": "Moving (disambiguation)"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "keyword_in_the_text": "ADEGUA",
+                "wikipedia_title": "None"
+            },
+            {
+                "keyword_in_the_text": "Card ID",
+                "wikipedia_title": "Card ID"
+            },
+            {
+                "keyword_in_the_text": "governance",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "keyword_in_the_text": "monetised",
+                "wikipedia_title": "Monetization"
+            },
+            {
+                "keyword_in_the_text": "social cohesion",
+                "wikipedia_title": "Social cohesion"
+            },
+            {
+                "keyword_in_the_text": "health",
+                "wikipedia_title": "Health"
+            },
+            {
+                "keyword_in_the_text": "care",
+                "wikipedia_title": "Care"
+            },
+            {
+                "keyword_in_the_text": "family",
+                "wikipedia_title": "Family"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Betic System",
+                "wikipedia_title": "Betic System"
+            },
+            {
+                "keyword_in_the_text": "Carcabuey",
+                "wikipedia_title": "Carcabuey"
+            },
+            {
+                "keyword_in_the_text": "Sierra Subbética",
+                "wikipedia_title": "Sierra Subbética"
+            },
+            {
+                "keyword_in_the_text": "Natural Park",
+                "wikipedia_title": "Natural park"
+            },
+            {
+                "keyword_in_the_text": "olive growing",
+                "wikipedia_title": "Olive growing"
+            },
+            {
+                "keyword_in_the_text": "depopulation",
+                "wikipedia_title": "Depopulation"
+            },
+            {
+                "keyword_in_the_text": "aging",
+                "wikipedia_title": "Aging"
+            },
+            {
+                "keyword_in_the_text": "exodus",
+                "wikipedia_title": "Exodus"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth"
+            },
+            {
+                "keyword_in_the_text": "regional",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "average per capita income",
+                "wikipedia_title": "Income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added (GVA)",
+                "wikipedia_title": "Gross Value Added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "Hotel"
+            },
+            {
+                "keyword_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "employment/year",
+                "wikipedia_title": "Employment"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "ageing population",
+                "wikipedia_title": "Aging"
+            },
+            {
+                "keyword_in_the_text": "care of the elderly",
+                "wikipedia_title": "Elder care"
+            },
+            {
+                "keyword_in_the_text": "economic activity",
+                "wikipedia_title": "Economy"
+            },
+            {
+                "keyword_in_the_text": "mountain centres",
+                "wikipedia_title": "Mountain"
+            },
+            {
+                "keyword_in_the_text": "depopulation",
+                "wikipedia_title": "Population decline"
+            },
+            {
+                "keyword_in_the_text": "intergenerational social cohesion",
+                "wikipedia_title": "Social cohesion"
+            },
+            {
+                "keyword_in_the_text": "private care company",
+                "wikipedia_title": "Private company"
+            },
+            {
+                "keyword_in_the_text": "professionalisation",
+                "wikipedia_title": "Professionalization"
+            },
+            {
+                "keyword_in_the_text": "informal sector",
+                "wikipedia_title": "Informal economy"
+            },
+            {
+                "keyword_in_the_text": "immigrant population",
+                "wikipedia_title": "Immigration"
+            },
+            {
+                "keyword_in_the_text": "value chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "governance system",
+                "wikipedia_title": "Governance"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Municipal residence for the elderly",
+                "wikipedia_title": "Residential care facility"
+            },
+            {
+                "keyword_in_the_text": "Private company",
+                "wikipedia_title": "Private company"
+            },
+            {
+                "keyword_in_the_text": "Active participation centre",
+                "wikipedia_title": "Community center"
+            },
+            {
+                "keyword_in_the_text": "Dependency assistance company",
+                "wikipedia_title": "Home care"
+            },
+            {
+                "keyword_in_the_text": "Emergency carers",
+                "wikipedia_title": "Home healthcare"
+            },
+            {
+                "keyword_in_the_text": "Provincial Council",
+                "wikipedia_title": "Provincial council"
+            },
+            {
+                "keyword_in_the_text": "Informal economy",
+                "wikipedia_title": "Informal economy"
+            },
+            {
+                "keyword_in_the_text": "Organised civil society groups",
+                "wikipedia_title": "Civil society"
+            },
+            {
+                "keyword_in_the_text": "Associations",
+                "wikipedia_title": "Association"
+            },
+            {
+                "keyword_in_the_text": "Neighbourhood mutual aid",
+                "wikipedia_title": "Mutual aid"
+            },
+            {
+                "keyword_in_the_text": "Older people",
+                "wikipedia_title": "Elderly"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Ageing population",
+                "wikipedia_title": "Aging population"
+            },
+            {
+                "keyword_in_the_text": "negative replacement rate",
+                "wikipedia_title": "Replacement rate"
+            },
+            {
+                "keyword_in_the_text": "depopulation",
+                "wikipedia_title": "Population decline"
+            },
+            {
+                "keyword_in_the_text": "exodus",
+                "wikipedia_title": "Emigration"
+            },
+            {
+                "keyword_in_the_text": "informal economy",
+                "wikipedia_title": "Informal economy"
+            },
+            {
+                "keyword_in_the_text": "professionalisation",
+                "wikipedia_title": "Professionalization"
+            },
+            {
+                "keyword_in_the_text": "precariation",
+                "wikipedia_title": "Precarious employment"
+            },
+            {
+                "keyword_in_the_text": "local cultures",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogeneity"
+            },
+            {
+                "keyword_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogeneity"
+            },
+            {
+                "keyword_in_the_text": "Informal care",
+                "wikipedia_title": "Caregiving"
+            },
+            {
+                "keyword_in_the_text": "Public services",
+                "wikipedia_title": "Public service"
+            },
+            {
+                "keyword_in_the_text": "Public-private partnerships",
+                "wikipedia_title": "Public-private partnership"
+            },
+            {
+                "keyword_in_the_text": "Governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "keyword_in_the_text": "Land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "keyword_in_the_text": "Urban space",
+                "wikipedia_title": "Urban space"
+            },
+            {
+                "keyword_in_the_text": "Infrastructures",
+                "wikipedia_title": "Infrastructure"
+            },
+            {
+                "keyword_in_the_text": "Social assets",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "keyword_in_the_text": "Cultural assets",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Village community"
+            },
+            {
+                "keyword_in_the_text": "Sierra",
+                "wikipedia_title": "Sierra (various topics)"
+            },
+            {
+                "keyword_in_the_text": "Subbética",
+                "wikipedia_title": "Subbética"
+            },
+            {
+                "keyword_in_the_text": "depopulation",
+                "wikipedia_title": "Population decline"
+            },
+            {
+                "keyword_in_the_text": "ageing",
+                "wikipedia_title": "Aging"
+            },
+            {
+                "keyword_in_the_text": "social balances",
+                "wikipedia_title": "Social balance"
+            },
+            {
+                "keyword_in_the_text": "social cohesion",
+                "wikipedia_title": "Social cohesion"
+            },
+            {
+                "keyword_in_the_text": "resources",
+                "wikipedia_title": "Resource"
+            }
+        ]
+    }
+]

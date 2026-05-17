@@ -1,0 +1,352 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "ox",
+                "original_value": "Ox",
+                "DBpedia_URI": "http://dbpedia.org/resource/Ox",
+                "Wikidata_ID": "Q473194"
+            },
+            {
+                "originalKey": "Almo",
+                "original_value": "Almo Sounds",
+                "DBpedia_URI": "http://dbpedia.org/resource/Almo_Sounds",
+                "Wikidata_ID": "Q4733859"
+            },
+            {
+                "originalKey": "word mark",
+                "original_value": "Trademark",
+                "DBpedia_URI": "http://dbpedia.org/resource/Trademark",
+                "Wikidata_ID": "Q167270"
+            },
+            {
+                "originalKey": "Bergland",
+                "original_value": "Bergland, Michigan",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bergland,_Michigan",
+                "Wikidata_ID": "Q107016560"
+            },
+            {
+                "originalKey": "regional development",
+                "original_value": "Regional development",
+                "DBpedia_URI": "http://dbpedia.org/resource/Regional_development",
+                "Wikidata_ID": "Q482379"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Austria",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Province of Vercelli",
+                "DBpedia_URI": "http://dbpedia.org/resource/Province_of_Vercelli",
+                "Wikidata_ID": "Q15096"
+            },
+            {
+                "originalKey": "RR",
+                "original_value": "Revised Romanization of Korean",
+                "DBpedia_URI": "http://dbpedia.org/resource/Revised_Romanization_of_Korean",
+                "Wikidata_ID": "Q498721"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "DBpedia_URI": "http://dbpedia.org/resource/Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz",
+                "DBpedia_URI": "http://dbpedia.org/resource/Weiz",
+                "Wikidata_ID": "Q21881904"
+            },
+            {
+                "originalKey": "Styrian",
+                "original_value": "Styria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Styria",
+                "Wikidata_ID": "Q41358"
+            },
+            {
+                "originalKey": "alpine pasture",
+                "original_value": "Alpine transhumance",
+                "DBpedia_URI": "http://dbpedia.org/resource/Alpine_transhumance",
+                "Wikidata_ID": "Q14774083"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "DBpedia_URI": "http://dbpedia.org/resource/Europe",
+                "Wikidata_ID": "Q18473304"
+            },
+            {
+                "originalKey": "rock",
+                "original_value": "Rock music",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rock_music",
+                "Wikidata_ID": "Q11399"
+            },
+            {
+                "originalKey": "limestone",
+                "original_value": "Limestone",
+                "DBpedia_URI": "http://dbpedia.org/resource/Limestone",
+                "Wikidata_ID": "Q23757"
+            },
+            {
+                "originalKey": "phyllite",
+                "original_value": "Phyllite",
+                "DBpedia_URI": "http://dbpedia.org/resource/Phyllite",
+                "Wikidata_ID": "Q731880"
+            },
+            {
+                "originalKey": "slate",
+                "original_value": "Slate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Slate",
+                "Wikidata_ID": "Q207079"
+            },
+            {
+                "originalKey": "greywacke",
+                "original_value": "Greywacke",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greywacke",
+                "Wikidata_ID": "Q917545"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "regional development",
+                "original_value": "Regional development",
+                "DBpedia_URI": "http://dbpedia.org/resource/Regional_development",
+                "Wikidata_ID": "Q482379"
+            },
+            {
+                "originalKey": "animal welfare",
+                "original_value": "Animal welfare",
+                "DBpedia_URI": "http://dbpedia.org/resource/Animal_welfare",
+                "Wikidata_ID": "Q40053"
+            },
+            {
+                "originalKey": "NGO",
+                "original_value": "Non-governmental organization",
+                "DBpedia_URI": "http://dbpedia.org/resource/Non-governmental_organization",
+                "Wikidata_ID": "Q79913"
+            },
+            {
+                "originalKey": "regional development agency",
+                "original_value": "Regional development agency",
+                "DBpedia_URI": "http://dbpedia.org/resource/Regional_development_agency",
+                "Wikidata_ID": "Q7309207"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "DBpedia_URI": "http://dbpedia.org/resource/Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "free range",
+                "original_value": "Free range",
+                "DBpedia_URI": "http://dbpedia.org/resource/Free_range",
+                "Wikidata_ID": "Q1755357"
+            },
+            {
+                "originalKey": "pig",
+                "original_value": "Pig",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pig",
+                "Wikidata_ID": "Q787"
+            },
+            {
+                "originalKey": "regional development",
+                "original_value": "Regional development",
+                "DBpedia_URI": "http://dbpedia.org/resource/Regional_development",
+                "Wikidata_ID": "Q482379"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agriculture",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "alpine pasture",
+                "original_value": "Alpine transhumance",
+                "DBpedia_URI": "http://dbpedia.org/resource/Alpine_transhumance",
+                "Wikidata_ID": "Q14774083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "regional development",
+                "original_value": "Regional development",
+                "DBpedia_URI": "http://dbpedia.org/resource/Regional_development",
+                "Wikidata_ID": "Q482379"
+            },
+            {
+                "originalKey": "free-range",
+                "original_value": "Free range",
+                "DBpedia_URI": "http://dbpedia.org/resource/Free_range",
+                "Wikidata_ID": "Q1755357"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agriculture",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Lower Austria",
+                "original_value": "Lower Austria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Lower_Austria",
+                "Wikidata_ID": "Q42497"
+            },
+            {
+                "originalKey": "NUTS-II",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Carinthia",
+                "original_value": "Carinthia",
+                "DBpedia_URI": "http://dbpedia.org/resource/Carinthia",
+                "Wikidata_ID": "Q37985"
+            },
+            {
+                "originalKey": "beef",
+                "original_value": "Beef",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beef",
+                "Wikidata_ID": "Q192628"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    }
+]

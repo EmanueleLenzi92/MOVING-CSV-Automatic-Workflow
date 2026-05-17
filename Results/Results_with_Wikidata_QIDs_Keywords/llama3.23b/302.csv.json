@@ -1,0 +1,311 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Skandinavisk Utsamlingskommun (SKUCO)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 09 SCA",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food Foundation for Biodiversity",
+                "Wikidata_ID": "Q335823"
+            },
+            {
+                "originalKey": "Undredal Stølsysteri SA",
+                "original_value": "Undredal Stølsysteri",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Aurland Fiord",
+                "original_value": "Aurlandsfjorden",
+                "Wikidata_ID": "Q776482"
+            },
+            {
+                "originalKey": "Nærøyfjorden",
+                "original_value": "Nærøyfjord",
+                "Wikidata_ID": "Q212205"
+            },
+            {
+                "originalKey": "Sognefjorden",
+                "original_value": "Sognefjord",
+                "Wikidata_ID": "Q208495"
+            },
+            {
+                "originalKey": "Geirangefjord",
+                "original_value": "Geirangerfjord",
+                "Wikidata_ID": "Q193989"
+            },
+            {
+                "originalKey": "Undredal",
+                "original_value": "Undredal",
+                "Wikidata_ID": "Q1006480"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs/year",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "ecosystem",
+                "original_value": "Ecosystem",
+                "Wikidata_ID": "Q37813"
+            },
+            {
+                "originalKey": "cultural heritage",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            },
+            {
+                "originalKey": "identity",
+                "original_value": "Identity (psychology)",
+                "Wikidata_ID": "Q844569"
+            },
+            {
+                "originalKey": "website",
+                "original_value": "Website",
+                "Wikidata_ID": "Q35127"
+            },
+            {
+                "originalKey": "online store",
+                "original_value": "Online store",
+                "Wikidata_ID": "Q484847"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "natural assets",
+                "original_value": "Natural asset",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "forage",
+                "original_value": "Forage",
+                "Wikidata_ID": "Q13377214"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "cultural assets",
+                "original_value": "Cultural asset",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Slowfood Presidium",
+                "original_value": "Presidium (Slow Food)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Current",
+                "original_value": "Current (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Predictive analytics",
+                "Wikidata_ID": "Q1053367"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditionalism",
+                "Wikidata_ID": "Q354963"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land",
+                "Wikidata_ID": "Q11081619"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "Social",
+                "original_value": "Society",
+                "Wikidata_ID": "Q8425"
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            },
+            {
+                "originalKey": "Jämtland Cellar-Matured Goat Cheese",
+                "original_value": "Jämtland cheese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Presidium of the Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food Presidia",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "keyword_in_the_text": "Honey from the alps",
+                "wikipedia_title": "Honey"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "mountain chain",
+                "wikipedia_title": "Mountain range"
+            },
+            {
+                "keyword_in_the_text": "mountain landscape",
+                "wikipedia_title": "No exact title found"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "size of the area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "keyword_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "keyword_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density (Inhabitants/km2)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth"
+            },
+            {
+                "keyword_in_the_text": "overall regional population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "regional population change rate",
+                "wikipedia_title": "Population growth"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added (GVA)",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "Beds"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Accommodation"
+            },
+            {
+                "keyword_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "traditional VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "traditional VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bees",
+                "wikipedia_title": "Bees"
+            },
+            {
+                "keyword_in_the_text": "endangered",
+                "wikipedia_title": "Endangered species"
+            },
+            {
+                "keyword_in_the_text": "Predicted",
+                "wikipedia_title": "Predictive analytics in venture capital"
+            },
+            {
+                "keyword_in_the_text": "Traditional",
+                "wikipedia_title": "Traditional venture capital"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Beehives",
+                "wikipedia_title": "Beehive"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Natural (geography)"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Key",
+                "wikipedia_title": "Key (cipher)"
+            },
+            {
+                "keyword_in_the_text": "asset",
+                "wikipedia_title": "Asset"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "soil",
+                "wikipedia_title": "Soil"
+            },
+            {
+                "keyword_in_the_text": "climate",
+                "wikipedia_title": "Climate"
+            }
+        ]
+    }
+]

@@ -1,0 +1,370 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "MOVING",
+                "wikipedia_title": "Moving (programming)"
+            },
+            {
+                "keyword_in_the_text": "SCOTLAND",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "keyword_in_the_text": "HUTTON",
+                "wikipedia_title": "Hutton, East Lothian"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Welsh",
+                "wikipedia_title": "Wales"
+            },
+            {
+                "keyword_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "keyword_in_the_text": "European",
+                "wikipedia_title": "European Union"
+            },
+            {
+                "keyword_in_the_text": "PGI",
+                "wikipedia_title": "Protected geographical indication"
+            },
+            {
+                "keyword_in_the_text": "English",
+                "wikipedia_title": "England"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "West Wales",
+                "wikipedia_title": "West Wales"
+            },
+            {
+                "keyword_in_the_text": "NUTS 2",
+                "wikipedia_title": "Nomenclature of Territorial Units for Statistics"
+            },
+            {
+                "keyword_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "keyword_in_the_text": "Wales",
+                "wikipedia_title": "Wales"
+            },
+            {
+                "keyword_in_the_text": "Cardiff",
+                "wikipedia_title": "Cardiff"
+            },
+            {
+                "keyword_in_the_text": "Newport",
+                "wikipedia_title": "Newport, Wales"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "regional",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "GVA",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "Hotel room"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Farm"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "employment",
+                "wikipedia_title": "Employment"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "keyword_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "keyword_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "keyword_in_the_text": "Wiltshire",
+                "wikipedia_title": "Wiltshire"
+            },
+            {
+                "keyword_in_the_text": "Castle Dairies",
+                "wikipedia_title": "Castle Dairies"
+            },
+            {
+                "keyword_in_the_text": "Gorwydd",
+                "wikipedia_title": "Gorwydd Caerphilly"
+            },
+            {
+                "keyword_in_the_text": "International Cheese Awards",
+                "wikipedia_title": "International Cheese Awards"
+            },
+            {
+                "keyword_in_the_text": "PGI",
+                "wikipedia_title": "Protected Geographical Indication"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "keyword_in_the_text": "dairy cattle",
+                "wikipedia_title": "Dairy cattle"
+            },
+            {
+                "keyword_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "community relations",
+                "wikipedia_title": "Community relations"
+            },
+            {
+                "keyword_in_the_text": "cultural heritage",
+                "wikipedia_title": "Cultural heritage"
+            },
+            {
+                "keyword_in_the_text": "coal miners",
+                "wikipedia_title": "Coal miner"
+            },
+            {
+                "keyword_in_the_text": "PGI status",
+                "wikipedia_title": "Protected Geographical Indication"
+            },
+            {
+                "keyword_in_the_text": "Welsh",
+                "wikipedia_title": "Wales"
+            },
+            {
+                "keyword_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "COVID",
+                "wikipedia_title": "COVID-19 pandemic"
+            },
+            {
+                "keyword_in_the_text": "England",
+                "wikipedia_title": "England"
+            },
+            {
+                "keyword_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "Traditional",
+                "wikipedia_title": "Tradition"
+            },
+            {
+                "keyword_in_the_text": "Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "keyword_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "keyword_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "keyword_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "keyword_in_the_text": "Social",
+                "wikipedia_title": "Social"
+            },
+            {
+                "keyword_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "keyword_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "keyword_in_the_text": "South Somerset",
+                "wikipedia_title": "South Somerset"
+            },
+            {
+                "keyword_in_the_text": "Wiltshire",
+                "wikipedia_title": "Wiltshire"
+            },
+            {
+                "keyword_in_the_text": "England",
+                "wikipedia_title": "England"
+            }
+        ]
+    }
+]

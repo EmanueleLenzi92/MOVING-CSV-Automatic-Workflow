@@ -1,0 +1,398 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "keyword_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "keyword_in_the_text": "EU Geographical Indications",
+                "wikipedia_title": "Geographical indication"
+            },
+            {
+                "keyword_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "keyword_in_the_text": "gastronomy",
+                "wikipedia_title": "Gastronomy"
+            },
+            {
+                "keyword_in_the_text": "apiculture",
+                "wikipedia_title": "Apiculture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "White Mountains",
+                "wikipedia_title": "Lefka Ori"
+            },
+            {
+                "keyword_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "keyword_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "keyword_in_the_text": "cypress",
+                "wikipedia_title": "Cypress"
+            },
+            {
+                "keyword_in_the_text": "oak",
+                "wikipedia_title": "Oak"
+            },
+            {
+                "keyword_in_the_text": "pine",
+                "wikipedia_title": "Pine"
+            },
+            {
+                "keyword_in_the_text": "chestnuts",
+                "wikipedia_title": "Chestnut"
+            },
+            {
+                "keyword_in_the_text": "planes",
+                "wikipedia_title": "Platanus"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth"
+            },
+            {
+                "keyword_in_the_text": "regional",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "GVA",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "Local government"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "Secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "Tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "Employment",
+                "wikipedia_title": "Employment"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Apicature",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "keyword_in_the_text": "Kissamos",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "keyword_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "keyword_in_the_text": "PDO",
+                "wikipedia_title": "Protected Designation of Origin"
+            },
+            {
+                "keyword_in_the_text": "Pine honey",
+                "wikipedia_title": "Pine honey"
+            },
+            {
+                "keyword_in_the_text": "Thyme",
+                "wikipedia_title": "Thyme"
+            },
+            {
+                "keyword_in_the_text": "Honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "keyword_in_the_text": "Pefkothymaromelo",
+                "wikipedia_title": "Pefkothymaromelo"
+            },
+            {
+                "keyword_in_the_text": "Tourism",
+                "wikipedia_title": "Tourism"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "keyword_in_the_text": "Topolia",
+                "wikipedia_title": "Topolia"
+            },
+            {
+                "keyword_in_the_text": "Kissamos",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "keyword_in_the_text": "Cretan",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "keyword_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "keyword_in_the_text": "Minoan Civilization",
+                "wikipedia_title": "Minoan civilization"
+            },
+            {
+                "keyword_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "keyword_in_the_text": "pine honey",
+                "wikipedia_title": "Pine honey"
+            },
+            {
+                "keyword_in_the_text": "bees",
+                "wikipedia_title": "Bee"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "keyword_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "keyword_in_the_text": "bees",
+                "wikipedia_title": "Bee"
+            },
+            {
+                "keyword_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "keyword_in_the_text": "pesticides",
+                "wikipedia_title": "Pesticide"
+            },
+            {
+                "keyword_in_the_text": "agriculture",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "keyword_in_the_text": "Pefkothymaromelo",
+                "wikipedia_title": "Pefkothymaromelo"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous growth theory"
+            },
+            {
+                "keyword_in_the_text": "apicature",
+                "wikipedia_title": "Apiculture"
+            },
+            {
+                "keyword_in_the_text": "PDO",
+                "wikipedia_title": "Protected Designation of Origin"
+            },
+            {
+                "keyword_in_the_text": "Kissamos",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "keyword_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "keyword_in_the_text": "New products",
+                "wikipedia_title": "New product development"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "New governance systems",
+                "wikipedia_title": "Corporate governance"
+            },
+            {
+                "keyword_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "keyword_in_the_text": "Natural land",
+                "wikipedia_title": "Natural environment"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "keyword_in_the_text": "social",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "keyword_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "keyword_in_the_text": "EU",
+                "wikipedia_title": "European Union"
+            },
+            {
+                "keyword_in_the_text": "katalog",
+                "wikipedia_title": "Database"
+            },
+            {
+                "keyword_in_the_text": "eAmbrosia",
+                "wikipedia_title": "eAmbrosia"
+            },
+            {
+                "keyword_in_the_text": "Peyfothymaromelo",
+                "wikipedia_title": "Peyfothymaromelo"
+            },
+            {
+                "keyword_in_the_text": "Cretan honey",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "keyword_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            }
+        ]
+    }
+]

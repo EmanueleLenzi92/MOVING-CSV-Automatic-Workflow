@@ -1,0 +1,290 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "keyword_in_the_text": "Hutton",
+                "wikipedia_title": "John Hutton, Baron Hutton of Furness"
+            },
+            {
+                "keyword_in_the_text": "Deer hunting",
+                "wikipedia_title": "Deer hunting"
+            },
+            {
+                "keyword_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands of Scotland"
+            },
+            {
+                "keyword_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Highlands",
+                "wikipedia_title": "Highlands_and_Islands_of_Scotland"
+            },
+            {
+                "keyword_in_the_text": "Islands",
+                "wikipedia_title": "Highlands_and_Islands_of_Scotland"
+            },
+            {
+                "keyword_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "keyword_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth_and_Kinross"
+            },
+            {
+                "keyword_in_the_text": "Tay",
+                "wikipedia_title": "River_Tay"
+            },
+            {
+                "keyword_in_the_text": "Earn",
+                "wikipedia_title": "River_Earn"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "Inhabitants/km2",
+                "wikipedia_title": "Population density"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Gross domestic product per capita"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary",
+                "wikipedia_title": "Primary_sector"
+            },
+            {
+                "keyword_in_the_text": "secondary",
+                "wikipedia_title": "Secondary_sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary",
+                "wikipedia_title": "Tertiary_sector"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Scottish",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "keyword_in_the_text": "Deer stalking",
+                "wikipedia_title": "Deer stalking in Scotland"
+            },
+            {
+                "keyword_in_the_text": "Atholl estate",
+                "wikipedia_title": "Blair Atholl"
+            },
+            {
+                "keyword_in_the_text": "Glen Lyon",
+                "wikipedia_title": "Glen Lyon, Perth and Kinross"
+            },
+            {
+                "keyword_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "wild",
+                "wikipedia_title": "Wildland"
+            },
+            {
+                "keyword_in_the_text": "deer",
+                "wikipedia_title": "Red Deer"
+            },
+            {
+                "keyword_in_the_text": "grouse",
+                "wikipedia_title": "Grouse (bird)"
+            },
+            {
+                "keyword_in_the_text": "communities",
+                "wikipedia_title": "Community"
+            },
+            {
+                "keyword_in_the_text": "conservation",
+                "wikipedia_title": "Conservation biology"
+            },
+            {
+                "keyword_in_the_text": "ponies",
+                "wikipedia_title": "Pony"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "COVID",
+                "wikipedia_title": "COVID-19 pandemic"
+            },
+            {
+                "keyword_in_the_text": "Brexit",
+                "wikipedia_title": "United Kingdom withdrawal from the European Union"
+            },
+            {
+                "keyword_in_the_text": "Grouse shooting",
+                "wikipedia_title": "Driven grouse shooting"
+            },
+            {
+                "keyword_in_the_text": "Raptors",
+                "wikipedia_title": "Bird of prey"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "keyword_in_the_text": "Value Chain",
+                "wikipedia_title": "Supply chain"
+            },
+            {
+                "keyword_in_the_text": "drones",
+                "wikipedia_title": "Unmanned aerial vehicle"
+            },
+            {
+                "keyword_in_the_text": "camera traps",
+                "wikipedia_title": "Camera trap"
+            },
+            {
+                "keyword_in_the_text": "GPS collars",
+                "wikipedia_title": "Global Positioning System"
+            },
+            {
+                "keyword_in_the_text": "thermal imaging",
+                "wikipedia_title": "Thermal imaging"
+            },
+            {
+                "keyword_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "keyword_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "keyword_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "keyword_in_the_text": "Social",
+                "wikipedia_title": "Society"
+            },
+            {
+                "keyword_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Deer stalking",
+                "wikipedia_title": "Deer_stalking"
+            },
+            {
+                "keyword_in_the_text": "Highland",
+                "wikipedia_title": "Highlands_(Scotland)"
+            },
+            {
+                "keyword_in_the_text": "Islands NUT3 region",
+                "wikipedia_title": "Scottish_Islands"
+            },
+            {
+                "keyword_in_the_text": "Aberdeenshire",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "keyword_in_the_text": "Badendoch",
+                "wikipedia_title": "Badenoch"
+            },
+            {
+                "keyword_in_the_text": "Strathsphey LAU1 areas",
+                "wikipedia_title": "Strathspey"
+            },
+            {
+                "keyword_in_the_text": "Grouse shooting",
+                "wikipedia_title": "Grouse_shooting"
+            },
+            {
+                "keyword_in_the_text": "North east England",
+                "wikipedia_title": "North_East_England"
+            },
+            {
+                "keyword_in_the_text": "North West England",
+                "wikipedia_title": "North_West_England"
+            }
+        ]
+    }
+]

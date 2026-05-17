@@ -1,0 +1,231 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Pro Montagna",
+                "original_value": "Pro Montagna",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "reference",
+                "original_value": "Reference_(disambiguation)",
+                "Wikidata_ID": "Q11128228"
+            },
+            {
+                "originalKey": "mountain",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "chain",
+                "original_value": "Mountain_range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Gross domestic product per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary",
+                "original_value": "Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "traditional VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bees",
+                "original_value": "Bee",
+                "Wikidata_ID": "Q7391"
+            },
+            {
+                "originalKey": "endangered",
+                "original_value": "Endangered species",
+                "Wikidata_ID": "Q11394"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional venture capital",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "Beehives",
+                "original_value": "Beehive",
+                "Wikidata_ID": "Q165107"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Key",
+                "original_value": "Key (finance)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "asset",
+                "original_value": "Asset",
+                "Wikidata_ID": "Q46737"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "soil",
+                "original_value": "Soil",
+                "Wikidata_ID": "Q36133"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "local knowledge",
+                "original_value": "Local knowledge",
+                "Wikidata_ID": "Q1428168"
+            }
+        ]
+    }
+]

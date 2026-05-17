@@ -1,0 +1,256 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Moving (company)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "NMK",
+                "original_value": "NMK",
+                "Wikidata_ID": "Q1038553"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "National Chamber of Commerce",
+                "original_value": "Chamber of commerce",
+                "Wikidata_ID": "Q1123526"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Maleshevski",
+                "original_value": "Maleshevski Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Bregalnica",
+                "original_value": "Bregalnica River",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Strumica",
+                "original_value": "Strumica River",
+                "Wikidata_ID": "Q149214"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Vardar planning region",
+                "original_value": "Vardar Planning Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "hydro reservoirs",
+                "original_value": "Hydroelectric reservoir",
+                "Wikidata_ID": "Q80638"
+            },
+            {
+                "originalKey": "Tikvesh",
+                "original_value": "Tikvesh",
+                "Wikidata_ID": "Q1376255"
+            },
+            {
+                "originalKey": "Lices",
+                "original_value": "Lices (hydroelectric power station)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mladost",
+                "original_value": "Mladost (hydroelectric power station)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Kozuvcanka",
+                "original_value": "Kozuvcanka",
+                "Wikidata_ID": "Q110132076"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Kozuvcanka",
+                "original_value": "Kozuvcanka",
+                "Wikidata_ID": "Q110132076"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Maleshevski mountain",
+                "original_value": "Maleshevski Mountain",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vardarski region",
+                "original_value": "Vardar Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional VC",
+                "original_value": "Venture capital#Types of venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Innovative VC",
+                "original_value": "Venture capital#Types of venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "New processes",
+                "original_value": "Agroecology",
+                "Wikidata_ID": "Q396338"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Digital marketing",
+                "Wikidata_ID": "Q1323528"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forest conservation",
+                "Wikidata_ID": "Q372561"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Conservation agriculture",
+                "Wikidata_ID": "Q4439388"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Key local assets",
+                "original_value": "Local asset",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Valley Centric",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Geographic region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    }
+]

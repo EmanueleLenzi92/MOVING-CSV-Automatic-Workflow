@@ -1,0 +1,411 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "UNIPI",
+                "original_value": "University of Pisa",
+                "Wikidata_ID": "Q645663"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "VC 18 IT",
+                "original_value": "None",
+                "Wikidata_ID": "Q395712"
+            },
+            {
+                "originalKey": "Savigni",
+                "original_value": "None",
+                "Wikidata_ID": "Q395712"
+            },
+            {
+                "originalKey": "butcher's shop",
+                "original_value": "Butcher",
+                "Wikidata_ID": "Q329737"
+            },
+            {
+                "originalKey": "farm",
+                "original_value": "Farm",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "cured meat factory",
+                "original_value": "Cured meat",
+                "Wikidata_ID": "Q1503716"
+            },
+            {
+                "originalKey": "supply chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Northern Apennines",
+                "original_value": "Northern Apennines",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "original_value": "Tuscan Apennines",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sambuca Pistoiese",
+                "original_value": "Sambuca Pistoiese",
+                "Wikidata_ID": "Q102725"
+            },
+            {
+                "originalKey": "Pistoia",
+                "original_value": "Pistoia",
+                "Wikidata_ID": "Q13376"
+            },
+            {
+                "originalKey": "Tuscany",
+                "original_value": "Tuscany",
+                "Wikidata_ID": "Q1273"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Income",
+                "Wikidata_ID": "Q1527264"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross Value Added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Hotel",
+                "Wikidata_ID": "Q27686"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment/year",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Certifications",
+                "original_value": "Certification",
+                "Wikidata_ID": "Q374814"
+            },
+            {
+                "originalKey": "Bollo IT",
+                "original_value": "Not applicable",
+                "Wikidata_ID": "Q929804"
+            },
+            {
+                "originalKey": "ANAS",
+                "original_value": "Association of National Road Carriers",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Japan Export",
+                "original_value": "Not applicable",
+                "Wikidata_ID": "Q929804"
+            },
+            {
+                "originalKey": "BioAgriCert",
+                "original_value": "BioAgriCert",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "AIAB",
+                "original_value": "AIAB (certification)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "INEQ",
+                "original_value": "INEQ (Quality North-East Institute)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cinta Senese",
+                "original_value": "Cinta Senese",
+                "Wikidata_ID": "Q500434"
+            },
+            {
+                "originalKey": "TUV",
+                "original_value": "TUV Rheinland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Consorzio Tutela",
+                "original_value": "Consortium",
+                "Wikidata_ID": "Q194166"
+            },
+            {
+                "originalKey": "Finocchiona PGI",
+                "original_value": "PGI Finocchiona",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vitellone Bianco dell Appennino Centrale PGI",
+                "original_value": "Chianina",
+                "Wikidata_ID": "Q1071628"
+            },
+            {
+                "originalKey": "Chianina beef",
+                "original_value": "Chianina",
+                "Wikidata_ID": "Q1071628"
+            },
+            {
+                "originalKey": "3A-PTA Umbria Agri-food Technology Park",
+                "original_value": "Not applicable",
+                "Wikidata_ID": "Q929804"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "environment",
+                "original_value": "Environment",
+                "Wikidata_ID": "Q1572519"
+            },
+            {
+                "originalKey": "Savigni family",
+                "original_value": "Savigny (Parmigiano-Reggiano)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "seasons",
+                "original_value": "Season",
+                "Wikidata_ID": "Q24384"
+            },
+            {
+                "originalKey": "Porretta",
+                "original_value": "Porretta Terme",
+                "Wikidata_ID": "Q94983"
+            },
+            {
+                "originalKey": "Suviana Lake",
+                "original_value": "Suviana Lake",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Production",
+                "Wikidata_ID": "Q663143"
+            },
+            {
+                "originalKey": "animals",
+                "original_value": "Animal",
+                "Wikidata_ID": "Q729"
+            },
+            {
+                "originalKey": "pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "meat",
+                "original_value": "Meat",
+                "Wikidata_ID": "Q10990"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "supply",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "animal",
+                "original_value": "Animal",
+                "Wikidata_ID": "Q729"
+            },
+            {
+                "originalKey": "international market demand",
+                "original_value": "International trade",
+                "Wikidata_ID": "Q178803"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogeneity",
+                "Wikidata_ID": "Q20998573"
+            },
+            {
+                "originalKey": "organic farm",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "certification",
+                "original_value": "Certification",
+                "Wikidata_ID": "Q374814"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Vulture (bird)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "mountain areas",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "Province of Dauni",
+                "original_value": "Daunia",
+                "Wikidata_ID": "Q1172997"
+            }
+        ]
+    }
+]

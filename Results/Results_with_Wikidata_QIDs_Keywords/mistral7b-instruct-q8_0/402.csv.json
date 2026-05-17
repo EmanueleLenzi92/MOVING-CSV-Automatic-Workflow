@@ -1,0 +1,391 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "MOVING (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Switzerland",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "VC 18 CH1",
+                "original_value": "VC 18 CH1",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Alpine tourism",
+                "original_value": "Alpine tourism",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "hotels",
+                "original_value": "Hotel",
+                "Wikidata_ID": "Q27686"
+            },
+            {
+                "originalKey": "restaurants",
+                "original_value": "Restaurant",
+                "Wikidata_ID": "Q11707"
+            },
+            {
+                "originalKey": "ski lifts",
+                "original_value": "Ski lift",
+                "Wikidata_ID": "Q891302"
+            },
+            {
+                "originalKey": "richer regions",
+                "original_value": "Economic development",
+                "Wikidata_ID": "Q4530482"
+            },
+            {
+                "originalKey": "less prosperous regions",
+                "original_value": "Poverty",
+                "Wikidata_ID": "Q10294"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            },
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "density",
+                "original_value": "Density",
+                "Wikidata_ID": "Q29539"
+            },
+            {
+                "originalKey": "change rate",
+                "original_value": "Demographic change",
+                "Wikidata_ID": "Q37732"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative division",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional share",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural land use",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment/year [Province]",
+                "original_value": "Employment by sector in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "employment/year [Region]",
+                "original_value": "Employment by sector in [Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC-systems",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "varied",
+                "original_value": "Variety",
+                "Wikidata_ID": "Q12805262"
+            },
+            {
+                "originalKey": "high impact",
+                "original_value": "Impact",
+                "Wikidata_ID": "Q400416"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "traditional",
+                "original_value": "Traditional",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous",
+                "Wikidata_ID": "Q285982"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous",
+                "Wikidata_ID": "Q293000"
+            },
+            {
+                "originalKey": "Touristic attractions",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product innovation",
+                "Wikidata_ID": "Q7247768"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Process innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Land use systems",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            },
+            {
+                "originalKey": "Natural assets",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "Social assets",
+                "original_value": "Society",
+                "Wikidata_ID": "Q8425"
+            },
+            {
+                "originalKey": "Cultural assets",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "recognize",
+                "original_value": "Recognition",
+                "Wikidata_ID": "Q13725110"
+            },
+            {
+                "originalKey": "keywords",
+                "original_value": "Keywords",
+                "Wikidata_ID": "Q1289923"
+            },
+            {
+                "originalKey": "find",
+                "original_value": "Find",
+                "Wikidata_ID": "Q535119"
+            },
+            {
+                "originalKey": "exact",
+                "original_value": "Exact",
+                "Wikidata_ID": "Q16033993"
+            },
+            {
+                "originalKey": "title",
+                "original_value": "Title",
+                "Wikidata_ID": "Q216353"
+            },
+            {
+                "originalKey": "corresponding",
+                "original_value": "Corresponding",
+                "Wikidata_ID": "Q355415"
+            },
+            {
+                "originalKey": "Wikipedia",
+                "original_value": "Wikipedia",
+                "Wikidata_ID": "Q52"
+            },
+            {
+                "originalKey": "page",
+                "original_value": "Page",
+                "Wikidata_ID": "Q224749"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Other regions",
+                "original_value": "Regions",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "provide this service",
+                "original_value": "Service provision",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "high impact on region",
+                "original_value": "Impact of services on regions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "same as above",
+                "original_value": "Service provision",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

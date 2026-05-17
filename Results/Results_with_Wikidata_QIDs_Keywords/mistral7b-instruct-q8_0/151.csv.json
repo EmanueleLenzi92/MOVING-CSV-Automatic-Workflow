@@ -1,0 +1,376 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "MOVING (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "Italy Unimol",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "UNIPI",
+                "original_value": "Università degli Studi di Pisa",
+                "Wikidata_ID": "Q645663"
+            },
+            {
+                "originalKey": "VC 18 IT",
+                "original_value": "VC 18 IT",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Savigni",
+                "original_value": "Savigni",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "butcher's shop",
+                "original_value": "Butcher's shop",
+                "Wikidata_ID": "Q329737"
+            },
+            {
+                "originalKey": "farm",
+                "original_value": "Farming",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "cured meat factory",
+                "original_value": "Cured meat",
+                "Wikidata_ID": "Q1503716"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Northern Apennines",
+                "original_value": "Northern Apennines",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "original_value": "Tuscan-Emilian Apennines",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Sambuca Pistoiese",
+                "original_value": "Sambuca Pistoiese",
+                "Wikidata_ID": "Q102725"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "density",
+                "original_value": "Density",
+                "Wikidata_ID": "Q29539"
+            },
+            {
+                "originalKey": "change rate",
+                "original_value": "Change rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "total BPs",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Local administrative division",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural land use",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment/year [Province]",
+                "original_value": "Employment by sector in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "employment/year [Region]",
+                "original_value": "Employment by sector in [Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Certifications",
+                "original_value": "Certification",
+                "Wikidata_ID": "Q374814"
+            },
+            {
+                "originalKey": "Bollo IT 9-3467/L IT R152E CE ANAS",
+                "original_value": "ANAS (National Association Pig Farmers)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Japan Export",
+                "original_value": "Ministry of Health",
+                "Wikidata_ID": "Q5349863"
+            },
+            {
+                "originalKey": "BioAgriCert",
+                "original_value": "Certification Body / Organic Control",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Products Guarantee AIAB",
+                "original_value": "Certification Body / Organic Control",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "INEQ (Quality North-East Institute / Body PDO Control Cinta Senese)",
+                "original_value": "Quality North-East Institute / Body PDO Control Cinta Senese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "TUV (German Certification Body ISO 9001/08)",
+                "original_value": "ISO 9001",
+                "Wikidata_ID": "Q206008"
+            },
+            {
+                "originalKey": "quality consortium",
+                "original_value": "Quality Consortium",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Consorzio Tutela of Cinta Senese Quality Consortium",
+                "original_value": "Consorzio Tutela Finocchiona PGI Finocchiona PGI (Certification Body INeQ Quality North-East Institute)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vitellone Bianco dell Appennino Centrale PGI",
+                "original_value": "Chianina beef (Certification Body 3A-PTA Umbria Agri-food Technology Park)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Collaboration with other farms of the territories",
+                "original_value": "Farming",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "environment",
+                "original_value": "Environment",
+                "Wikidata_ID": "Q1572519"
+            },
+            {
+                "originalKey": "Savigni family",
+                "original_value": "Savigni family",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Porretta",
+                "original_value": "Porretta",
+                "Wikidata_ID": "Q131438339"
+            },
+            {
+                "originalKey": "Suviana Lake",
+                "original_value": "Suviana Lake",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "closed cycle of production",
+                "original_value": "Closed-loop agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "outdoors",
+                "original_value": "Outdoor farming",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "supply",
+                "original_value": "Supply chain management",
+                "Wikidata_ID": "Q492886"
+            },
+            {
+                "originalKey": "animal",
+                "original_value": "Animal welfare",
+                "Wikidata_ID": "Q459426"
+            },
+            {
+                "originalKey": "market demand",
+                "original_value": "Market demand",
+                "Wikidata_ID": "Q4402708"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "Challenge",
+                "Wikidata_ID": "Q6554155"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous",
+                "Wikidata_ID": "Q285982"
+            },
+            {
+                "originalKey": "Organic farm",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Certification",
+                "original_value": "Certification",
+                "Wikidata_ID": "Q374814"
+            },
+            {
+                "originalKey": "Marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural assets",
+                "original_value": "Natural resources",
+                "Wikidata_ID": "Q188460"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "null",
+                "original_value": "null",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "null",
+                "original_value": "null",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

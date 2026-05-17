@@ -1,0 +1,421 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "MOVING (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "TURKEY",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "VC 11 TR",
+                "original_value": "VC 11 TR (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Mugla",
+                "original_value": "Mugla",
+                "Wikidata_ID": "Q216912"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            },
+            {
+                "originalKey": "Menteşe Mountains",
+                "original_value": "Menteşe Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Ula",
+                "original_value": "Ula",
+                "Wikidata_ID": "Q22151638"
+            },
+            {
+                "originalKey": "Muğla province",
+                "original_value": "Muğla Province",
+                "Wikidata_ID": "Q123934"
+            },
+            {
+                "originalKey": "Mediterranean climate",
+                "original_value": "Mediterranean climate",
+                "Wikidata_ID": "Q13996"
+            },
+            {
+                "originalKey": "agricultural production",
+                "original_value": "Agricultural production",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "longest coastline in Turkey",
+                "original_value": "Coastline of Turkey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourist destinations",
+                "original_value": "Tourism in Turkey",
+                "Wikidata_ID": "Q282086"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "density",
+                "original_value": "Density",
+                "Wikidata_ID": "Q29539"
+            },
+            {
+                "originalKey": "change rate",
+                "original_value": "Change rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative division",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional share",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural land use",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nearest settlement",
+                "original_value": "Nearest city or town",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment/year [Province]",
+                "original_value": "Employment by sector in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "employment/year [Region]",
+                "original_value": "Employment by sector in [Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "pine honey",
+                "original_value": "Pine honey",
+                "Wikidata_ID": "Q7195419"
+            },
+            {
+                "originalKey": "Geographical Indication",
+                "original_value": "Geographical indication",
+                "Wikidata_ID": "Q325668"
+            },
+            {
+                "originalKey": "high quality product",
+                "original_value": "Quality",
+                "Wikidata_ID": "Q298413"
+            },
+            {
+                "originalKey": "stored for a long time",
+                "original_value": "Storage of honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "medicine and food sectors",
+                "original_value": "Medical uses of honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Agriculture and tourism",
+                "original_value": "Tourism in Turkey",
+                "Wikidata_ID": "Q282086"
+            },
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "organic honey production",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Pine honey",
+                "original_value": "Pine honey",
+                "Wikidata_ID": "Q7195419"
+            },
+            {
+                "originalKey": "Muğla Province",
+                "original_value": "Muğla Province",
+                "Wikidata_ID": "Q123934"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Forests",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "Pine honey production",
+                "original_value": "Pine honey production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Land area",
+                "original_value": "Land area",
+                "Wikidata_ID": "Q260023"
+            },
+            {
+                "originalKey": "Forest villages",
+                "original_value": "Forest village",
+                "Wikidata_ID": "Q351190"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Honey yield",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Climatic conditions",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "Migratory beekeeper",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Accommodation",
+                "original_value": "Housing",
+                "Wikidata_ID": "Q1247867"
+            },
+            {
+                "originalKey": "Young people",
+                "original_value": "Youth",
+                "Wikidata_ID": "Q190007"
+            },
+            {
+                "originalKey": "Beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "original_value": "Future",
+                "Wikidata_ID": "Q344"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "certified",
+                "original_value": "Certification",
+                "Wikidata_ID": "Q374814"
+            },
+            {
+                "originalKey": "organic",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Rainforest Alliance",
+                "original_value": "Rainforest Alliance",
+                "Wikidata_ID": "Q2034373"
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "Local assets",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "pine honey",
+                "original_value": "Pine honey",
+                "Wikidata_ID": "Q7195419"
+            },
+            {
+                "originalKey": "MRLs",
+                "original_value": "Member States",
+                "Wikidata_ID": "Q1646605"
+            }
+        ]
+    }
+]

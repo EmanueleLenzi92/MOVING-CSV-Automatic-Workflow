@@ -1,0 +1,491 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "Spain",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "ADEGUA",
+                "original_value": "ADEGUA",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+                "original_value": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ATADES Gardeniers Special Employment Center",
+                "original_value": "ATADES Gardeniers Special Employment Centre",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "boliche",
+                "original_value": "Boricheel",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "chickpeas",
+                "original_value": "Chickpea",
+                "Wikidata_ID": "Q81375"
+            },
+            {
+                "originalKey": "lentils",
+                "original_value": "Lentil",
+                "Wikidata_ID": "Q131226"
+            },
+            {
+                "originalKey": "Torres de Berrellén melon",
+                "original_value": "Torres de Berrellén Melon",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "organic honey from borage flower",
+                "original_value": "Organic Honey from Borage Flower",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rural Development Program",
+                "original_value": "Rural Development Programme (Spain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Government of Aragon",
+                "original_value": "Government of Aragon",
+                "Wikidata_ID": "Q578863"
+            },
+            {
+                "originalKey": "European Agricultural Fund for Rural Development (EAFRD)",
+                "original_value": "European Agricultural Fund for Rural Development",
+                "Wikidata_ID": "Q1377910"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Pyrenees",
+                "original_value": "Pyrenees",
+                "Wikidata_ID": "Q12431"
+            },
+            {
+                "originalKey": "Jaca (Ascara)",
+                "original_value": "Jaca",
+                "Wikidata_ID": "Q49581"
+            },
+            {
+                "originalKey": "Canal de Berdún",
+                "original_value": "Canal de Berdún",
+                "Wikidata_ID": "Q987419"
+            },
+            {
+                "originalKey": "Cielos de Ascara",
+                "original_value": "Cielos de Ascara",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Huesca",
+                "original_value": "Huesca",
+                "Wikidata_ID": "Q11967"
+            },
+            {
+                "originalKey": "Zaragoza",
+                "original_value": "Zaragoza",
+                "Wikidata_ID": "Q10305"
+            },
+            {
+                "originalKey": "boliche",
+                "original_value": "Boliche",
+                "Wikidata_ID": "Q4939431"
+            },
+            {
+                "originalKey": "chickpeas",
+                "original_value": "Chickpea",
+                "Wikidata_ID": "Q81375"
+            },
+            {
+                "originalKey": "lentils",
+                "original_value": "Lentil",
+                "Wikidata_ID": "Q131226"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "melon",
+                "original_value": "Melon",
+                "Wikidata_ID": "Q5881191"
+            },
+            {
+                "originalKey": "Torres de Berrellén",
+                "original_value": "Torres de Berrellén",
+                "Wikidata_ID": "Q1628472"
+            },
+            {
+                "originalKey": "Alagón",
+                "original_value": "Alagón",
+                "Wikidata_ID": "Q355087"
+            },
+            {
+                "originalKey": "Montañana",
+                "original_value": "Montañana",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gardeniers farm",
+                "original_value": "Gardeniers farm",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sigpac",
+                "original_value": "SIGPAC",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Jaca",
+                "original_value": "Jaca",
+                "Wikidata_ID": "Q49581"
+            },
+            {
+                "originalKey": "Jacetania",
+                "original_value": "Jacetania",
+                "Wikidata_ID": "Q549390"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "size of the area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Bed and breakfast",
+                "Wikidata_ID": "Q367914"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "Local Administrative Unit (LAU)",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "nearest settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "population over 100000",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Cielos de Ascara",
+                "original_value": "Cielos de Ascara",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "organic food production",
+                "original_value": "Organic food production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "public-private collaboration",
+                "original_value": "Public–private partnership",
+                "Wikidata_ID": "Q221096"
+            },
+            {
+                "originalKey": "social development",
+                "original_value": "Social development",
+                "Wikidata_ID": "Q25503420"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Aragon",
+                "original_value": "Aragon",
+                "Wikidata_ID": "Q4040"
+            },
+            {
+                "originalKey": "sustainable",
+                "original_value": "Sustainability",
+                "Wikidata_ID": "Q219416"
+            },
+            {
+                "originalKey": "horticultural products",
+                "original_value": "Horticulture",
+                "Wikidata_ID": "Q48803"
+            },
+            {
+                "originalKey": "organic production",
+                "original_value": "Organic agriculture",
+                "Wikidata_ID": "Q165647"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "sustainability",
+                "original_value": "Sustainability",
+                "Wikidata_ID": "Q219416"
+            },
+            {
+                "originalKey": "institutional and private actors",
+                "original_value": "Institutional investors",
+                "Wikidata_ID": "Q1665188"
+            },
+            {
+                "originalKey": "rural development policies",
+                "original_value": "Rural development",
+                "Wikidata_ID": "Q3045473"
+            },
+            {
+                "originalKey": "urban consumption environments",
+                "original_value": "Urban economics",
+                "Wikidata_ID": "Q385256"
+            },
+            {
+                "originalKey": "venture capital (VC)",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "challenges",
+                "original_value": "Challenge",
+                "Wikidata_ID": "Q6554155"
+            },
+            {
+                "originalKey": "innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous growth theory",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product development",
+                "Wikidata_ID": "Q1395034"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Process innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Agricultural land",
+                "Wikidata_ID": "Q3395383"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural environment",
+                "Wikidata_ID": "Q43619"
+            },
+            {
+                "originalKey": "Social",
+                "original_value": "Social aspects",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Sites of Community Importance (SCI)",
+                "original_value": "Site of Community Importance",
+                "Wikidata_ID": "Q796174"
+            },
+            {
+                "originalKey": "Special Protection Area for Birds (SPA)",
+                "original_value": "Special Protection Area",
+                "Wikidata_ID": "Q2463705"
+            },
+            {
+                "originalKey": "San Juan de la Peña",
+                "original_value": "San Juan de la Peña",
+                "Wikidata_ID": "Q1389060"
+            },
+            {
+                "originalKey": "Monte Oroel",
+                "original_value": "Monte Oroel",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural Park of the Western Valleys",
+                "original_value": "Natural Park of the Western Valleys",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Torres de Berrellén",
+                "original_value": "Torres de Berrellén",
+                "Wikidata_ID": "Q1628472"
+            },
+            {
+                "originalKey": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "original_value": "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Montañana",
+                "original_value": "Montañana",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Processing Plant",
+                "original_value": "Processing Plant",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gardeniers",
+                "original_value": "Centro de Trabajo Específico Gardeniers",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ATADES",
+                "original_value": "ATADES",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mercazaragoza",
+                "original_value": "Mercazaragoza",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING reference member state",
+                "original_value": "Moving average",
+                "Wikidata_ID": "Q1130194"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "NMK",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "Card ID",
+                "original_value": "Card ID",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "bottled water",
+                "original_value": "Bottled water",
+                "Wikidata_ID": "Q1049049"
+            },
+            {
+                "originalKey": "Kozuvcanka",
+                "original_value": "Kozuvcanka",
+                "Wikidata_ID": "Q110132076"
+            },
+            {
+                "originalKey": "Pelisterka",
+                "original_value": "Pelister",
+                "Wikidata_ID": "Q797539"
+            },
+            {
+                "originalKey": "Maya",
+                "original_value": "Maya (company)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "National Chamber of Commerce",
+                "original_value": "Chamber of Commerce",
+                "Wikidata_ID": "Q1123526"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Mountain Meleshevija",
+                "original_value": "Meleshevija Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Maleshevski mountains",
+                "original_value": "Meleshevija Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Republic of North Macedonia",
+                "original_value": "Republic of North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "Berovo",
+                "original_value": "Berovo",
+                "Wikidata_ID": "Q827047"
+            },
+            {
+                "originalKey": "Pehchevo",
+                "original_value": "Pehchevo",
+                "Wikidata_ID": "Q162952"
+            },
+            {
+                "originalKey": "Bregalnica",
+                "original_value": "Bregalnica River",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Strumica",
+                "original_value": "Strumica River",
+                "Wikidata_ID": "Q149214"
+            },
+            {
+                "originalKey": "Forests",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "Pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Kilometer square",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "thousand",
+                "original_value": "Thousand",
+                "Wikidata_ID": "Q43016"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Income",
+                "Wikidata_ID": "Q1527264"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross Value Added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Industry",
+                "Wikidata_ID": "Q257927"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Services",
+                "Wikidata_ID": "Q232576"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Hotel",
+                "Wikidata_ID": "Q27686"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment/year",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Vardar planning region",
+                "original_value": "Vardar River",
+                "Wikidata_ID": "Q189596"
+            },
+            {
+                "originalKey": "hydro reservoirs",
+                "original_value": "Reservoir",
+                "Wikidata_ID": "Q131681"
+            },
+            {
+                "originalKey": "Tikvesh",
+                "original_value": "Tikvesh",
+                "Wikidata_ID": "Q1376255"
+            },
+            {
+                "originalKey": "Kavadarci",
+                "original_value": "Kavadarci",
+                "Wikidata_ID": "Q158088"
+            },
+            {
+                "originalKey": "mineral water",
+                "original_value": "Mineral water",
+                "Wikidata_ID": "Q178921"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Kozuvcanka",
+                "original_value": "Kozuvcanka mineral water",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "mineral water",
+                "original_value": "Mineral water",
+                "Wikidata_ID": "Q178921"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Maleshevski mountain",
+                "original_value": "Maleshevsko Macedonia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vardarski region",
+                "original_value": "Vardar Macedonia",
+                "Wikidata_ID": "Q1890609"
+            },
+            {
+                "originalKey": "project",
+                "original_value": "Project management",
+                "Wikidata_ID": "Q179012"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional industry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "technology",
+                "original_value": "Technology",
+                "Wikidata_ID": "Q11016"
+            },
+            {
+                "originalKey": "processes",
+                "original_value": "Process",
+                "Wikidata_ID": "Q10843872"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural assets",
+                "original_value": "Natural resource",
+                "Wikidata_ID": "Q188460"
+            },
+            {
+                "originalKey": "social assets",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "cultural assets",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "local assets",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "mountain regions",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "packed",
+                "original_value": "Packaging",
+                "Wikidata_ID": "Q207822"
+            },
+            {
+                "originalKey": "processed",
+                "original_value": "Food processing",
+                "Wikidata_ID": "Q627371"
+            }
+        ]
+    }
+]

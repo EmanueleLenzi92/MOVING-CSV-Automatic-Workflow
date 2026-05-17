@@ -1,0 +1,376 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "ITALY",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "UNIMOL",
+                "original_value": "University of Molise",
+                "Wikidata_ID": "Q1093340"
+            },
+            {
+                "originalKey": "UNIPI",
+                "original_value": "University of Pisa",
+                "Wikidata_ID": "Q645663"
+            },
+            {
+                "originalKey": "organic production",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "aromatic herbs",
+                "original_value": "Herb (culinary)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "honey production",
+                "original_value": "Honey production",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Northern Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Anghiari",
+                "original_value": "Anghiari",
+                "Wikidata_ID": "Q52063"
+            },
+            {
+                "originalKey": "Arezzo Province",
+                "original_value": "Province of Arezzo",
+                "Wikidata_ID": "Q16115"
+            },
+            {
+                "originalKey": "Tuscany Region",
+                "original_value": "Tuscany",
+                "Wikidata_ID": "Q1273"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Umbria region",
+                "original_value": "Umbria",
+                "Wikidata_ID": "Q1280"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Demographic transition model",
+                "Wikidata_ID": "Q381763"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per_capita_income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary_sector_of_an_economy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary_sector_of_an_economy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary_sector_of_an_economy",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "NUTS",
+                "Wikidata_ID": "Q1265417"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "bed places",
+                "original_value": "Bed and breakfast",
+                "Wikidata_ID": "Q367914"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement (archaeology)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Organic farm",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Mountain Product",
+                "original_value": "Protected designation of origin",
+                "Wikidata_ID": "Q13439060"
+            },
+            {
+                "originalKey": "Reg.(UE) n.1151/2012",
+                "original_value": "EU quality schemes for agricultural products and foodstuffs",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Reg.(UE) n.665/2014",
+                "original_value": "EU quality schemes for agricultural products and foodstuffs",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "herbal teas",
+                "original_value": "Herbal tea",
+                "Wikidata_ID": "Q379932"
+            },
+            {
+                "originalKey": "herb salt",
+                "original_value": "Salt substitute",
+                "Wikidata_ID": "Q1778124"
+            },
+            {
+                "originalKey": "Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "sustainability",
+                "original_value": "Sustainable development",
+                "Wikidata_ID": "Q131201"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Steinbruck",
+                "original_value": "Steinbrück",
+                "Wikidata_ID": "Q49328"
+            },
+            {
+                "originalKey": "hills",
+                "original_value": "Hill",
+                "Wikidata_ID": "Q54050"
+            },
+            {
+                "originalKey": "organic cultivation",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "natural cultivation",
+                "original_value": "Natural farming",
+                "Wikidata_ID": "Q2281159"
+            },
+            {
+                "originalKey": "medicinal and aromatic herbs",
+                "original_value": "Medicinal plants",
+                "Wikidata_ID": "Q188840"
+            },
+            {
+                "originalKey": "wild herbs of the Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Steinbruck",
+                "original_value": "Steinbrück",
+                "Wikidata_ID": "Q49328"
+            },
+            {
+                "originalKey": "hills",
+                "original_value": "Hill",
+                "Wikidata_ID": "Q54050"
+            },
+            {
+                "originalKey": "organic cultivation",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "medicinal and aromatic herbs",
+                "original_value": "Medicinal plants",
+                "Wikidata_ID": "Q188840"
+            },
+            {
+                "originalKey": "wild herbs of the Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogeneity",
+                "Wikidata_ID": "Q20998573"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous variable",
+                "Wikidata_ID": "Q61985482"
+            },
+            {
+                "originalKey": "Nature",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "Sustainability",
+                "original_value": "Sustainable development",
+                "Wikidata_ID": "Q131201"
+            },
+            {
+                "originalKey": "Quality",
+                "original_value": "Quality",
+                "Wikidata_ID": "Q298413"
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product (business)",
+                "Wikidata_ID": "Q2424752"
+            },
+            {
+                "originalKey": "Marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Aromatic herbs",
+                "original_value": "Herb (fragrance)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Valle Camonica",
+                "Wikidata_ID": "Q734317"
+            },
+            {
+                "originalKey": "Province (NUTS3)",
+                "original_value": "Nomenclature of Territorial Units for Statistics#Level 3",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    }
+]

@@ -1,0 +1,441 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Scotland Hutton",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 02 UK",
+                "original_value": "Value Chain (VC) 02 UK",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly Cheese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "European Protected Geographical Indication (PGI)",
+                "original_value": "Protected Designation of Origin (PDO)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "West Wales",
+                "original_value": "Wales (administrative division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Caerphilly",
+                "original_value": "Caerphilly",
+                "Wikidata_ID": "Q909119"
+            },
+            {
+                "originalKey": "south of Wales",
+                "original_value": "Wales (administrative division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "steep-sided valleys",
+                "original_value": "Valley",
+                "Wikidata_ID": "Q39816"
+            },
+            {
+                "originalKey": "Cardiff",
+                "original_value": "Cardiff",
+                "Wikidata_ID": "Q10690"
+            },
+            {
+                "originalKey": "Newport",
+                "original_value": "Newport",
+                "Wikidata_ID": "Q224715"
+            },
+            {
+                "originalKey": "industrial and mining region",
+                "original_value": "Industrial Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary Sector",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourism destination",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "high unemployment",
+                "original_value": "Unemployment",
+                "Wikidata_ID": "Q41171"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional Population Density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "average per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "List of hotels in the United States",
+                "Wikidata_ID": "Q6623780"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in [Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in [Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Castle Dairies",
+                "original_value": "Castle Dairies",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The Big Cheese",
+                "original_value": "Big Cheese Festival",
+                "Wikidata_ID": "Q96373526"
+            },
+            {
+                "originalKey": "Gorwydd",
+                "original_value": "Gorwydd cheese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "International Cheese Awards",
+                "original_value": "International Cheese Awards",
+                "Wikidata_ID": "Q6049165"
+            },
+            {
+                "originalKey": "Caerphilly town",
+                "original_value": "Caerphilly",
+                "Wikidata_ID": "Q909119"
+            },
+            {
+                "originalKey": "PGI",
+                "original_value": "Protected Geographical Indication",
+                "Wikidata_ID": "Q363268"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "natural assets",
+                "original_value": "List of natural resources in Wales",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "social assets",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "cultural assets",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            },
+            {
+                "originalKey": "local and traditional knowledge",
+                "original_value": "Traditional knowledge",
+                "Wikidata_ID": "Q1428168"
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly Cheese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "PGI status",
+                "original_value": "Protected Geographical Indication",
+                "Wikidata_ID": "Q363268"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "COVID",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            },
+            {
+                "originalKey": "Caerphilly producers",
+                "original_value": "Caerphilly cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "territorial identity",
+                "original_value": "Cultural identity",
+                "Wikidata_ID": "Q1368367"
+            },
+            {
+                "originalKey": "pre-war techniques",
+                "original_value": "Traditional craftsmanship",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "mass production methods",
+                "original_value": "Mass production",
+                "Wikidata_ID": "Q215768"
+            },
+            {
+                "originalKey": "challenge faced by this VC",
+                "original_value": "Business challenge",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous innovation",
+                "original_value": "Endogenous Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly Cheese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "traditional pre-war cheesemaking processes",
+                "original_value": "Traditional Cheesemaking",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "hand-made",
+                "original_value": "Handcrafted",
+                "Wikidata_ID": "Q877729"
+            },
+            {
+                "originalKey": "re-engagement with traditional pre-war cheesemaking processes",
+                "original_value": "Traditional Cheesemaking",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Process Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing Strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Local assets",
+                "original_value": "Local Assets",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Somerset",
+                "original_value": "Somerset",
+                "Wikidata_ID": "Q23157"
+            },
+            {
+                "originalKey": "South Somerset",
+                "original_value": "South Somerset",
+                "Wikidata_ID": "Q1379924"
+            },
+            {
+                "originalKey": "Wiltshire",
+                "original_value": "Wiltshire",
+                "Wikidata_ID": "Q23183"
+            }
+        ]
+    }
+]

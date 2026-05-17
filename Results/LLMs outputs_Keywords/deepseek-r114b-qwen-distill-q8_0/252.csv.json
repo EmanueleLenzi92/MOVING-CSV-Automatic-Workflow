@@ -1,0 +1,414 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Deer hunting",
+                "wikipedia_title": "Deer Hunting"
+            },
+            {
+                "keyword_in_the_text": "stalking",
+                "wikipedia_title": "Stalking (hunting)"
+            },
+            {
+                "keyword_in_the_text": "Highlands and Islands of Scotland",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "keyword_in_the_text": "mountain hares",
+                "wikipedia_title": "Mountain Hare"
+            },
+            {
+                "keyword_in_the_text": "heather/ gorse",
+                "wikipedia_title": "Heather"
+            },
+            {
+                "keyword_in_the_text": "heather/ gorse",
+                "wikipedia_title": "Gorse"
+            },
+            {
+                "keyword_in_the_text": "stag",
+                "wikipedia_title": "Stag"
+            },
+            {
+                "keyword_in_the_text": "roe and fallow bucks",
+                "wikipedia_title": "Roe Deer"
+            },
+            {
+                "keyword_in_the_text": "roe and fallow bucks",
+                "wikipedia_title": "Fallow Deer"
+            },
+            {
+                "keyword_in_the_text": "Perth and Kinross (LAU1)",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "keyword_in_the_text": "Blair Atholl Estates",
+                "wikipedia_title": "Blair Atholl Estates"
+            },
+            {
+                "keyword_in_the_text": "Glen Lyon",
+                "wikipedia_title": "Glen Lyon"
+            },
+            {
+                "keyword_in_the_text": "venison meat",
+                "wikipedia_title": "Venison"
+            },
+            {
+                "keyword_in_the_text": "www.highlandgame.com",
+                "wikipedia_title": "Highland Game"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Highlands and Islands (RR9)",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "keyword_in_the_text": "Eastern Scotland (NUTS2)",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "keyword_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "keyword_in_the_text": "Tay",
+                "wikipedia_title": "River Tay"
+            },
+            {
+                "keyword_in_the_text": "Earn",
+                "wikipedia_title": "River Earn"
+            },
+            {
+                "keyword_in_the_text": "Perth",
+                "wikipedia_title": "Perth"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "size of the area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density (Inhabitants/km2)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Demographic trends"
+            },
+            {
+                "keyword_in_the_text": "regional population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "regional population change rate",
+                "wikipedia_title": "Demographic trends"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places (BPs)",
+                "wikipedia_title": "Bed and breakfast"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "keyword_in_the_text": "Local Administrative Unit (LAU)",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "keyword_in_the_text": "regional share",
+                "wikipedia_title": "Regional share"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "keyword_in_the_text": "settlement with population over 100000",
+                "wikipedia_title": "Human settlement"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Sporting game",
+                "wikipedia_title": "Game"
+            },
+            {
+                "keyword_in_the_text": "Deer stalking",
+                "wikipedia_title": "Deer Stalking"
+            },
+            {
+                "keyword_in_the_text": "Vension meat",
+                "wikipedia_title": "Venison"
+            },
+            {
+                "keyword_in_the_text": "Atholl estate",
+                "wikipedia_title": "Atholl Estate"
+            },
+            {
+                "keyword_in_the_text": "Blair Atholl and Glen Lyon estate",
+                "wikipedia_title": "Blair Atholl and Glen Lyon Estate"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Natural assets",
+                "wikipedia_title": "Natural Capital"
+            },
+            {
+                "keyword_in_the_text": "Social assets",
+                "wikipedia_title": "Social Capital"
+            },
+            {
+                "keyword_in_the_text": "Cultural assets",
+                "wikipedia_title": "Cultural Capital"
+            },
+            {
+                "keyword_in_the_text": "wild land",
+                "wikipedia_title": "Wildland"
+            },
+            {
+                "keyword_in_the_text": "deer",
+                "wikipedia_title": "Deer"
+            },
+            {
+                "keyword_in_the_text": "grouse",
+                "wikipedia_title": "Grouse"
+            },
+            {
+                "keyword_in_the_text": "local communities",
+                "wikipedia_title": "Community"
+            },
+            {
+                "keyword_in_the_text": "hikers",
+                "wikipedia_title": "Hiking"
+            },
+            {
+                "keyword_in_the_text": "wildlife conservation organisations",
+                "wikipedia_title": "Wildlife conservation organization"
+            },
+            {
+                "keyword_in_the_text": "traditional knowledge",
+                "wikipedia_title": "Traditional knowledge"
+            },
+            {
+                "keyword_in_the_text": "sporting game",
+                "wikipedia_title": "Game (sport)"
+            },
+            {
+                "keyword_in_the_text": "ponies",
+                "wikipedia_title": "Pony"
+            },
+            {
+                "keyword_in_the_text": "mountain",
+                "wikipedia_title": "Mountain"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "sheep",
+                "wikipedia_title": "Sheep"
+            },
+            {
+                "keyword_in_the_text": "hillwalking",
+                "wikipedia_title": "Hillwalking"
+            },
+            {
+                "keyword_in_the_text": "international tourists",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "COVID",
+                "wikipedia_title": "COVID-19"
+            },
+            {
+                "keyword_in_the_text": "culling of mountain hares",
+                "wikipedia_title": "Mountain Hare"
+            },
+            {
+                "keyword_in_the_text": "gorse",
+                "wikipedia_title": "Gorse"
+            },
+            {
+                "keyword_in_the_text": "deer",
+                "wikipedia_title": "Deer"
+            },
+            {
+                "keyword_in_the_text": "raptors",
+                "wikipedia_title": "Raptor"
+            },
+            {
+                "keyword_in_the_text": "Brexit",
+                "wikipedia_title": "Brexit"
+            },
+            {
+                "keyword_in_the_text": "grouse shooting",
+                "wikipedia_title": "Grouse"
+            },
+            {
+                "keyword_in_the_text": "venison",
+                "wikipedia_title": "Venison"
+            },
+            {
+                "keyword_in_the_text": "overgrazing",
+                "wikipedia_title": "Overgrazing"
+            },
+            {
+                "keyword_in_the_text": "land management practices",
+                "wikipedia_title": "Land management"
+            },
+            {
+                "keyword_in_the_text": "population numbers of other birds",
+                "wikipedia_title": "Bird population"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "methods of counting deer numbers",
+                "wikipedia_title": "Population estimation"
+            },
+            {
+                "keyword_in_the_text": "drones",
+                "wikipedia_title": "Unmanned aerial vehicle"
+            },
+            {
+                "keyword_in_the_text": "camera traps",
+                "wikipedia_title": "Camera trap"
+            },
+            {
+                "keyword_in_the_text": "GPS collars",
+                "wikipedia_title": "Global Positioning System (GPS) tracking"
+            },
+            {
+                "keyword_in_the_text": "thermal imaging",
+                "wikipedia_title": "Thermal imaging"
+            },
+            {
+                "keyword_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "keyword_in_the_text": "Natural land",
+                "wikipedia_title": "Natural landscape"
+            },
+            {
+                "keyword_in_the_text": "local assets",
+                "wikipedia_title": "Natural capital"
+            },
+            {
+                "keyword_in_the_text": "Social and Cultural",
+                "wikipedia_title": "Social capital"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Deer Stalking",
+                "wikipedia_title": "Deer Stalking"
+            },
+            {
+                "keyword_in_the_text": "Grouse Shooting",
+                "wikipedia_title": "Grouse shooting"
+            }
+        ]
+    }
+]

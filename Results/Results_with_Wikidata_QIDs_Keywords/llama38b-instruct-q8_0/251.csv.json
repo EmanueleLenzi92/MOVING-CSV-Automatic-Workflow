@@ -1,0 +1,281 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "SCOTLAND",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "HUTTON",
+                "original_value": "James Hutton",
+                "Wikidata_ID": "Q192927"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "British Standards Institution",
+                "original_value": "British Standards Institution",
+                "Wikidata_ID": "Q3778585"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Highlands",
+                "original_value": "Highlands_and_Islands_of_Scotland",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Islands",
+                "original_value": "Highlands_and_Islands_of_Scotland",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth_and_Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Tay",
+                "original_value": "River_Tay",
+                "Wikidata_ID": "Q19719"
+            },
+            {
+                "originalKey": "Earn",
+                "original_value": "River_Earn",
+                "Wikidata_ID": "Q1277544"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Gross domestic product per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary",
+                "original_value": "Tertiary_sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Scottish Heather honey",
+                "original_value": "Scottish Heather Honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Champagne of honeys",
+                "original_value": "Honey#Types_of_honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Manuka Honey",
+                "original_value": "Manuka honey",
+                "Wikidata_ID": "Q953395"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "heather",
+                "original_value": "Heather",
+                "Wikidata_ID": "Q15041366"
+            },
+            {
+                "originalKey": "honey bees",
+                "original_value": "Western honey bee",
+                "Wikidata_ID": "Q30034"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "climate",
+                "original_value": "Climate_change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional_method",
+                "Wikidata_ID": "Q25326506"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous growth theory",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous variable",
+                "Wikidata_ID": "Q61985482"
+            },
+            {
+                "originalKey": "BCI kitemark",
+                "original_value": "Bee Friendly (certification)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product innovation",
+                "Wikidata_ID": "Q7247768"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Process innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Heather hills",
+                "original_value": "Heather",
+                "Wikidata_ID": "Q15041366"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "LAU1",
+                "original_value": "NUTS:SE",
+                "Wikidata_ID": "Q523557"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Germany",
+                "Wikidata_ID": "Q183"
+            },
+            {
+                "originalKey": "Luneburg",
+                "original_value": "Lüneburg",
+                "Wikidata_ID": "Q3920"
+            },
+            {
+                "originalKey": "Ireland",
+                "original_value": "Ireland",
+                "Wikidata_ID": "Q22890"
+            }
+        ]
+    }
+]

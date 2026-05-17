@@ -1,0 +1,334 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "MOVING reference member state",
+                "wikipedia_title": "Moving (organization)"
+            },
+            {
+                "keyword_in_the_text": "SWITZERLAND 1",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "keyword_in_the_text": "MOVING Card ID",
+                "wikipedia_title": "Moving (organization)"
+            },
+            {
+                "keyword_in_the_text": "transnational organisation",
+                "wikipedia_title": "Transnational organization"
+            },
+            {
+                "keyword_in_the_text": "farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "keyword_in_the_text": "breed old animal breeds",
+                "wikipedia_title": "Animal breeding"
+            },
+            {
+                "keyword_in_the_text": "old sheep and goat breeds",
+                "wikipedia_title": "Sheep breeds"
+            },
+            {
+                "keyword_in_the_text": "'Engadiner', 'Spiegelschaf', 'Nera Verzasca' or 'Capra Grigia'",
+                "wikipedia_title": "Swiss breeds of sheep and goats"
+            },
+            {
+                "keyword_in_the_text": "Pigs",
+                "wikipedia_title": "Pig"
+            },
+            {
+                "keyword_in_the_text": "'Black Alpine Pig'",
+                "wikipedia_title": "Black Alpine Pig"
+            },
+            {
+                "keyword_in_the_text": "chickens",
+                "wikipedia_title": "Chicken"
+            },
+            {
+                "keyword_in_the_text": "products labelled",
+                "wikipedia_title": "Labeling"
+            },
+            {
+                "keyword_in_the_text": "sold at a better price",
+                "wikipedia_title": "Price"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "reference mountain chain",
+                "wikipedia_title": "Mountain range"
+            },
+            {
+                "keyword_in_the_text": "reference mountain landscape",
+                "wikipedia_title": "Landscape"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "size of the area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "keyword_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "keyword_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "keyword_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            },
+            {
+                "keyword_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "keyword_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "List of countries by GDP per capita"
+            },
+            {
+                "keyword_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "keyword_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "GDP per capita"
+            },
+            {
+                "keyword_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "List of hotels in the United States"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism in the United States"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "regional share",
+                "wikipedia_title": "Regionalism"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agriculture in the United States"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Urban area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector share of total employment/year",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total employment/year",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total employment/year",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total employment/year",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total employment/year",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total employment/year",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "revival of old traditional breeds",
+                "wikipedia_title": "Traditional livestock breeds"
+            },
+            {
+                "keyword_in_the_text": "farmer led initiative",
+                "wikipedia_title": "Farmer-led initiatives"
+            },
+            {
+                "keyword_in_the_text": "local situation",
+                "wikipedia_title": "Localism"
+            },
+            {
+                "keyword_in_the_text": "localness being trendy",
+                "wikipedia_title": "Local food movement"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "clashing with the trend of veganism",
+                "wikipedia_title": "Veganism"
+            },
+            {
+                "keyword_in_the_text": "Predicted",
+                "wikipedia_title": "Prediction (data science)"
+            },
+            {
+                "keyword_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Business model"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "keyword_in_the_text": "Endogenous innovation",
+                "wikipedia_title": "Endogenous Innovation"
+            },
+            {
+                "keyword_in_the_text": "Transnational organization",
+                "wikipedia_title": "Transnational Organization"
+            },
+            {
+                "keyword_in_the_text": "farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "keyword_in_the_text": "animal breeds",
+                "wikipedia_title": "Animal Breed"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing Strategy"
+            },
+            {
+                "keyword_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "keyword_in_the_text": "Local assets",
+                "wikipedia_title": "Local Assets"
+            },
+            {
+                "keyword_in_the_text": "Natural assets",
+                "wikipedia_title": "Natural Resources"
+            },
+            {
+                "keyword_in_the_text": "Cultural assets",
+                "wikipedia_title": "Cultural Heritage"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Key local asset",
+                "wikipedia_title": "Local assets"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "wild berries",
+                "wikipedia_title": "Wild berry"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "keyword_in_the_text": "supplement their incomes",
+                "wikipedia_title": "Income supplement"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "artificial intelligence",
+                "wikipedia_title": "Artificial Intelligence"
+            },
+            {
+                "keyword_in_the_text": "machine learning",
+                "wikipedia_title": "Machine Learning"
+            },
+            {
+                "keyword_in_the_text": "deep learning",
+                "wikipedia_title": "Deep Learning"
+            },
+            {
+                "keyword_in_the_text": "natural language processing",
+                "wikipedia_title": "Natural Language Processing"
+            },
+            {
+                "keyword_in_the_text": "computer vision",
+                "wikipedia_title": "Computer Vision"
+            }
+        ]
+    }
+]

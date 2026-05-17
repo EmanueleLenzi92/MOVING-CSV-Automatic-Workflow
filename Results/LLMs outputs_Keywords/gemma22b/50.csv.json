@@ -1,0 +1,354 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "keyword_in_the_text": "EU PGI label",
+                "wikipedia_title": "European Protected Geographical Indication"
+            },
+            {
+                "keyword_in_the_text": "Vallachian region",
+                "wikipedia_title": "Vysocina"
+            },
+            {
+                "keyword_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Javorníky/Beskydy",
+                "wikipedia_title": "Javorníky"
+            },
+            {
+                "keyword_in_the_text": "Western Carpathian",
+                "wikipedia_title": "Carpathian Mountains"
+            },
+            {
+                "keyword_in_the_text": "LAU 1 Vsetín",
+                "wikipedia_title": "Vsetín LAU 1"
+            },
+            {
+                "keyword_in_the_text": "Mountain Reference Landscape",
+                "wikipedia_title": "Mountain landscape"
+            },
+            {
+                "keyword_in_the_text": "nature protected area",
+                "wikipedia_title": "Protected area"
+            },
+            {
+                "keyword_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "keyword_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "keyword_in_the_text": "sheep and cattle",
+                "wikipedia_title": "Pastoralism"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population Change Rate"
+            },
+            {
+                "keyword_in_the_text": "regional population density",
+                "wikipedia_title": "Regional Population Density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Population Change Rate"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "keyword_in_the_text": "average per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "keyword_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "bed places",
+                "wikipedia_title": "List of hotels in the United States"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism in the United States"
+            },
+            {
+                "keyword_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "keyword_in_the_text": "regional share",
+                "wikipedia_title": "Regionalism"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agriculture in the United States"
+            },
+            {
+                "keyword_in_the_text": "settlement",
+                "wikipedia_title": "Settlement (geography)"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "keyword_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in [Country]"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "List of regions in [Country]"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "EU Protected Geographical Indication (PGI) label",
+                "wikipedia_title": "List of protected geographical indications of the European Union"
+            },
+            {
+                "keyword_in_the_text": "regional product label",
+                "wikipedia_title": "Regional product label"
+            },
+            {
+                "keyword_in_the_text": "Valašský region",
+                "wikipedia_title": "Vlasky Region"
+            },
+            {
+                "keyword_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "keyword_in_the_text": "Italians (Vallachians - valašský)",
+                "wikipedia_title": "Vallachian people"
+            },
+            {
+                "keyword_in_the_text": "case",
+                "wikipedia_title": "Case (food)"
+            },
+            {
+                "keyword_in_the_text": "foothills of Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "keyword_in_the_text": "200 years",
+                "wikipedia_title": "History of the Czech Republic"
+            },
+            {
+                "keyword_in_the_text": "pears",
+                "wikipedia_title": "Pear"
+            },
+            {
+                "keyword_in_the_text": "territorial identity",
+                "wikipedia_title": "Territorial Identity"
+            },
+            {
+                "keyword_in_the_text": "innovative VC in term of its marketing sing regional name and references to mountain ('tradittional cake from Vallachian region in Beskydy')",
+                "wikipedia_title": "Marketing"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Vallachian region",
+                "wikipedia_title": "Valachia"
+            },
+            {
+                "keyword_in_the_text": "symbolic asset",
+                "wikipedia_title": "Symbolic capital"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Vallachian",
+                "wikipedia_title": "Valachian cake"
+            },
+            {
+                "keyword_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "keyword_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "keyword_in_the_text": "frgále",
+                "wikipedia_title": "Frgale"
+            },
+            {
+                "keyword_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Traditional and innovative products"
+            },
+            {
+                "keyword_in_the_text": "fake products",
+                "wikipedia_title": "Counterfeiting"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous Innovation"
+            },
+            {
+                "keyword_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "cake",
+                "wikipedia_title": "Cake"
+            },
+            {
+                "keyword_in_the_text": "marketing strategies",
+                "wikipedia_title": "Marketing Strategy"
+            },
+            {
+                "keyword_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing Strategies"
+            },
+            {
+                "keyword_in_the_text": "Vallachian region",
+                "wikipedia_title": "Valachia"
+            },
+            {
+                "keyword_in_the_text": "pblum brandy",
+                "wikipedia_title": "Plum Brandy"
+            },
+            {
+                "keyword_in_the_text": "Social and cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "frgál",
+                "wikipedia_title": "Frgal"
+            },
+            {
+                "keyword_in_the_text": "misued",
+                "wikipedia_title": "Misuse"
+            },
+            {
+                "keyword_in_the_text": "producers",
+                "wikipedia_title": "Producer"
+            },
+            {
+                "keyword_in_the_text": "cakes",
+                "wikipedia_title": "Cake"
+            },
+            {
+                "keyword_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            },
+            {
+                "keyword_in_the_text": "fake products",
+                "wikipedia_title": "Counterfeit"
+            }
+        ]
+    }
+]

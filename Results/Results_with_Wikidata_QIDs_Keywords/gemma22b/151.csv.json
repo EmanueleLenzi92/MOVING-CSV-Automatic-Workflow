@@ -1,0 +1,426 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "MOVING reference member state",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "UNIMOL",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "UNIPI",
+                "original_value": "Unipi",
+                "Wikidata_ID": "Q130268089"
+            },
+            {
+                "originalKey": "MOVING Card ID",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Savigni",
+                "original_value": "Savigni",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "butcher's shop",
+                "original_value": "Butchery",
+                "Wikidata_ID": "Q329737"
+            },
+            {
+                "originalKey": "farm",
+                "original_value": "Farm",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "cured meat factory",
+                "original_value": "Meat processing plant",
+                "Wikidata_ID": "Q955043"
+            },
+            {
+                "originalKey": "controlled supply chain",
+                "original_value": "Supply Chain Management",
+                "Wikidata_ID": "Q492886"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Valleys and Coasts",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Northern Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Sambuca Pistoiese",
+                "original_value": "Sambuca Pistoiese",
+                "Wikidata_ID": "Q102725"
+            },
+            {
+                "originalKey": "Pistoia province",
+                "original_value": "Province of Pistoia",
+                "Wikidata_ID": "Q16245"
+            },
+            {
+                "originalKey": "Tuscany",
+                "original_value": "Tuscany",
+                "Wikidata_ID": "Q1273"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional Population Density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "average per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "List of hotels in the United States",
+                "Wikidata_ID": "Q6623780"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism in the United States",
+                "Wikidata_ID": "Q2986423"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regionalism",
+                "Wikidata_ID": "Q811302"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture in the United States",
+                "Wikidata_ID": "Q783770"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in [Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in [Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Certifications",
+                "original_value": "List of agricultural certifications",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Bollo IT 9-3467/L IT R152E CE ANAS",
+                "original_value": "Japan Export (Ministry of Health)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "BioAgriCert",
+                "original_value": "BioAgriCert",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Products Guarantee AIAB",
+                "original_value": "AIAB (Certification Body / Organic Control)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "INEQ",
+                "original_value": "Quality North-East Institute / Body PDO Control Cinta Senese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "TUV",
+                "original_value": "TUV Rheinland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Consorzio Tutela of Cinta Senese Quality Consortium",
+                "original_value": "Consorzio Tutela Finocchiona PGI",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Finocchiona PGI",
+                "original_value": "Finocchiona PGI",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Chianina beef",
+                "original_value": "Chianina",
+                "Wikidata_ID": "Q1071628"
+            },
+            {
+                "originalKey": "3A-PTA Umbria Agri-food Technology Park",
+                "original_value": "Umbria Agri-food Technology Park",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "The environment",
+                "original_value": "Environment",
+                "Wikidata_ID": "Q1572519"
+            },
+            {
+                "originalKey": "seasons",
+                "original_value": "Seasons",
+                "Wikidata_ID": "Q24384"
+            },
+            {
+                "originalKey": "Porretta",
+                "original_value": "Porretta Terme",
+                "Wikidata_ID": "Q94983"
+            },
+            {
+                "originalKey": "Suviana Lake",
+                "original_value": "Lake Suviana",
+                "Wikidata_ID": "Q3826053"
+            },
+            {
+                "originalKey": "closed cycle of production",
+                "original_value": "Closed-loop production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "wild state",
+                "original_value": "Wild animal",
+                "Wikidata_ID": "Q241741"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "high quality supply",
+                "original_value": "Supply Chain Management",
+                "Wikidata_ID": "Q492886"
+            },
+            {
+                "originalKey": "local animal",
+                "original_value": "Animal Husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "international market demand",
+                "original_value": "International Trade",
+                "Wikidata_ID": "Q178803"
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Prediction",
+                "Wikidata_ID": "Q748250"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "organic farm",
+                "original_value": "Organic Farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "certificatin",
+                "original_value": "Certification",
+                "Wikidata_ID": "Q374814"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing Strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural Resources",
+                "Wikidata_ID": "Q6980594"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "mountain areas",
+                "original_value": "Mountain ranges",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "Province of Dauni",
+                "original_value": "Daun Region",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

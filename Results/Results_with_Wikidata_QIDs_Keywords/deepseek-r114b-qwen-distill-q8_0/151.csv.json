@@ -1,0 +1,301 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "University of Molise",
+                "Wikidata_ID": "Q1093340"
+            },
+            {
+                "originalKey": "UNIPI",
+                "original_value": "University of Pisa",
+                "Wikidata_ID": "Q645663"
+            },
+            {
+                "originalKey": "Savigni",
+                "original_value": "Savigni family",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Northern Apennines - Tuscan Emilian Apennines",
+                "original_value": "Northern Apennines",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Sambuca Pistoiese",
+                "original_value": "Sambuca Pistoiese",
+                "Wikidata_ID": "Q102725"
+            },
+            {
+                "originalKey": "Pistoia",
+                "original_value": "Pistoia",
+                "Wikidata_ID": "Q13376"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "size of the area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population change",
+                "Wikidata_ID": "Q7229797"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places (BPs)",
+                "original_value": "Bed and breakfast",
+                "Wikidata_ID": "Q367914"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Accommodation (tourism)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Local Administrative Unit (LAU)",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "nearest settlement",
+                "original_value": "Settlement (human geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Primary Sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "Secondary Sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "Tertiary Sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Bollo IT 9-3467/L IT R152E CE",
+                "original_value": "Bollo IT",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ANAS (National Association Pig Farmers)",
+                "original_value": "Associazione Nazionale Allevatori Suini",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Japan Export (Ministry of Health)",
+                "original_value": "Ministry of Health, Labour and Welfare",
+                "Wikidata_ID": "Q1191238"
+            },
+            {
+                "originalKey": "BioAgriCert (Certification Body / Organic Control)",
+                "original_value": "BioAgriCert",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Products Guarantee AIAB (Certification Body / Organic Control)",
+                "original_value": "Istituto Agronomico per la Analisi e il Testing",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "INEQ (Quality North-East Institute / Body PDO Control Cinta Senese)",
+                "original_value": "Istituto Nazionale di Economia ed Qualità",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "TUV (German Certification Body ISO 9001/08)",
+                "original_value": "TÜV",
+                "Wikidata_ID": "Q659206"
+            },
+            {
+                "originalKey": "quality consortium Consorzio Tutela of Cinta Senese",
+                "original_value": "Consorzio Tutela del Cinto Senese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Quality Consortium Consorzio Tutela Finocchiona PGI",
+                "original_value": "Consorzio Tutela del Prodotto Finocchiona PGI",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Finocchiona PGI (Certification Body INeQ Quality North-East Institute)",
+                "original_value": "Prodotto Tipico IGP Finocchiona",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vitellone Bianco dell Appennino Centrale PGI",
+                "original_value": "Vitellone Bianco dell'Appennino Centrale",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Chianina beef (Certification Body 3A-PTA Umbria Agri-food Technology Park)",
+                "original_value": "Chianina",
+                "Wikidata_ID": "Q1071628"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Savigni family",
+                "original_value": "Savigni",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Porretta",
+                "original_value": "Porretta Terme",
+                "Wikidata_ID": "Q94983"
+            },
+            {
+                "originalKey": "Suviana Lake",
+                "original_value": "Lago di Suviana",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "closed cycle of production",
+                "original_value": "",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Challenge",
+                "original_value": "Challenge",
+                "Wikidata_ID": "Q6554155"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous growth theory",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "organic farm",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "  // No exact match found for this phrase",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "  // No exact match found for this general term\n        }\n    ]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Vocal cords",
+                "Wikidata_ID": "Q215558"
+            },
+            {
+                "originalKey": "Province of Dauni",
+                "original_value": "Provincia di Foggia",
+                "Wikidata_ID": "Q15129"
+            }
+        ]
+    }
+]

@@ -1,0 +1,269 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Engadiner",
+                "original_value": "Engadine (region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Spiegelschaf",
+                "original_value": "Spiegel sheep",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Nera Verzasca",
+                "original_value": "Nera Verzasca",
+                "Wikidata_ID": "Q15836540"
+            },
+            {
+                "originalKey": "Capra Grigia",
+                "original_value": "Capra grigia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Black Alpine Pig",
+                "original_value": "Black Pied pig",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "reference",
+                "original_value": "Reference_(disambiguation)",
+                "Wikidata_ID": "Q11128228"
+            },
+            {
+                "originalKey": "mountain",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "chain",
+                "original_value": "Mountain_range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Gross domestic product per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary",
+                "original_value": "Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "revival",
+                "original_value": "Revival (cultural)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "traditional breeds",
+                "original_value": "Traditional breed",
+                "Wikidata_ID": "Q174030"
+            },
+            {
+                "originalKey": "local situation",
+                "original_value": "Local situation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farmer led initiative",
+                "original_value": "Farmer-led initiative",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "trend of localness being trendy",
+                "original_value": "Trendy",
+                "Wikidata_ID": "Q13427002"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "veganism",
+                "original_value": "Veganism",
+                "Wikidata_ID": "Q181138"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional venture capital",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovative venture capital",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain management",
+                "Wikidata_ID": "Q492886"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous growth theory",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "Transnational organisation",
+                "original_value": "Multinational corporation",
+                "Wikidata_ID": "Q161726"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Natural and cultural",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Key",
+                "original_value": "Key (finance)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "asset",
+                "original_value": "Asset",
+                "Wikidata_ID": "Q46737"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria, British Columbia",
+                "Wikidata_ID": "Q2132"
+            },
+            {
+                "originalKey": "wild berries",
+                "original_value": "Wild berry",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": []
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "SCOTLAND",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "keyword_in_the_text": "HUTTON",
+                "wikipedia_title": "Hutton (disambiguation)"
+            },
+            {
+                "keyword_in_the_text": "Deer hunting",
+                "wikipedia_title": "Deer hunting"
+            },
+            {
+                "keyword_in_the_text": "stalking",
+                "wikipedia_title": "Stalking (hunting)"
+            },
+            {
+                "keyword_in_the_text": "Highlands and Islands of Scotland",
+                "wikipedia_title": "Scottish Highlands"
+            },
+            {
+                "keyword_in_the_text": "mountain hares",
+                "wikipedia_title": "Mountain hare"
+            },
+            {
+                "keyword_in_the_text": "heather",
+                "wikipedia_title": "Calluna vulgaris"
+            },
+            {
+                "keyword_in_the_text": "gorse",
+                "wikipedia_title": "Gorse"
+            },
+            {
+                "keyword_in_the_text": "stags",
+                "wikipedia_title": "Red deer"
+            },
+            {
+                "keyword_in_the_text": "roe and fallow bucks",
+                "wikipedia_title": "Roe deer"
+            },
+            {
+                "keyword_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "keyword_in_the_text": "Blair Atholl Estates",
+                "wikipedia_title": "Blair Atholl Estate"
+            },
+            {
+                "keyword_in_the_text": "Glen Lyon",
+                "wikipedia_title": "Glen Lyon"
+            },
+            {
+                "keyword_in_the_text": "Venison meat",
+                "wikipedia_title": "Venison"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands (Scotland)"
+            },
+            {
+                "keyword_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "East of Scotland"
+            },
+            {
+                "keyword_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "keyword_in_the_text": "Tay",
+                "wikipedia_title": "River Tay"
+            },
+            {
+                "keyword_in_the_text": "Earn",
+                "wikipedia_title": "River Earn"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            },
+            {
+                "keyword_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "Nomenclature of Territorial Units for Statistics#Local administrative units (LAU)"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "population change rate",
+                "wikipedia_title": "Demographic transition model"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per_capita_income"
+            },
+            {
+                "keyword_in_the_text": "Gross Value Added (GVA)",
+                "wikipedia_title": "Gross_value_added"
+            },
+            {
+                "keyword_in_the_text": "primary sector share of total GVA/year",
+                "wikipedia_title": "Primary_sector_of_an_economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share of total GVA/year",
+                "wikipedia_title": "Secondary_sector_of_an_economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share of total GVA/year",
+                "wikipedia_title": "Tertiary_sector_of_an_economy"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "keyword_in_the_text": "Local Administrative Unit",
+                "wikipedia_title": "Nomenclature of Territorial Units for Statistics"
+            },
+            {
+                "keyword_in_the_text": "Region",
+                "wikipedia_title": "Regions of Europe"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector of the economy"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector of the economy"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Scottish estates",
+                "wikipedia_title": "List of Scottish landowners"
+            },
+            {
+                "keyword_in_the_text": "Deer stalking",
+                "wikipedia_title": "Deer stalking"
+            },
+            {
+                "keyword_in_the_text": "stalking guide",
+                "wikipedia_title": "Gamekeeper"
+            },
+            {
+                "keyword_in_the_text": "gorse/heather",
+                "wikipedia_title": "Gorse"
+            },
+            {
+                "keyword_in_the_text": "mountains hares",
+                "wikipedia_title": "Mountain hare"
+            },
+            {
+                "keyword_in_the_text": "Vension meat",
+                "wikipedia_title": "Venison"
+            },
+            {
+                "keyword_in_the_text": "Scottish Quality Wild Venisons",
+                "wikipedia_title": "Scottish venison"
+            },
+            {
+                "keyword_in_the_text": "Perth and Kinross Atholl estate",
+                "wikipedia_title": "Atholl Estate"
+            },
+            {
+                "keyword_in_the_text": "drones",
+                "wikipedia_title": "Unmanned aerial vehicle"
+            },
+            {
+                "keyword_in_the_text": "thermal imaging",
+                "wikipedia_title": "Thermal imaging"
+            },
+            {
+                "keyword_in_the_text": "camera traps",
+                "wikipedia_title": "Camera trap"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "wild (but managed) land",
+                "wikipedia_title": "Wildlife management"
+            },
+            {
+                "keyword_in_the_text": "deer",
+                "wikipedia_title": "Deer"
+            },
+            {
+                "keyword_in_the_text": "grouse",
+                "wikipedia_title": "Grouse"
+            },
+            {
+                "keyword_in_the_text": "scenery for stalking visitors",
+                "wikipedia_title": "Scenic beauty"
+            },
+            {
+                "keyword_in_the_text": "local communities",
+                "wikipedia_title": "Community"
+            },
+            {
+                "keyword_in_the_text": "tourist accommodation",
+                "wikipedia_title": "Tourism industry"
+            },
+            {
+                "keyword_in_the_text": "hikers",
+                "wikipedia_title": "Hiking"
+            },
+            {
+                "keyword_in_the_text": "wildlife conservation organisations",
+                "wikipedia_title": "Wildlife conservation"
+            },
+            {
+                "keyword_in_the_text": "traditional and local knowledge",
+                "wikipedia_title": "Traditional ecological knowledge"
+            },
+            {
+                "keyword_in_the_text": "stalking practices",
+                "wikipedia_title": "Deer stalking"
+            },
+            {
+                "keyword_in_the_text": "habitat management",
+                "wikipedia_title": "Habitat management"
+            },
+            {
+                "keyword_in_the_text": "deer stalking",
+                "wikipedia_title": "Deer stalking"
+            },
+            {
+                "keyword_in_the_text": "ponies to remove deer trophies from the mountain",
+                "wikipedia_title": "Pony"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "agricultural activities",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "keyword_in_the_text": "sheep",
+                "wikipedia_title": "Sheep"
+            },
+            {
+                "keyword_in_the_text": "hillwalking",
+                "wikipedia_title": "Hill walking"
+            },
+            {
+                "keyword_in_the_text": "COVID",
+                "wikipedia_title": "COVID-19 pandemic"
+            },
+            {
+                "keyword_in_the_text": "land management practices",
+                "wikipedia_title": "Land management"
+            },
+            {
+                "keyword_in_the_text": "mountain hares",
+                "wikipedia_title": "Mountain hare"
+            },
+            {
+                "keyword_in_the_text": "burning of gorse",
+                "wikipedia_title": "Gorse"
+            },
+            {
+                "keyword_in_the_text": "deer culling",
+                "wikipedia_title": "Deer management"
+            },
+            {
+                "keyword_in_the_text": "stalking",
+                "wikipedia_title": "Stalking (hunting)"
+            },
+            {
+                "keyword_in_the_text": "grouse shooting",
+                "wikipedia_title": "Grouse shooting"
+            },
+            {
+                "keyword_in_the_text": "raptors",
+                "wikipedia_title": "Raptor"
+            },
+            {
+                "keyword_in_the_text": "venison",
+                "wikipedia_title": "Venison"
+            },
+            {
+                "keyword_in_the_text": "Brexit",
+                "wikipedia_title": "Brexit"
+            },
+            {
+                "keyword_in_the_text": "overgrazing",
+                "wikipedia_title": "Overgrazing"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "keyword_in_the_text": "drones",
+                "wikipedia_title": "Unmanned aerial vehicle"
+            },
+            {
+                "keyword_in_the_text": "camera traps",
+                "wikipedia_title": "Camera trap"
+            },
+            {
+                "keyword_in_the_text": "GPS collars",
+                "wikipedia_title": "Global Positioning System"
+            },
+            {
+                "keyword_in_the_text": "thermal imaging",
+                "wikipedia_title": "Thermal imaging"
+            },
+            {
+                "keyword_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance system"
+            },
+            {
+                "keyword_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Deer stalking",
+                "wikipedia_title": "Deer stalking"
+            },
+            {
+                "keyword_in_the_text": "Highland and Islands NUT3 region of Scotland",
+                "wikipedia_title": "Nomenclature of Territorial Units for Statistics in the United Kingdom"
+            },
+            {
+                "keyword_in_the_text": "Aberdeenshire",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "keyword_in_the_text": "Badenoch and Strathspey",
+                "wikipedia_title": "Badenoch and Strathspey"
+            },
+            {
+                "keyword_in_the_text": "Grouse shooting",
+                "wikipedia_title": "Grouse shooting"
+            },
+            {
+                "keyword_in_the_text": "North East England",
+                "wikipedia_title": "North East England"
+            },
+            {
+                "keyword_in_the_text": "North West England",
+                "wikipedia_title": "North West England"
+            }
+        ]
+    }
+]

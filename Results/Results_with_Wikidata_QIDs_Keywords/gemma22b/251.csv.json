@@ -1,0 +1,536 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Scotland Hutton",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Heather moorland",
+                "original_value": "Moorlands",
+                "Wikidata_ID": "Q25193896"
+            },
+            {
+                "originalKey": "Heather honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Scottish heather Honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Hand cream",
+                "original_value": "Cosmetic Creams",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Lip balm",
+                "original_value": "Lip Balm",
+                "Wikidata_ID": "Q1518347"
+            },
+            {
+                "originalKey": "Scottish great taste gold award",
+                "original_value": "Awards",
+                "Wikidata_ID": "Q618779"
+            },
+            {
+                "originalKey": "Champagne of preserves",
+                "original_value": "Preserves",
+                "Wikidata_ID": "Q74048276"
+            },
+            {
+                "originalKey": "Heather Hills",
+                "original_value": "Hills",
+                "Wikidata_ID": "Q54050"
+            },
+            {
+                "originalKey": "Perthshire",
+                "original_value": "Perthshire",
+                "Wikidata_ID": "Q67442430"
+            },
+            {
+                "originalKey": "Heather Hills",
+                "original_value": "Honeybee",
+                "Wikidata_ID": "Q102857"
+            },
+            {
+                "originalKey": "Beeswax",
+                "original_value": "Wax",
+                "Wikidata_ID": "Q124695"
+            },
+            {
+                "originalKey": "Costmetics products",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "British Standards Institution Kitemark",
+                "original_value": "Kitemark",
+                "Wikidata_ID": "Q6418160"
+            },
+            {
+                "originalKey": "Food Assurance",
+                "original_value": "Food Safety",
+                "Wikidata_ID": "Q909821"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Highlands and Islands",
+                "original_value": "Highlands and Islands, Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Eastern Scotland",
+                "original_value": "Eastern Scotland",
+                "Wikidata_ID": "Q4391979"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism in Scotland",
+                "Wikidata_ID": "Q641795"
+            },
+            {
+                "originalKey": "outdoor recreation",
+                "original_value": "Outdoor Recreation in Scotland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q175385"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional Population Density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "average per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "bed places",
+                "original_value": "List of hotels in the United States",
+                "Wikidata_ID": "Q6623780"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism in the United States",
+                "Wikidata_ID": "Q2986423"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regionalism",
+                "Wikidata_ID": "Q811302"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture in the United States",
+                "Wikidata_ID": "Q783770"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in [Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in [Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Scottish Heather honey",
+                "original_value": "Honeybee",
+                "Wikidata_ID": "Q102857"
+            },
+            {
+                "originalKey": "Champagne of honeys",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Geographical location",
+                "original_value": "Geography",
+                "Wikidata_ID": "Q1071"
+            },
+            {
+                "originalKey": "Heather Hills honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Perth and Kinross LAU1",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Traditional collection and processing methods",
+                "original_value": "Honey production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Heather Hills farm",
+                "original_value": "Farm",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "Manuka Honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Natural assets",
+                "original_value": "Environmental resources",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Terrain and climate",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "Heather",
+                "original_value": "Heather",
+                "Wikidata_ID": "Q15041366"
+            },
+            {
+                "originalKey": "Honey production",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Honey bees",
+                "original_value": "Apis mellifera",
+                "Wikidata_ID": "Q30034"
+            },
+            {
+                "originalKey": "Roaming ability",
+                "original_value": "Bee foraging",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cultural assets",
+                "original_value": "Traditional knowledge",
+                "Wikidata_ID": "Q1428168"
+            },
+            {
+                "originalKey": "Harvesting",
+                "original_value": "Honey production process",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Separating",
+                "original_value": "Honey processing",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Bottling",
+                "original_value": "Packaging",
+                "Wikidata_ID": "Q207822"
+            },
+            {
+                "originalKey": "Social assets",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "Employees",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "Honey Sommelier",
+                "original_value": "Wine sommelier",
+                "Wikidata_ID": "Q191493"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Challenges from changing climate",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "quality of the product",
+                "original_value": "Product quality",
+                "Wikidata_ID": "Q185957"
+            },
+            {
+                "originalKey": "collection methods",
+                "original_value": "Collection methods",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "economically efficient",
+                "original_value": "Economic efficiency",
+                "Wikidata_ID": "Q615445"
+            },
+            {
+                "originalKey": "Current and predicted",
+                "original_value": "Predictability",
+                "Wikidata_ID": "Q2534066"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capitalist",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Business model",
+                "Wikidata_ID": "Q815823"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous and Exogenous",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "innovative traditional methods of processing the honey",
+                "original_value": "Honey Processing",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "hives have a lot of space to ensure a quality product",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "BCI kitemark",
+                "original_value": "British Crop Innovation Kitemark",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product Development",
+                "Wikidata_ID": "Q1395034"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Process Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing Strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land Use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Local assets include Natural, Social and Cultural",
+                "original_value": "Community Development",
+                "Wikidata_ID": "Q718998"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Heather Hills",
+                "original_value": "Heather Hills",
+                "Wikidata_ID": "Q16784459"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "LAU1",
+                "original_value": "Local Authority Area (Scotland)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Heather bee farmers",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Luneburg, Germany",
+                "Wikidata_ID": "Q3920"
+            },
+            {
+                "originalKey": "Ireland",
+                "original_value": "Ireland",
+                "Wikidata_ID": "Q22890"
+            },
+            {
+                "originalKey": "Heather honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            }
+        ]
+    }
+]

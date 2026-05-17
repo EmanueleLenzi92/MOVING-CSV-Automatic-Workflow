@@ -1,0 +1,310 @@
+[
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "MOVING",
+                "wikipedia_title": "MOVING (Value Chain)"
+            },
+            {
+                "keyword_in_the_text": "ITALY UNIMOL",
+                "wikipedia_title": "Italy Unimol"
+            },
+            {
+                "keyword_in_the_text": "UNIPI",
+                "wikipedia_title": "Università degli Studi di Pisa"
+            },
+            {
+                "keyword_in_the_text": "VC 18 IT",
+                "wikipedia_title": "VC 18 IT"
+            },
+            {
+                "keyword_in_the_text": "Savigni",
+                "wikipedia_title": "Savigni"
+            },
+            {
+                "keyword_in_the_text": "butcher's shop",
+                "wikipedia_title": "Butcher's shop"
+            },
+            {
+                "keyword_in_the_text": "farm",
+                "wikipedia_title": "Farming"
+            },
+            {
+                "keyword_in_the_text": "cured meat factory",
+                "wikipedia_title": "Cured meat"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Northern Apennines",
+                "wikipedia_title": "Northern Apennines"
+            },
+            {
+                "keyword_in_the_text": "Tuscan Emilian Apennines",
+                "wikipedia_title": "Tuscan-Emilian Apennines"
+            },
+            {
+                "keyword_in_the_text": "Sambuca Pistoiese",
+                "wikipedia_title": "Sambuca Pistoiese"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "keyword_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "keyword_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "keyword_in_the_text": "density",
+                "wikipedia_title": "Density"
+            },
+            {
+                "keyword_in_the_text": "change rate",
+                "wikipedia_title": "Change rate"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "keyword_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "keyword_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "total BPs",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "keyword_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "keyword_in_the_text": "regional share",
+                "wikipedia_title": "Regional"
+            },
+            {
+                "keyword_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "keyword_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "keyword_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "keyword_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "keyword_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "keyword_in_the_text": "employment/year [Province]",
+                "wikipedia_title": "Employment by sector in [Province]"
+            },
+            {
+                "keyword_in_the_text": "employment/year [Region]",
+                "wikipedia_title": "Employment by sector in [Region]"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "Certifications",
+                "wikipedia_title": "Certification"
+            },
+            {
+                "keyword_in_the_text": "Bollo IT 9-3467/L IT R152E CE ANAS",
+                "wikipedia_title": "ANAS (National Association Pig Farmers)"
+            },
+            {
+                "keyword_in_the_text": "Japan Export",
+                "wikipedia_title": "Ministry of Health"
+            },
+            {
+                "keyword_in_the_text": "BioAgriCert",
+                "wikipedia_title": "Certification Body / Organic Control"
+            },
+            {
+                "keyword_in_the_text": "Products Guarantee AIAB",
+                "wikipedia_title": "Certification Body / Organic Control"
+            },
+            {
+                "keyword_in_the_text": "INEQ (Quality North-East Institute / Body PDO Control Cinta Senese)",
+                "wikipedia_title": "Quality North-East Institute / Body PDO Control Cinta Senese"
+            },
+            {
+                "keyword_in_the_text": "TUV (German Certification Body ISO 9001/08)",
+                "wikipedia_title": "ISO 9001"
+            },
+            {
+                "keyword_in_the_text": "quality consortium",
+                "wikipedia_title": "Quality Consortium"
+            },
+            {
+                "keyword_in_the_text": "Consorzio Tutela of Cinta Senese Quality Consortium",
+                "wikipedia_title": "Consorzio Tutela Finocchiona PGI Finocchiona PGI (Certification Body INeQ Quality North-East Institute)"
+            },
+            {
+                "keyword_in_the_text": "Vitellone Bianco dell Appennino Centrale PGI",
+                "wikipedia_title": "Chianina beef (Certification Body 3A-PTA Umbria Agri-food Technology Park)"
+            },
+            {
+                "keyword_in_the_text": "Collaboration with other farms of the territories",
+                "wikipedia_title": "Farming"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "environment",
+                "wikipedia_title": "Environment"
+            },
+            {
+                "keyword_in_the_text": "Savigni family",
+                "wikipedia_title": "Savigni family"
+            },
+            {
+                "keyword_in_the_text": "Porretta",
+                "wikipedia_title": "Porretta"
+            },
+            {
+                "keyword_in_the_text": "Suviana Lake",
+                "wikipedia_title": "Suviana Lake"
+            },
+            {
+                "keyword_in_the_text": "closed cycle of production",
+                "wikipedia_title": "Closed-loop agriculture"
+            },
+            {
+                "keyword_in_the_text": "outdoors",
+                "wikipedia_title": "Outdoor farming"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "supply",
+                "wikipedia_title": "Supply chain management"
+            },
+            {
+                "keyword_in_the_text": "animal",
+                "wikipedia_title": "Animal welfare"
+            },
+            {
+                "keyword_in_the_text": "market demand",
+                "wikipedia_title": "Market demand"
+            },
+            {
+                "keyword_in_the_text": "challenge",
+                "wikipedia_title": "Challenge"
+            },
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "keyword_in_the_text": "Innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "keyword_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous"
+            },
+            {
+                "keyword_in_the_text": "Organic farm",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "keyword_in_the_text": "Certification",
+                "wikipedia_title": "Certification"
+            },
+            {
+                "keyword_in_the_text": "Marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "keyword_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "keyword_in_the_text": "Natural assets",
+                "wikipedia_title": "Natural resources"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "keyword\\_in\\_the\\_text": "VC",
+                "wikipedia\\_title": "VC"
+            },
+            {
+                "keyword\\_in\\_the\\_text": "mountain areas",
+                "wikipedia\\_title": "Mountains of Dauni Province"
+            }
+        ]
+    }
+]
