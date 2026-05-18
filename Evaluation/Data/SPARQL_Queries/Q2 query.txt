@@ -1,0 +1,28 @@
+PREFIX narra:  <https://dlnarratives.eu/ontology#> 
+PREFIX crm:    <http://erlangen-crm.org/current/> 
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#> 
+
+SELECT DISTINCT ?title ?narrative
+WHERE {
+
+    ?narrative rdfs:label ?title .
+
+
+    ?event1 narra:partOfNarrative ?narrative ;
+            narra:hasEntity ?mandatoryEntity .
+
+    VALUES ?mandatoryEntity {
+        <https://dlnarratives.eu/resource/Q188840>  
+    <https://dlnarratives.eu/resource/Q131207>  
+    }
+
+
+    ?event2 narra:partOfNarrative ?narrative ;
+            narra:hasEntity ?plantEntity .
+
+    VALUES ?plantEntity {
+        <https://dlnarratives.eu/resource/Q207123>
+        <https://dlnarratives.eu/resource/Q756>    
+
+    }
+}
