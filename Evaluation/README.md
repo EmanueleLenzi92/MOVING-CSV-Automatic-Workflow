@@ -1,0 +1,412 @@
+# Evaluation
+
+These are the queries that were used to evaluate the MOVING knowledge graph produced through the workflow in order to perform inter-story correlation analysis across the 454 value chains.
+
+The queries are 5 and retrieve:
+
+1. the VCs that produce honey with Protected Designation of Origin (PDO) certification (Q1)
+2. the VCs that produce herbs and plants for cosmetic and medicinal purposes (Q2)
+3. the VCs that are possibly affected by climate change (Q3)
+4. the VCs using sheep to produce cheese (Q4)
+5. the VCs using sheep to produce wool (Q5)
+
+## Q1
+
+**Goal:** retrieve the VCs that produce honey with PDO certification.
+
+**Query**
+
+```sparql
+PREFIX narra:  <https://dlnarratives.eu/ontology#> 
+PREFIX crm:   <http://erlangen-crm.org/current/> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+
+SELECT DISTINCT ?title ?narrative
+WHERE {  
+    ?narrative rdfs:label ?title . 
+  {
+    
+    ?event narra:partOfNarrative ?narrative .
+    ?event narra:hasEntity <https://dlnarratives.eu/resource/Q10987> .
+    ?event narra:hasEntity <https://dlnarratives.eu/resource/Q13439060> .
+  }
+  UNION
+  {
+    
+    ?event1 narra:partOfNarrative ?narrative .
+    ?event1 narra:hasEntity <https://dlnarratives.eu/resource/Q10987> .
+
+    ?event2 narra:partOfNarrative ?narrative .
+    ?event2 narra:hasEntity <https://dlnarratives.eu/resource/Q13439060> .
+
+    FILTER (?event1 != ?event2)
+   }
+}
+```
+
+**Results**
+
+```csv
+title,narrative
+Vlasina honey PDO,https://dlnarratives.eu/narrative/N165_VC_09_SER
+DOP Honey and other bee products,https://dlnarratives.eu/narrative/N50_VC_03_IT
+Traditional local sweets and pastries,https://dlnarratives.eu/narrative/N95_VC_43_ES
+'Di Iorio' is a old (by 1750) artisanal confectionery in Southern Italy specialized in nougat production,https://dlnarratives.eu/narrative/N79_VC_35_IT
+honey - Miels de Corse-Mele di Corsica - PDO,https://dlnarratives.eu/narrative/N119_VC_07_FR
+Unedo arbutus honey-PDO,https://dlnarratives.eu/narrative/N138_VC_08_FR
+'STRANDZHANSKI MANOV MED' (STRANDZHA MANNA HONEY),https://dlnarratives.eu/narrative/N258_VC_15_BG
+Apicature activities in mountainous areas of Kissamos, Chania,https://dlnarratives.eu/narrative/N193_VC_11_GR
+```
+
+## Q2
+
+**Goal:** retrieve the VCs that produce herbs and plants for cosmetic and medicinal purposes.
+
+**Query**
+
+```sparql
+PREFIX narra:  <https://dlnarratives.eu/ontology#> 
+PREFIX crm:    <http://erlangen-crm.org/current/> 
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#> 
+
+SELECT DISTINCT ?title ?narrative
+WHERE {
+
+    ?narrative rdfs:label ?title .
+
+
+    ?event1 narra:partOfNarrative ?narrative ;
+            narra:hasEntity ?mandatoryEntity .
+
+    VALUES ?mandatoryEntity {
+        <https://dlnarratives.eu/resource/Q188840>  
+    <https://dlnarratives.eu/resource/Q131207>  
+    }
+
+
+    ?event2 narra:partOfNarrative ?narrative ;
+            narra:hasEntity ?plantEntity .
+
+    VALUES ?plantEntity {
+        <https://dlnarratives.eu/resource/Q207123>
+        <https://dlnarratives.eu/resource/Q756>    
+
+    }
+}
+```
+
+**Results**
+
+```csv
+title,narrative
+In Eastern Serbia/Mountain Rtanj, herb tea - Saturejea Montana,https://dlnarratives.eu/narrative/N271_VC_15_SER
+Plants grown, dried and transformed into herbal tea or cosmetic products directly on the farm,https://dlnarratives.eu/narrative/N90_VC_41_CH2
+WILD COLLECTED MEDICINAL PLANTS,https://dlnarratives.eu/narrative/N2_VC_01_BG
+Organic production and packaging of medicinal herbs in mountains,https://dlnarratives.eu/narrative/N129_VC_07_SK
+Almenland Honey,https://dlnarratives.eu/narrative/N77_VC_05_AT
+Pontepietra is a small organic farm that cultivates medicinal and aromatic herbs and practices the collection of wild herbs,https://dlnarratives.eu/narrative/N27_VC_21_IT
+Medicinal herbs - NTFP,https://dlnarratives.eu/narrative/N88_VC_05_NMK
+Almenland Herbs,https://dlnarratives.eu/narrative/N41_VC_03_AT
+```
+
+## Q3
+
+**Goal:** retrieve the VCs that are possibly affected by climate change.
+
+**Query**
+
+```sparql
+PREFIX narra:  <https://dlnarratives.eu/ontology#> 
+PREFIX crm:    <http://erlangen-crm.org/current/> 
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#> 
+
+SELECT DISTINCT ?title ?narrative
+WHERE {
+
+    ?narrative rdfs:label ?title .
+
+    ?event1 narra:partOfNarrative ?narrative ;
+           narra:hasEntity ?mandatoryEntity .
+
+    VALUES ?mandatoryEntity {
+        <https://dlnarratives.eu/resource/Q125928> 
+
+    }
+
+
+}
+```
+
+**Results**
+
+```csv
+title,narrative
+It is natural extra virgin olive oil obtained from Ayvalık (Edremit) olive variety,https://dlnarratives.eu/narrative/N130_VC_07_TR
+Jogitz yogurt made from Goat's milk (several flavours),https://dlnarratives.eu/narrative/N98_VC_06_CH2
+Value Chain,https://dlnarratives.eu/narrative/N3_VC_19_TR
+La Cattedra- Commons farming for social and educational purposes- Asiago Plateau,https://dlnarratives.eu/narrative/N93_VC_42_IT
+Almenland Herbs,https://dlnarratives.eu/narrative/N41_VC_03_AT
+Cow - dairy products,https://dlnarratives.eu/narrative/N44_VC_03_CZ
+Old varieties of potatos (Walser Kartoffeln),https://dlnarratives.eu/narrative/N34_VC_22_IT
+Gruyère is a typical Swiss cheese, produced in the mountain pastures in summer,https://dlnarratives.eu/narrative/N154_VC_09_CH2
+Bee products,https://dlnarratives.eu/narrative/N189_VC_11_CZ
+Organic Olive Oil from Zuheros,https://dlnarratives.eu/narrative/N227_VC_13_ES
+Sheep farmers from Weiz ('Weizer Schafbauern'),https://dlnarratives.eu/narrative/N257_VC_15_AT
+Stone fruits: peach and abricot,https://dlnarratives.eu/narrative/N102_VC_06_FR1
+The beekeeper produces organic honeys, honey aged in barrels and mead (fermented honey drink),https://dlnarratives.eu/narrative/N248_VC_14_IT
+Fresh Fruit (Grapes),https://dlnarratives.eu/narrative/N94_VC_05_TR
+PGI (Protected Geographical Indication) Cider from Hardanger,https://dlnarratives.eu/narrative/N36_VC_02_SCA
+Organic garlic from Olaszfalu,https://dlnarratives.eu/narrative/N265_VC_15_HU
+Prickly pear cactus is a perennial shrub that grows everywhere in the dry, rocky terrain of Dicti and in the region of Viannos,https://dlnarratives.eu/narrative/N246_VC_14_GR
+Activities connected to the production of wine in the PDO Peza zone, at eastern Crete,https://dlnarratives.eu/narrative/N85_VC_05_GR
+Raspberries produced in the area of Arilje region (western Serbia), PDO,https://dlnarratives.eu/narrative/N253_VC_14_SER
+Sheep wool,https://dlnarratives.eu/narrative/N226_VC_13_CZ
+Grain and cereal products,https://dlnarratives.eu/narrative/N187_VC_11_CH1
+Scotch beef (PGI marked) from upland livestock farms in Skye and Lochalsh (LAU1),https://dlnarratives.eu/narrative/N203_VC_11_UK
+Cold mountain shelter Knowledge economy,https://dlnarratives.eu/narrative/N11_VC_01_HU
+The farm sustainably produces apple and derived alcoholic beverages (cider),https://dlnarratives.eu/narrative/N57_VC_27_IT
+Traditional alpine herbs,https://dlnarratives.eu/narrative/N79_VC_05_CH1
+Holzwelt Murau (transl.: World of wood Murau),https://dlnarratives.eu/narrative/N114_VC_07_AT
+Activities related to carobs, carob products and by-products in the area of Selli, Rethymno,https://dlnarratives.eu/narrative/N140_VC_08_GR
+Independent and guided visits motivated by visiting wild places and seeing wildlife,https://dlnarratives.eu/narrative/N30_VC_21_UK
+Diversification strategies of conventional agriculture in large irrigated field crops,https://dlnarratives.eu/narrative/N9_VC_01_FR1
+Berries cultivated in Kopaonik Mountain/ National park, Dinaric Alps region; other mountain areas,https://dlnarratives.eu/narrative/N304_VC_17_SER
+Colli Piacentini,https://dlnarratives.eu/narrative/N45_VC_24_IT
+honey - Miels de Corse-Mele di Corsica - PDO,https://dlnarratives.eu/narrative/N119_VC_07_FR
+cow's milk milk that has not been pasteurised, sterilised or thermised and is sold directly,https://dlnarratives.eu/narrative/N99_VC_45_CH2
+Highland Spring and Tesco Perthshire Mineral water is based on extracting groundwater from hills,https://dlnarratives.eu/narrative/N22_VC_01_UK
+Ausseerland Seesaibling und Forelle (engl. artic char and trout from the Region Ausseerland),https://dlnarratives.eu/narrative/N291_VC_17_AT
+Timber harvesting,https://dlnarratives.eu/narrative/N260_VC_15_CH2
+Beekeeping and the Amatrice honey certified,https://dlnarratives.eu/narrative/N299_VC_17_IT
+Vipava valley orange wines,https://dlnarratives.eu/narrative/N20_VC_01_SL
+Nivegy-valley small family wineries,https://dlnarratives.eu/narrative/N49_VC_03_HU
+Extensive and pastoral livestock farming,https://dlnarratives.eu/narrative/N29_VC_02_FR1
+Wood,https://dlnarratives.eu/narrative/N134_VC_08_CH1
+Family owned forestry,https://dlnarratives.eu/narrative/N1_VC_19_SCA
+Huile d'olive de Corse - Oliu d'Alivu-PDO,https://dlnarratives.eu/narrative/N10_VC_20_FR
+Pasta from Múcsony - a social economy project,https://dlnarratives.eu/narrative/N298_VC_17_HU
+Almenland Schnaps,https://dlnarratives.eu/narrative/N95_VC_06_AT
+Nature-based Tourism,https://dlnarratives.eu/narrative/N287_VC_16_SCA
+Milk production with label 'mountain milk' according to EU regulations,https://dlnarratives.eu/narrative/N38_VC_02_SK
+Murauer Heumilch (transl.: hay milk),https://dlnarratives.eu/narrative/N151_VC_09_AT
+Sheep and goat breeding for meat production in the area of Anogeia, in Psiloritis mountain,https://dlnarratives.eu/narrative/N48_VC_03_GR
+Alto Trentino, organic wine production for premium wines,https://dlnarratives.eu/narrative/N40_VC_23_IT
+Apicature activities in mountainous areas of Kissamos, Chania,https://dlnarratives.eu/narrative/N193_VC_11_GR
+Activities based on apple production in Mount Pelium and especially from Zagora area, Thessaly,https://dlnarratives.eu/narrative/N315_VC_18_GR
+Wines of Winningen, Mosel Valley,https://dlnarratives.eu/narrative/N6_VC_01_DE
+Venison - Farmed and wild deer - Lochaber LAU1,https://dlnarratives.eu/narrative/N50_VC_25_UK
+Brandy made from Juniperus communis from Serra da Estrela,https://dlnarratives.eu/narrative/N216_VC_12_PT2
+Organic, aromatic and medicinal plants,https://dlnarratives.eu/narrative/N84_VC_05_FR1
+PEFC certified wood from collective forests management,https://dlnarratives.eu/narrative/N89_VC_40_IT
+Bio vom Berg (translated: Organic products from mountain areas),https://dlnarratives.eu/narrative/N326_VC_19_AT
+Styria Beef,https://dlnarratives.eu/narrative/N5_VC_20_AT
+High Quality Beef Production,https://dlnarratives.eu/narrative/N26_VC_02_CZ
+alpine pasture cheese with organic sheep's milk,https://dlnarratives.eu/narrative/N207_VC_12_CH2
+Timber production in Slovak mountain forests,https://dlnarratives.eu/narrative/N182_VC_10_SK
+Chestnut (seed) from chestnut groves at mountain hillsides and surroundings,https://dlnarratives.eu/narrative/N162_VC_09_PT2
+Artisnal/bespoke timber products such as furniture, toys, jewellery (Ross and Cromarty LAU1),https://dlnarratives.eu/narrative/N238_VC_13_UK
+Spanish Vigneronsfrom Huesca Pirineos,https://dlnarratives.eu/narrative/N190_VC_11_ES
+Central Appenninian (Abruzzo),https://dlnarratives.eu/narrative/N83_VC_37_IT
+Juniper essential oil (North Macedonia),https://dlnarratives.eu/narrative/N13_VC_01_NMK
+Wild mushrooms collected in the mountainous area of Kopaonik mountain,https://dlnarratives.eu/narrative/N322_VC_18_SER
+Organic production and packaging of medicinal herbs in mountains,https://dlnarratives.eu/narrative/N129_VC_07_SK
+Spring and mineral waters from mountains - sold as natural or flavored with local wild herbs,https://dlnarratives.eu/narrative/N323_VC_18_SK
+Special types of chestnut trees for candied which is at the east of the İzmir on Bozdağ Mountains,https://dlnarratives.eu/narrative/N149_VC_08_TR
+Chestnut flour coming from the rediscovered chesnut cultivation activities in the area,https://dlnarratives.eu/narrative/N32_VC_02_IT
+SKIING (BOROVETS),https://dlnarratives.eu/narrative/N186_VC_11_BG
+Kärntna Låxn,https://dlnarratives.eu/narrative/N275_VC_16_AT
+Breakfast puddings (e.g. Haggis, black pudding, white pudding) (Eilean Siar/ Western Isles LAU1),https://dlnarratives.eu/narrative/N63_VC_28_UK
+Arbutus unedo tree fruit from mountain hillsides and surroundings,https://dlnarratives.eu/narrative/N250_VC_14_PT2
+Pumpkin seed products in Boldva,https://dlnarratives.eu/narrative/N67_VC_04_HU
+DO Douro Wine - Douro Superior - Vila Nova de Foz Côa,https://dlnarratives.eu/narrative/N14_VC_01_PT
+Activities connected to legumes, traditinally cultivated in Feneos area in the Peloponnese,https://dlnarratives.eu/narrative/N297_VC_17_GR
+Fresh Fruit (Pears): Korkuteli Karyağdı Pear,https://dlnarratives.eu/narrative/N112_VC_06_TR
+Production of traditional distilled spirit drinks from grape pomance 40%-65% ABV,https://dlnarratives.eu/narrative/N103_VC_06_GR
+Skiing and downhill cycling in Eplény,https://dlnarratives.eu/narrative/N230_VC_13_HU
+Highland cows - bred for genes and cultural status not necessarily for meat/dairy- Lochaber,https://dlnarratives.eu/narrative/N256_VC_14_UK
+Unedo arbutus honey-PDO,https://dlnarratives.eu/narrative/N138_VC_08_FR
+Production of Graviera cheese (Gruyere) in the area Amari, on the western slopes of Psiloritis mountain,https://dlnarratives.eu/narrative/N10_VC_01_GR
+THERAPEUTIC BEE PRODUCTS (PROPOLIS and POLLEN),https://dlnarratives.eu/narrative/N35_VC_02_RO
+Royal Jelly - Mixture of royal jelly, bee glue, polen and honey,https://dlnarratives.eu/narrative/N35_VC_22_NMK
+Welsh Lamb with PGI status (Powys (Wales)),https://dlnarratives.eu/narrative/N222_VC_12_UK
+The tastes of Monostor,https://dlnarratives.eu/narrative/N333_VC_19_HU
+Touristic services,https://dlnarratives.eu/narrative/N310_VC_18_CH1
+Gastro village Köveskál Eat the View,https://dlnarratives.eu/narrative/N31_VC_02_HU
+Organic farming and wine production in Vadna,https://dlnarratives.eu/narrative/N282_VC_16_HU
+Mycology in the mountains of Soria,https://dlnarratives.eu/narrative/N111_VC_50_ES
+Propolis (bee glue),https://dlnarratives.eu/narrative/N13_VC_20_NMK
+Unsprayed berries,https://dlnarratives.eu/narrative/N235_VC_13_SCA
+Free ranged animals,https://dlnarratives.eu/narrative/N91_VC_05_SCA
+Local bean variety from Manteigas municipality,https://dlnarratives.eu/narrative/N178_VC_10_PT2
+Wine from Serra da Estrela, one of the subregions of Dão Demarcated Region,https://dlnarratives.eu/narrative/N197_VC_11_PT2
+Ecological garden in Pallagvölgy - a joint enterprise,https://dlnarratives.eu/narrative/N316_VC_18_HU
+Full fat cheese in brine made out of cow milk, matured for one month,https://dlnarratives.eu/narrative/N55_VC_03_SER
+Cheese made from cow's milk, eaten raw and baked,https://dlnarratives.eu/narrative/N94_VC_43_CH2
+Activities connected to PDO olive oil products of designated origin and geographical indication,https://dlnarratives.eu/narrative/N121_VC_07_GR
+Barley flour and groats,https://dlnarratives.eu/narrative/N127_VC_07_SCA
+Goat's milk cheese made by hand directly on the mountain pasture,https://dlnarratives.eu/narrative/N113_VC_51_CH2
+Traditional alpine fruit products,https://dlnarratives.eu/narrative/N43_VC_03_CH1
+Sustainable local food system project - Kóspallag,https://dlnarratives.eu/narrative/N33_VC_22_HU
+Fresh lamb meat, PDO (whole animals), produced from Sjenica sheep - local autochthonous sheep breed,https://dlnarratives.eu/narrative/N18_VC_01_SER
+Beeswax products including soap, candles, skincare and food wraps (Blaenau Gwent),https://dlnarratives.eu/narrative/N59_VC_27_UK
+Kozani Red saffron, ingredient of other products, cultivated and processed by a local cooperative,https://dlnarratives.eu/narrative/N264_VC_15_GR
+Traditional potato from Olaszfalu,https://dlnarratives.eu/narrative/N160_VC_09_HU
+Liqueur from Sambucus nigra flower from Serra da Estrela,https://dlnarratives.eu/narrative/N233_VC_13_PT2
+'STRANDZHANSKI MANOV MED' (STRANDZHA MANNA HONEY),https://dlnarratives.eu/narrative/N258_VC_15_BG
+Growing of organic chestnuts and processing of chestnuts (e.g. flour) by a historical family farm,https://dlnarratives.eu/narrative/N266_VC_15_IT
+Fresh Fruit (Apple),https://dlnarratives.eu/narrative/N75_VC_04_TR
+Label of the Swiss Mother Cow Association (association des vaches mères suisse) for beef from suckler cows or suckler cows in accordance with the principles of organic farming,https://dlnarratives.eu/narrative/N116_VC_54_CH2
+Tea Leaves produce in Rize,https://dlnarratives.eu/narrative/N221_VC_12_TR
+Clairette de Die - Wine production targeted towards export,https://dlnarratives.eu/narrative/N65_VC_04_FR1
+Almenland Fish,https://dlnarratives.eu/narrative/N59_VC_04_AT
+Olive oil Protected Designation of Origin Sierra de Segura,https://dlnarratives.eu/narrative/N172_VC_10_ES
+Fly fishing in Hemsedal,https://dlnarratives.eu/narrative/N218_VC_12_SCA
+Honey from the Bakony mountains,https://dlnarratives.eu/narrative/N247_VC_14_HU
+CERTIFIED ECOTOURISM,https://dlnarratives.eu/narrative/N53_VC_03_RO
+Use of good quality air for healing purposes through recreational stays in high mountains,https://dlnarratives.eu/narrative/N18_VC_20_SK
+Scotch whisky (PDO) which rely on clean water, peat and barley. Also an important tourist attraction,https://dlnarratives.eu/narrative/N4_VC_19_UK
+Winter ski recreation in Slovak mountains,https://dlnarratives.eu/narrative/N2_VC_19_SK
+MOUNTAIN HONEY,https://dlnarratives.eu/narrative/N16_VC_01_RO
+Honey, fruits - honey with dried fruits of plum, apricot and fig,https://dlnarratives.eu/narrative/N28_VC_21_NMK
+Bee families in North Macedonia,https://dlnarratives.eu/narrative/N334_VC_19_NMK
+Sami reindeer herding,https://dlnarratives.eu/narrative/N54_VC_03_SCA
+Murtaler pumpkin seed oil ('Kürbiskernöl'),https://dlnarratives.eu/narrative/N308_VC_18_AT
+Traditional cabbeges from Olaszfalu,https://dlnarratives.eu/narrative/N176_VC_10_HU
+'Corsican chestnut flour - Farina castagnina corsa' PDO,https://dlnarratives.eu/narrative/N157_VC_09_FR
+Vaccinium Myrtillus from National Park Kopaonik. Wild blue berry picking and processing,https://dlnarratives.eu/narrative/N110_VC_06_SER
+Activities based on chestnuts from the mountainous areas of the western most part of Crete,https://dlnarratives.eu/narrative/N175_VC_10_GR
+Beef fresh meat (whole animals), dry meat part of the same VCs (on-farm or small processing units),https://dlnarratives.eu/narrative/N17_VC_20_SER
+Fish farming - PDO (Protected Designation of Origin) Rakfish from Valdres,https://dlnarratives.eu/narrative/N199_VC_11_SCA
+Almenland Honey,https://dlnarratives.eu/narrative/N77_VC_05_AT
+Winter sports (downhill sking and snowboarding) within the Lecht ski resort - reliant on landscape for the slope and snow for skiing. Uses a wind power to run tehir snow making factory to supplement their natural snow cover. Use of the area in summer as a result of the winter sports is also of interest. The Lecht ski resort lies within Aberdeenshire LAU1,https://dlnarratives.eu/narrative/N42_VC_23_UK
+Wood processing fo industry,https://dlnarratives.eu/narrative/N329_VC_19_CZ
+Liqueur made from sour cherry from Serra da Estrela,https://dlnarratives.eu/narrative/N268_VC_15_PT2
+wind energy - turbines in upland areas such as Neath and Port Talbot,https://dlnarratives.eu/narrative/N325_VC_18_UK
+Nivegy-valley artisan chese makers,https://dlnarratives.eu/narrative/N39_VC_23_HU
+Poultry farming, integration by the cooperative,https://dlnarratives.eu/narrative/N211_VC_12_FR1
+Osttiroler Mountain Lamb ('Osttiroler Berglamm'),https://dlnarratives.eu/narrative/N168_VC_10_AT
+Logging, timber production, afforestation, maintenance, leasure, sport,https://dlnarratives.eu/narrative/N194_VC_11_HU
+Forest adventure experience in Csesznek,https://dlnarratives.eu/narrative/N213_VC_12_HU
+Activites for the production and handling of PGI potatoes,https://dlnarratives.eu/narrative/N11_VC_20_GR
+La Troje seeds,https://dlnarratives.eu/narrative/N91_VC_41_ES
+Such as Hiking, Mountain Biking, Birdwatching and Fishing,https://dlnarratives.eu/narrative/N335_VC_19_PT2
+Hydropower - upland river lakes for renewable energy through pumped storage (Electric mountain),https://dlnarratives.eu/narrative/N307_VC_17_UK
+Forestry - on edges / shoulders of UK mountains -Argyll and Bute LAU1,https://dlnarratives.eu/narrative/N184_VC_10_UK
+Honey in Maleshevija (North Macedonia),https://dlnarratives.eu/narrative/N33_VC_02_NMK
+Aydın Fig is an agriicultural product that is consumed fresh and dried,https://dlnarratives.eu/narrative/N273_VC_15_TR
+Honey,https://dlnarratives.eu/narrative/N156_VC_09_ES
+PDO cheese made from raw and whole cow's milk. It's consumption is unique in that it is eaten in the form of rosettes obtained with the help of the 'girolle',https://dlnarratives.eu/narrative/N135_VC_08_CH2
+Mölltal-Glockner Lamm (engl. lamb),https://dlnarratives.eu/narrative/N223_VC_13_AT
+High mountain honey from heatherlands,https://dlnarratives.eu/narrative/N144_VC_08_PT2
+Wines of the Contraviesa,https://dlnarratives.eu/narrative/N100_VC_06_ES
+```
+
+## Q4
+
+**Goal:** retrieve the VCs using sheep to produce cheese.
+
+**Query**
+
+```sparql
+PREFIX narra: <https://dlnarratives.eu/ontology#>
+PREFIX crm: <http://erlangen-crm.org/current/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?title ?narrative
+WHERE {
+  ?event1 narra:partOfNarrative ?narrative .
+  ?narrative rdfs:label ?title .
+
+  {
+    ?event1 narra:hasEntity <https://dlnarratives.eu/resource/Q7368> .
+    ?event2 narra:partOfNarrative ?narrative .
+    ?event2 narra:hasEntity <https://dlnarratives.eu/resource/Q10943> .
+  }
+  UNION
+  {
+    ?event1 narra:hasEntity <https://dlnarratives.eu/resource/Q7368> .
+    ?event2 narra:partOfNarrative ?narrative .
+    ?event2 narra:hasEntity <https://dlnarratives.eu/resource/Q10943> .
+    FILTER (?event1 != ?event2)
+  }
+}
+```
+
+**Results**
+
+```csv
+title,narrative
+Sheep farmers from Weiz ('Weizer Schafbauern'),https://dlnarratives.eu/narrative/N257_VC_15_AT
+Pirot hard cheese from sheep and cow milk,https://dlnarratives.eu/narrative/N181_VC_10_SER
+'MOZZARELLA',https://dlnarratives.eu/narrative/N217_VC_12_RO
+It is a traditional local cheese from goat and sheep milk,https://dlnarratives.eu/narrative/N324_VC_18_TR
+Fresh lamb meat, PDO (whole animals), produced from Sjenica sheep - local autochthonous sheep breed,https://dlnarratives.eu/narrative/N18_VC_01_SER
+Lamb Meat from Zuheros,https://dlnarratives.eu/narrative/N72_VC_32_ES
+Epirus Feta is PDO cheese made of sheep and goat milk in the Epirus region, Ammotopos Arta,https://dlnarratives.eu/narrative/N332_VC_19_GR
+'BRĂNZĂ HOREZU',https://dlnarratives.eu/narrative/N234_VC_13_RO
+Erzincan Tulum Cheese,https://dlnarratives.eu/narrative/N183_VC_10_TR
+Traditional sheep's milk cheese,https://dlnarratives.eu/narrative/N34_VC_02_PT2
+Cheese (North Macedonia),https://dlnarratives.eu/narrative/N161_VC_09_NMK
+Lamb meat,https://dlnarratives.eu/narrative/N215_VC_12_NMK
+Production of Dry Anthotyros on Dry Anthotyros on the Lassithi Plateau,https://dlnarratives.eu/narrative/N30_VC_02_GR
+Dried halves of sheep - deboned and slowly dried combining cold winds of the area and smoke,https://dlnarratives.eu/narrative/N37_VC_02_SER
+Beef fresh meat (whole animals), dry meat part of the same VCs (on-farm or small processing units),https://dlnarratives.eu/narrative/N17_VC_20_SER
+White cheese in brine, produced of mixed milk - cow and sheep milk,https://dlnarratives.eu/narrative/N200_VC_11_SER
+Production of Graviera cheese (Gruyere) in the area Amari, on the western slopes of Psiloritis mountain,https://dlnarratives.eu/narrative/N10_VC_01_GR
+Brocciu Corse PDO,https://dlnarratives.eu/narrative/N28_VC_02_FR
+The labelled traditional cheese products from sheep or from a mixture of sheep and cow milk,https://dlnarratives.eu/narrative/N19_VC_01_SK
+Special kind of tulum cheese from goat and sheep milk,https://dlnarratives.eu/narrative/N167_VC_09_TR
+Almenland Stollenkäse (transl.: Almenland mining tunnel cheese),https://dlnarratives.eu/narrative/N23_VC_02_AT
+'BRÂNZĂ DE BURDUF',https://dlnarratives.eu/narrative/N198_VC_11_RO
+Traditional sheep's milk cottage cheese,https://dlnarratives.eu/narrative/N52_VC_03_PT2
+Dairy Cheese,https://dlnarratives.eu/narrative/N64_VC_04_FR
+'SIRENE' CHEESE,https://dlnarratives.eu/narrative/N96_VC_06_BG
+```
+
+## Q5
+
+**Goal:** retrieve the VCs using sheep to produce wool.
+
+**Query**
+
+```sparql
+PREFIX narra: <https://dlnarratives.eu/ontology#>
+PREFIX crm: <http://erlangen-crm.org/current/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?title ?narrative
+WHERE {
+  ?event1 narra:partOfNarrative ?narrative .
+  ?narrative rdfs:label ?title .
+
+  {
+    ?event1 narra:hasEntity <https://dlnarratives.eu/resource/Q7368> .
+    ?event2 narra:partOfNarrative ?narrative .
+    ?event2 narra:hasEntity <https://dlnarratives.eu/resource/Q42329> .
+  }
+  UNION
+  {
+    ?event1 narra:hasEntity <https://dlnarratives.eu/resource/Q7368> .
+    ?event2 narra:partOfNarrative ?narrative .
+    ?event2 narra:hasEntity <https://dlnarratives.eu/resource/Q42329> .
+    FILTER (?event1 != ?event2)
+  }
+}
+```
+
+**Results**
+
+```csv
+title,narrative
+Sheep wool,https://dlnarratives.eu/narrative/N226_VC_13_CZ
+Osttiroler Mountain Lamb ('Osttiroler Berglamm'),https://dlnarratives.eu/narrative/N168_VC_10_AT
+Wool Products from Bordaleira Serra da Estrela autochthonous sheep breed,https://dlnarratives.eu/narrative/N285_VC_16_PT2
+Promotion of the production, harvesting and processing of wool from the Swiss Jura region by an association,https://dlnarratives.eu/narrative/N294_VC_17_CH2
+Products made from Burel, a specific wool fabric,https://dlnarratives.eu/narrative/N301_VC_17_PT2
+Mountain wool for Harris tweed - Western Isles (LAU1),https://dlnarratives.eu/narrative/N290_VC_16_UK
+'CHIPROVITSI' CARPETS,https://dlnarratives.eu/narrative/N78_VC_05_BG
+Wool handmade carpets with traditional motives,https://dlnarratives.eu/narrative/N49_VC_25_SER
+Sheep's wool processing helps maintain traditional sheep farming in Slovakia; the sheep wool products include home textile products and clothes,https://dlnarratives.eu/narrative/N74_VC_04_SK
+ECO-FERTILISER (WOOL PELLETS),https://dlnarratives.eu/narrative/N163_VC_09_RO
+Grazalema wool blankets, textile craftsmanship,https://dlnarratives.eu/narrative/N86_VC_39_ES
+```
