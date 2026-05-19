@@ -69,18 +69,20 @@ PREFIX narra:  <https://dlnarratives.eu/ontology#>
 PREFIX crm:    <http://erlangen-crm.org/current/> 
 PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#> 
 
+
 SELECT DISTINCT ?title ?narrative
+
 WHERE {
 
     ?narrative rdfs:label ?title .
-
 
     ?event1 narra:partOfNarrative ?narrative ;
             narra:hasEntity ?mandatoryEntity .
 
     VALUES ?mandatoryEntity {
         <https://dlnarratives.eu/resource/Q188840>  
-    <https://dlnarratives.eu/resource/Q131207>  
+        <https://dlnarratives.eu/resource/Q131207> 
+        <https://dlnarratives.eu/resource/Q12147>
     }
 
 
@@ -89,8 +91,8 @@ WHERE {
 
     VALUES ?plantEntity {
         <https://dlnarratives.eu/resource/Q207123>
-        <https://dlnarratives.eu/resource/Q756>    
-
+        <https://dlnarratives.eu/resource/Q756> 
+        <https://dlnarratives.eu/resource/Q131449>
     }
 }
 ```
@@ -106,7 +108,12 @@ Organic production and packaging of medicinal herbs in mountains,https://dlnarra
 Almenland Honey,https://dlnarratives.eu/narrative/N77_VC_05_AT
 Pontepietra is a small organic farm that cultivates medicinal and aromatic herbs and practices the collection of wild herbs,https://dlnarratives.eu/narrative/N27_VC_21_IT
 Medicinal herbs - NTFP,https://dlnarratives.eu/narrative/N88_VC_05_NMK
+Aloe Vera is the oldest known and the most applied medical plant worldwide. More recently Aloe Vera is cultivated and processed into a variety of byproducts in the region of Viannos - Dikti Mountain, https://dlnarratives.eu/narrative/N159_VC_09_GR
 Almenland Herbs,https://dlnarratives.eu/narrative/N41_VC_03_AT
+Suckling goat from Malaga, https://dlnarratives.eu/narrative/N70_VC_31_ES
+Honey, https://dlnarratives.eu/narrative/N156_VC_09_ES
+This farm grows and commercializes herbs and with garlic produced mountain area, https://dlnarratives.eu/narrative/N195_VC_11_IT
+Herbal tea, https://dlnarratives.eu/narrative/N117_VC_07_CZ
 ```
 
 ## Q3
