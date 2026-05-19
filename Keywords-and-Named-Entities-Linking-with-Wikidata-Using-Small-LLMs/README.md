@@ -14,6 +14,12 @@ The pipeline is:
 4. Retrieve the related Wikidata QID.
 5. Evaluate the results against manually created gold standards.
 
+## Dependencies
+
+To run the LLMs, you have to install Ollama <https://ollama.com/> and download the models used in the experiments.
+
+To run ReLik (used to extract Named entities and link them to WIkidata), you have to install ReLik <https://github.com/SapienzaNLP/relik> and Kilt <https://github.com/facebookresearch/KILT>
+
 ## Data Source
 
 The textual data used in the experiment comes from the European Horizon 2020 **MOVING** project.
