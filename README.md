@@ -38,7 +38,7 @@ The module also retrieves additional metadata for the linked entities, including
 
 The third module contains a PHP script that creates the knowledge graph for each narrative enriched in the previous module.
 
-It calls a triplifier that converts the data into RDF/OWL according to the **Narrative Ontology**.
+It calls a triplifier (<https://github.com/AIMH-DHgroup/dlnarratives_triplifier>) that converts the data into RDF/OWL according to the **Narrative Ontology**.
 
 As output, it produces:
 
