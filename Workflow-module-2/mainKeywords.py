@@ -63,6 +63,8 @@ OUTPUT_ENCODING = "utf-8-sig"
 ENTITY_SEP = ","   # separates entities (aligns with QIDs order)
 MULTI_SEP = "|"    # separates multiple images for the same entity
 
+VC_CODE_RE = re.compile(r"The reference MOVING Card ID of this VC is\s+(VC_[A-Z0-9_]+)", re.IGNORECASE)
+
 
 def ensure_io_dirs() -> None:
     os.makedirs(INPUT_DIR, exist_ok=True)
@@ -426,6 +428,35 @@ def read_input_csv_rows(path: str) -> List[List[str]]:
         return list(reader)
 
 
+def extract_vc_code(rows: List[List[str]]) -> Optional[str]:
+    if len(rows) < 2 or len(rows[1]) < 2:
+        return None
+
+    first_description = str(rows[1][1] or "")
+    match = VC_CODE_RE.search(first_description)
+    if not match:
+        return None
+
+    return match.group(1).upper()
+
+
+def build_output_path(rows: List[List[str]], input_name: str) -> str:
+    base, ext = os.path.splitext(input_name)
+    vc_code = extract_vc_code(rows)
+    target_base = vc_code or f"{base}_qids"
+
+    output_path = os.path.join(OUTPUT_DIR, f"{target_base}{ext}")
+    if not os.path.exists(output_path):
+        return output_path
+
+    counter = 2
+    while True:
+        candidate = os.path.join(OUTPUT_DIR, f"{target_base}_{counter}{ext}")
+        if not os.path.exists(candidate):
+            return candidate
+        counter += 1
+
+
 # -------------------------
 # MAIN CSV PROCESSOR
 # -------------------------
@@ -435,13 +466,12 @@ def enrich_csv_with_wikidata_qids(input_csv_path: str) -> str:
         raise FileNotFoundError(f"File not found: {input_csv_path}")
 
     input_name = os.path.basename(input_csv_path)
-    base, ext = os.path.splitext(input_name)
-    output_path = os.path.join(OUTPUT_DIR, f"{base}_qids{ext}")
-
     rows = read_input_csv_rows(input_csv_path)
 
     if not rows:
         raise ValueError("CSV is empty.")
+
+    output_path = build_output_path(rows, input_name)
 
     header = rows[0]
     out_rows: List[List[str]] = []
@@ -450,9 +480,9 @@ def enrich_csv_with_wikidata_qids(input_csv_path: str) -> str:
         + [
             "wikidata_names_en",
             "wikidata_qids",
-            "wikidata_coords",
             "wikidata_images",
             "wikidata_descriptions_en",
+            "wikidata_coords",
         ]
     )
 
@@ -536,9 +566,9 @@ def enrich_csv_with_wikidata_qids(input_csv_path: str) -> str:
             + [
                 ENTITY_SEP.join(names_en),
                 ENTITY_SEP.join(qids),
-                ENTITY_SEP.join(coords),
                 ENTITY_SEP.join(images_cell),
                 ENTITY_SEP.join(descriptions_en),
+                ENTITY_SEP.join(coords),
             ]
         )
 
