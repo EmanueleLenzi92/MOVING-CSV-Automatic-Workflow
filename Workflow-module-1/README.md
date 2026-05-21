@@ -1,6 +1,6 @@
 ## Instructions
 
-Accertarsi che ci sia il CSV unico nella cartella `input` del modulo 1. Il file di partenza si trova nella cartella `CSV`.
+Make sure the single CSV file is in the `input` folder of module 1. The starting file is in the `CSV` folder.
 
 ```bash
 python main.py
