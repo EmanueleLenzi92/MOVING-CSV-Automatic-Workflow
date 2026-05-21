@@ -24,7 +24,7 @@ The second module enriches the narratives with entity extraction and linking.
 It uses:
 
 - **Gemma3 12b** to extract keywords from event descriptions (It requires Ollama <https://ollama.com/>)
-- **ReLiK** to extract named entities (It requires ReLik <https://github.com/SapienzaNLP/relik>)
+- **ReLiK** to extract named entities (It requires ReLik <https://github.com/SapienzaNLP/relik> and KILT <https://github.com/facebookresearch/KILT>)
 
 The extracted items are then linked to **Wikidata** entries.
 
