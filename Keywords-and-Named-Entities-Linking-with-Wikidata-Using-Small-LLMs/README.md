@@ -28,7 +28,7 @@ MOVING collected data about **454 mountain value chains** across **16 European c
 
 The original dataset corresponds to:
 
-- 454 CSV narratives
+- 454 CSV narratives (<https://github.com/EmanueleLenzi92/MOVING-CSV-Automatic-Workflow/tree/master/Workflow-module-1/output>)
 - 11 textual events for each narrative
 - 4,994 textual events in total
 
