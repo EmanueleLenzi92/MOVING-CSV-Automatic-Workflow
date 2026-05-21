@@ -80,4 +80,4 @@ It includes:
 
 ## Goal
 
-The overall goal of the repository is to provide an automatic pipeline for converting structured CSV data about mountain value chains into semantically enriched narratives and knowledge graphs based on the Narrative Ontology.
+The overall goal of the repository is to provide an automatic pipeline for converting structured CSV data about mountain value chains into semantically enriched narratives and knowledge graphs based on the Narrative Ontology, allowing inter-story correlation analysis of the mountain value chains.
