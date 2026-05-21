@@ -4,9 +4,6 @@ import os
 import re
 import sys
 import difflib
-import random
-import requests
-from bs4 import BeautifulSoup
 
 
 # -------------------------
@@ -20,36 +17,6 @@ MAPPING_CSV = os.path.join(BASE_DIR, "mappingtable.csv")
 SKIP_EMPTY_FIELDS = True
 FUZZY_THRESHOLD = 0.90
 PRINT_FUZZY_MATCHES = False
-
-HEADERS = {"User-Agent": "Mozilla/5.0"}
-
-REGION_PAGES = [
-    "https://www.moving-h2020.eu/reference_regions/austrian-alps-austria/",
-    "https://www.moving-h2020.eu/reference_regions/stara-planina-bulgaria/",
-    "https://www.moving-h2020.eu/reference_regions/sumava-cesky-les-czechia/",
-    "https://www.moving-h2020.eu/reference_regions/corsica-france/",
-    "https://www.moving-h2020.eu/reference_regions/drome-valley-france/",
-    "https://www.moving-h2020.eu/reference_regions/crete-greece/",
-    "https://www.moving-h2020.eu/reference_regions/transdanubian-mountains-hungary/",
-    "https://www.moving-h2020.eu/reference_regions/central-apennines-italy/",
-    "https://www.moving-h2020.eu/reference_regions/eastern-alps-italy/",
-    "https://www.moving-h2020.eu/reference_regions/northern-apennines-italy/",
-    "https://www.moving-h2020.eu/reference_regions/maleshevski-mountains-north-macedonia/",
-    "https://www.moving-h2020.eu/reference_regions/cordilheira-central-portugal/",
-    "https://www.moving-h2020.eu/reference_regions/macico-noroeste-portugal/",
-    "https://www.moving-h2020.eu/reference_regions/southern-romanian-carpathian-mountains-romania/",
-    "https://www.moving-h2020.eu/reference_regions/dinaric-mountains-serbia/",
-    "https://www.moving-h2020.eu/reference_regions/slovak-carpathian-mountains-slovakia/",
-    "https://www.moving-h2020.eu/reference_regions/betic-systems-spain/",
-    "https://www.moving-h2020.eu/reference_regions/sierra-morena-spain/",
-    "https://www.moving-h2020.eu/reference_regions/spanish-pyrenees-spain/",
-    "https://www.moving-h2020.eu/reference_regions/swiss-alps-switzerland/",
-    "https://www.moving-h2020.eu/reference_regions/swiss-jura-switzerland/",
-    "https://www.moving-h2020.eu/reference_regions/beydaglari-turkey/",
-    "https://www.moving-h2020.eu/reference_regions/highlands-and-islands-uk-scotland/",
-]
-
-COUNTRY_IMAGE_CACHE = {}
 
 
 def ensure_io_dirs() -> None:
@@ -233,91 +200,17 @@ def build_header_resolution(headers_raw, mapping_rows, mapping_by_dbkey):
 
 
 # -------------------------
-# IMAGES
-# -------------------------
-def best_region_page(country_name: str) -> str:
-    country_norm = norm_key(country_name)
-    best_url = REGION_PAGES[0]
-    best_score = -1.0
-
-    for url in REGION_PAGES:
-        slug = url.strip("/").split("/")[-1]
-        slug_norm = norm_key(slug)
-
-        score = difflib.SequenceMatcher(None, country_norm, slug_norm).ratio()
-        if score > best_score:
-            best_score = score
-            best_url = url
-
-    print(f"[MATCH] {country_name} -> {best_url} (score={best_score:.2f})")
-    return best_url
-
-
-def extract_images_from_region(url: str):
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=25)
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "html.parser")
-        imgs = soup.find_all("img")
-
-        out = []
-        for img in imgs:
-            src = img.get("src")
-            if not src or not src.startswith("http"):
-                continue
-            low = src.lower()
-            if any(x in low for x in ["logo", "icon", "flag"]):
-                continue
-            out.append(src)
-
-        # dedup preserving order
-        seen = set()
-        uniq = []
-        for u in out:
-            if u not in seen:
-                uniq.append(u)
-                seen.add(u)
-        return uniq
-
-    except Exception as e:
-        print("Image extraction error:", e)
-        return []
-
-
-def get_images_for_country(country: str):
-    key = norm_key(country)
-    if key in COUNTRY_IMAGE_CACHE:
-        return COUNTRY_IMAGE_CACHE[key]
-
-    page = best_region_page(country)
-    images = extract_images_from_region(page)
-
-    print(f"[{country}] -> {len(images)} images found")
-    COUNTRY_IMAGE_CACHE[key] = images
-    return images
-
-
-# -------------------------
 # SERIALIZE
 # -------------------------
-def serialize_story_csv(events: dict, event_order: list, country: str) -> str:
-    rows = [["title", "description", "image"]]
-
-    images = list(get_images_for_country(country))
-    random.shuffle(images)
-    img_idx = 0
+def serialize_story_csv(events: dict, event_order: list) -> str:
+    rows = [["title", "description"]]
 
     for event_label in event_order:
         data = events[event_label]
         title = clean_text(data.get("title", "")) or event_label
         desc = " ".join([clean_text(x) for x in data.get("desc", []) if clean_text(x)]).strip()
 
-        image_url = ""
-        if desc and not is_quantitative_event(event_label) and img_idx < len(images):
-            image_url = images[img_idx]
-            img_idx += 1
-
-        rows.append([title, desc, image_url])
+        rows.append([title, desc])
 
     return build_csv_text(rows)
 
@@ -386,7 +279,7 @@ def process_csv(dataset_csv_path: str, mapping_csv_path: str = MAPPING_CSV, outp
             else:
                 events[event_label]["desc"].append(sentence)
 
-        story_csv = serialize_story_csv(events, event_order, country)
+        story_csv = serialize_story_csv(events, event_order)
         out_path = os.path.join(output_dir, f"{row_index}.csv")
         with open(out_path, "w", encoding="utf-8", newline="") as out:
             out.write(story_csv)
@@ -405,7 +298,7 @@ def process_csv(dataset_csv_path: str, mapping_csv_path: str = MAPPING_CSV, outp
 def run(input_path: str | None = None):
     """
     input_path è SEMPRE una stringa (percorso file).
-    Se finisce con .csv -> genera stories con colonna image.
+    Se finisce con .csv -> genera stories con colonne title/description.
     Se finisce con .txt -> usa Ollama e genera CSV title/description.
     """
     path = input_path.strip() if isinstance(input_path, str) and input_path.strip() else resolve_default_input_path()
@@ -424,4 +317,3 @@ if __name__ == "__main__":
     result = run(input_path)
     if result:
         print(result)
-
