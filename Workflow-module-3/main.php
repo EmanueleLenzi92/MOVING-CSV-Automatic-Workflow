@@ -13,8 +13,8 @@ function logMessage($logPath, $message) {
 	file_put_contents($logPath, '[' . $timestamp . '] ' . $message . PHP_EOL, FILE_APPEND);
 }
 
-// Read a delimited text file while automatically handling comma-separated and
-// tab-separated exports.
+// Read a delimited text file while automatically handling semicolon-, comma-
+// and tab-separated exports.
 function readDelimitedRows($filePath) {
 	$rows = array();
 	$handle = fopen($filePath, 'r');
@@ -25,7 +25,12 @@ function readDelimitedRows($filePath) {
 	$delimiter = ',';
 	$firstLine = fgets($handle);
 	if($firstLine !== false){
-		if(substr_count($firstLine, "\t") > substr_count($firstLine, ',')){
+		$commaCount = substr_count($firstLine, ',');
+		$semicolonCount = substr_count($firstLine, ';');
+		$tabCount = substr_count($firstLine, "\t");
+		if($semicolonCount >= $commaCount && $semicolonCount >= $tabCount && $semicolonCount > 0){
+			$delimiter = ';';
+		} elseif($tabCount > $commaCount){
 			$delimiter = "\t";
 		}
 		$parsedFirstLine = str_getcsv(rtrim($firstLine, "\r\n"), $delimiter);
@@ -38,6 +43,41 @@ function readDelimitedRows($filePath) {
 
 	fclose($handle);
 	return $rows;
+}
+
+
+function extractEventCoordinatesFromGemma3Row($line, $fallbackLon, $fallbackLat) {
+	$coordsColumn = isset($line[count($line) - 1]) ? trim($line[count($line) - 1]) : '';
+	if($coordsColumn == ''){
+		return array($fallbackLon, $fallbackLat);
+	}
+
+	$coordEntries = explode(',', $coordsColumn);
+	for($i = 0; $i < count($coordEntries); $i++){
+		$coordEntry = trim($coordEntries[$i]);
+		if($coordEntry == '' || strtolower($coordEntry) == 'null'){
+			continue;
+		}
+
+		$parts = preg_split('/\s+/', $coordEntry);
+		if(count($parts) >= 2 && is_numeric($parts[0]) && is_numeric($parts[1])){
+			$eventLat = $parts[0];
+			$eventLon = $parts[1];
+			return array($eventLon, $eventLat);
+		}
+	}
+
+	return array($fallbackLon, $fallbackLat);
+}
+
+
+function coordinatesMatch($lonA, $latA, $lonB, $latB, $tolerance = 0.0001) {
+	if(!is_numeric($lonA) || !is_numeric($latA) || !is_numeric($lonB) || !is_numeric($latB)){
+		return false;
+	}
+
+	return abs(floatval($lonA) - floatval($lonB)) <= $tolerance
+		&& abs(floatval($latA) - floatval($latB)) <= $tolerance;
 }
 
 // Return true when a narrative already has all final outputs on disk so the
@@ -81,8 +121,7 @@ $listNations=[
 
 
 
-// Load the LAU lookup table once and index it by CSV/JSON code (column 2).
-// This lets us recover country, centroid and polygon for each narrative file.
+
 $csvCoordLau = array();
 $csvCoordLauByCode = array();
 $lauRows = readDelimitedRows($baseDir . DIRECTORY_SEPARATOR . "Lau.csv");
@@ -106,6 +145,12 @@ $jsonDir = $baseDir . DIRECTORY_SEPARATOR . 'json';
 $owlDir = $baseDir . DIRECTORY_SEPARATOR . 'owl';
 $triplifyJar = $baseDir . DIRECTORY_SEPARATOR . 'Triplify' . DIRECTORY_SEPARATOR . 'triplify.jar';
 $logPath = $baseDir . DIRECTORY_SEPARATOR . 'scriptStories5OSM.log';
+$javaCandidates = array(
+	'C:\\Users\\Ema\\.p2\\pool\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412\\jre\\bin\\java.exe',
+	'C:\\Users\\Ema\\.vscode\\extensions\\redhat.java-1.54.0-win32-x64\\jre\\21.0.10-win32-x86_64\\bin\\java.exe',
+	'C:\\Users\\Ema\\Downloads\\Protege-5.6.7-win\\Protege-5.6.7\\jre\\bin\\java.exe',
+	'C:\\Users\\Ema\\AppData\\Roaming\\ModrinthApp\\meta\\java_versions\\zulu21.38.21-ca-jre21.0.5-win_x64\\bin\\java.exe'
+);
 
 if (!file_exists($storymapDir)) {
 	mkdir($storymapDir, 0777, true);
@@ -151,8 +196,8 @@ for($i=2; $i<sizeOf($files); $i++){
 	$narrationTitle="";
 	
 	// apro il singolo csv
-	$file = fopen($inputDir . DIRECTORY_SEPARATOR . $files[$i], 'r');
-	if($file === false){
+	$storyRows = readDelimitedRows($inputDir . DIRECTORY_SEPARATOR . $files[$i]);
+	if(empty($storyRows)){
 		echo "Unable to open file " . $files[$i] . "</br>";
 		logMessage($logPath, 'Unable to open file ' . $files[$i]);
 		continue;
@@ -160,7 +205,7 @@ for($i=2; $i<sizeOf($files); $i++){
 	
 		
 	//scorro le linee del csv
-	while (($line = fgetcsv($file)) !== FALSE) {
+	foreach($storyRows as $line) {
 		
 
 		// escludi prima riga (titolo, ecc.)
@@ -233,7 +278,13 @@ for($i=2; $i<sizeOf($files); $i++){
 								
 								$country= $letters;
 							}
-							 
+
+				$pointCoordinate= $lauRow[3];
+				preg_match('!\(([^\)]+)\)!',$pointCoordinate,$CoordinatesWithoutParenthesis);
+				$longCSVLau = isset($CoordinatesWithoutParenthesis[1]) ? explode(" ",$CoordinatesWithoutParenthesis[1])[0] : '';
+				$latCSVLau = isset($CoordinatesWithoutParenthesis[1]) ? explode(" ",$CoordinatesWithoutParenthesis[1])[1] : '';
+				list($eventLon, $eventLat) = extractEventCoordinatesFromGemma3Row($line, $longCSVLau, $latCSVLau);
+				 
 							if($country== "AT"){
 								$country= "Austria";
 								$wiki= "https://www.wikidata.org/wiki/Q40";
@@ -440,8 +491,8 @@ for($i=2; $i<sizeOf($files); $i++){
 							$pointCoordinate= $lauRow[3];
 							preg_match('!\(([^\)]+)\)!',$pointCoordinate,$CoordinatesWithoutParenthesis);
 							//var_dump($CoordinatesWithoutParenthesis);
-							$elemArray["Latitude"]= explode(" ",$CoordinatesWithoutParenthesis[1])[0];
-							$elemArray["Longitude"]= explode(" ",$CoordinatesWithoutParenthesis[1])[1];	
+							$elemArray["Latitude"]= explode(" ",$CoordinatesWithoutParenthesis[1])[1];
+							$elemArray["Longitude"]= explode(" ",$CoordinatesWithoutParenthesis[1])[0];	
 							$elemArray["Country"] = $country;
 							$elemArray["Wiki"] = $wiki;	
 							
@@ -487,7 +538,7 @@ for($i=2; $i<sizeOf($files); $i++){
 								preg_match('#\((.*?)\)#', $singleEntity["coordinatesPoint"], $match);
 								$pointsLatLng= explode(" ",$match[1]);
 								
-								if( $pointsLatLng[0] == $line[4] && $pointsLatLng[1] == $line[5]){
+								if(coordinatesMatch($pointsLatLng[0], $pointsLatLng[1], $eventLon, $eventLat)){
 									echo $singleEntity["enName"] . "</br>";
 									$entityGiveCoordinatesEvent=$idEnt;
 									
@@ -751,8 +802,8 @@ for($i=2; $i<sizeOf($files); $i++){
 					$elemArray["CSVnumber"] = $csvKey;
 					$pointCoordinate= $lauRow[3];
 					preg_match('!\(([^\)]+)\)!',$pointCoordinate,$CoordinatesWithoutParenthesis);
-					$elemArray["Latitude"]= explode(" ",$CoordinatesWithoutParenthesis[1])[0];
-					$elemArray["Longitude"]= explode(" ",$CoordinatesWithoutParenthesis[1])[1];
+					$elemArray["Latitude"]= explode(" ",$CoordinatesWithoutParenthesis[1])[1];
+					$elemArray["Longitude"]= explode(" ",$CoordinatesWithoutParenthesis[1])[0];
 					$elemArray["Country"] = $country;
 					$elemArray["Wiki"] = $wiki;
 					$elemArray['Link']= "https://tool.dlnarratives.eu/storymaps/" . "moving.".$userId ."/N".$idNarra."/" ;
@@ -763,14 +814,9 @@ for($i=2; $i<sizeOf($files); $i++){
 				
 				// Choose map zoom/polygon priority: LAU polygon first, otherwise entity
 				// polygon/point if an entity matches the event coordinates.
-				$pointCoordinate= $lauRow[3];
-				preg_match('!\(([^\)]+)\)!',$pointCoordinate,$CoordinatesWithoutParenthesis);
-							
-				$longCSVLau= explode(" ",$CoordinatesWithoutParenthesis[1])[0];
-				$latCSVLau= explode(" ",$CoordinatesWithoutParenthesis[1])[1];	
 
 				$polygon="";
-				if($line[4] == $longCSVLau && $line[5] == $latCSVLau){
+				if(coordinatesMatch($eventLon, $eventLat, $longCSVLau, $latCSVLau)){
 					
 					$zoom= 10;
 					
@@ -801,19 +847,19 @@ for($i=2; $i<sizeOf($files); $i++){
 					"_id" => "ev".$contaRighe,
 					"text" => $arraySlideDescription,
 					"location" => array(
-						"name"=>"","lat"=> floatval($line[5]),"lon"=>floatval($line[4]),"zoom"=>$zoom,"line"=>true
+						"name"=>"","lat"=> floatval($eventLat),"lon"=>floatval($eventLon),"zoom"=>$zoom,"line"=>true
 					),
 					"media" => array("url"=>$selectedImage),
 					"date"=> "",					
 					"title" => $line[0],
-					"latitud" => $line[5],
+					"latitud" => $eventLat,
 					"start"=>"",
 					"end"=>"",
 					"objurl" =>"",
 					"end_date"=> array("year"=>"null","month"=>"","day"=>""),
 					"start_date"=> array("year"=>"null","month"=>"","day"=>""),
 					"type"=>"no type",
-					"longitud" => $line[4],
+					"longitud" => $eventLon,
 					"unique_id" => "slide-ev".$contaRighe,
 					"eventMedia" => $selectedImage,
 					"eventMediaCaption" => "",
@@ -948,8 +994,6 @@ for($i=2; $i<sizeOf($files); $i++){
 	
 	
 	
-	fclose($file);	
-	
 
 	// Build the compact JSON consumed by Triplify and, if Java is available,
 	// transform it into an OWL file.
@@ -962,16 +1006,33 @@ for($i=2; $i<sizeOf($files); $i++){
 	logMessage($logPath, 'Wrote Triplify JSON ' . $jsonOutputPath);
 
 	
-	$javaCheckOutput = array();
-	$javaCheckStatus = 0;
-	exec('where java 2>NUL', $javaCheckOutput, $javaCheckStatus);
-	if($javaCheckStatus === 0 && !empty($javaCheckOutput)){
+	$javaBin = "";
+	foreach($javaCandidates as $javaCandidate){
+		if(file_exists($javaCandidate)){
+			$javaBin = $javaCandidate;
+			break;
+		}
+	}
+	if($javaBin == ""){
+		$javaCheckOutput = array();
+		$javaCheckStatus = 0;
+		exec('where java 2>NUL', $javaCheckOutput, $javaCheckStatus);
+		if($javaCheckStatus === 0 && !empty($javaCheckOutput)){
+			$javaBin = $javaCheckOutput[0];
+		}
+	}
+	if($javaBin != ""){
 		$owlOutputPath = $owlDir . DIRECTORY_SEPARATOR . "moving.52_N".$idNarra.".owl";
-		$cmd = 'java -jar "' . $triplifyJar . '" "' . $jsonOutputPath . '" "' . $owlOutputPath . '" 2>&1';
+		$cmd = '"' . $javaBin . '" -jar "' . $triplifyJar . '" "' . $jsonOutputPath . '" "' . $owlOutputPath . '" 2>&1';
 		$output=null;
 		$retval=null;
+		$previousCwd = getcwd();
 		logMessage($logPath, 'Running Triplify for N' . $idNarra);
+		chdir($baseDir);
 		exec($cmd,$output,$retval);
+		if($previousCwd !== false){
+			chdir($previousCwd);
+		}
 		print_r($output);
 		logMessage($logPath, 'Triplify finished for N' . $idNarra . ' with exit code ' . $retval);
 	} else {
