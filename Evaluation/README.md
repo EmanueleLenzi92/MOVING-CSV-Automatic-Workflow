@@ -12,6 +12,8 @@ For each use case, two queries were carried out:
 - the first one was executed considering the event-based narrative knowledge graph structure
 - the second one was executed considering the whole graph, relying only on the keywords extracted independently from the narrative events in which they appear
 
+The SPARQL queries can be run using the endpoint at <https://tool.dlnarratives.eu/Moving_454_Storymaps/automatic_workflow_sparql.html>
+
 ## Event-Based Narrative Knowledge Graph
 
 ### Q1. VCs that face challenges related to drought
