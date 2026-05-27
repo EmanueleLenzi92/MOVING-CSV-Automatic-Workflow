@@ -1,8 +1,8 @@
 # MOVING CSV Automatic Workflow
 
-This repository contains an automatic workflow for transforming CSV contents into knowledge graphs modelled according to the **Narrative Ontology**, developed by **ISTI-CNR**, for narratives about mountain value chains.
+This repository contains an automatic workflow for transforming CSV contents into narrative knowledge graphs modelled according to the **Narrative Ontology** <https://dlnarratives.eu/ontology.html>, developed by **ISTI-CNR**, for narratives about mountain value chains.
 
-The source data were collected by the **MOVING Horizon 2020** project, which gathered data about **454 mountain value chains** across **16 European countries** in CSV format.
+The source data were collected by the **MOVING Horizon 2020** project <https://www.moving-h2020.eu/>, which gathered data about **454 mountain value chains** across **16 European countries** in CSV format.
 
 ## Overview
 
