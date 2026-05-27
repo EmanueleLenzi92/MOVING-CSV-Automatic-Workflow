@@ -63,12 +63,10 @@ The `Evaluation/` folder contains the graph evaluation stage based on **SPARQL q
 
 It includes:
 
-- 5 SPARQL queries executed against a **Fuseki** endpoint where the OWL files are stored
+- 4 SPARQL queries executed against a **Fuseki** endpoint where the OWL files are stored
 - the corresponding query results
-- a gold standard used to compute:
-  - precision
-  - recall
-  - F1 score
+- `evaluate_sparql_results.py`: it computes precision, recall and F1 score of the SPARQL queries 
+
 
 ## Repository Structure
 
