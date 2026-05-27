@@ -1,0 +1,23 @@
+PREFIX narra:  <https://dlnarratives.eu/ontology#> 
+PREFIX crm:    <http://erlangen-crm.org/current/> 
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#> 
+
+SELECT DISTINCT ?title ?narrative  ?CountryName
+
+WHERE {
+
+    ?narrative rdfs:label ?title ;
+              narra:isAboutCountry ?country .
+  	?country rdfs:label ?CountryName .
+
+    ?event1 narra:partOfNarrative ?narrative ;
+            narra:is_identified_by <https://dlnarratives.eu/appellation/Mountain_landscape_and_reference_chains>;
+            narra:hasEntity ?mandatoryEntity .
+
+    VALUES ?mandatoryEntity {
+        <https://dlnarratives.eu/resource/Q23757> 
+    }
+
+
+}
+orderby ?CountryName

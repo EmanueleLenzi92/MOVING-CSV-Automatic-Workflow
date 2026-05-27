@@ -1,0 +1,43 @@
+PREFIX narra:  <https://dlnarratives.eu/ontology#> 
+PREFIX crm:    <http://erlangen-crm.org/current/> 
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#> 
+
+SELECT DISTINCT ?title ?narrative ?CountryName
+WHERE {
+
+    ?narrative rdfs:label ?title ;
+      		narra:isAboutCountry ?country .
+  	?country rdfs:label ?CountryName .
+
+    {
+
+        ?event1
+            narra:partOfNarrative ?narrative ;
+            narra:is_identified_by <https://dlnarratives.eu/appellation/Challenges>;
+            narra:hasEntity ?entity .
+
+        VALUES ?entity {
+            <https://dlnarratives.eu/resource/Q43059> 
+            <https://dlnarratives.eu/resource/Q283>   
+            <https://dlnarratives.eu/resource/Q1313> 
+        }
+    }
+
+    UNION
+
+    {
+
+        ?event2
+            narra:partOfNarrative ?narrative ;
+            narra:is_identified_by <https://dlnarratives.eu/appellation/Challenges>;
+            narra:hasEntity <https://dlnarratives.eu/resource/Q125928> ;
+            narra:hasEntity ?pairedEntity .
+
+        VALUES ?pairedEntity {
+            <https://dlnarratives.eu/resource/Q43059> 
+            <https://dlnarratives.eu/resource/Q283>   
+            <https://dlnarratives.eu/resource/Q1313> 
+        }
+    }
+}
+order by ?CountryName
