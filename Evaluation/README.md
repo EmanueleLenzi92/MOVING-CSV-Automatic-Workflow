@@ -1,4 +1,4 @@
-These are the queries that were used to evaluate the MOVING narrative knowledge graph produced through the workflow in order to perform inter-story correlation analysis across the 454 value chains.
+These are the queries that were used to evaluate the MOVING narrative knowledge graph produced through the workflow in order to perform inter-story correlation analysis across the 454 value chains (VCs).
 
 The queries address the following four use cases:
 
@@ -9,8 +9,8 @@ The queries address the following four use cases:
 
 For each use case, two queries were carried out:
 
-- the first one was executed on the event-based narrative knowledge graph
-- the second one was executed on the whole graph, relying only on the keywords extracted independently from the narrative events in which they appear
+- the first one was executed considering the event-based narrative knowledge graph structure
+- the second one was executed considering the whole graph, relying only on the keywords extracted independently from the narrative events in which they appear
 
 ## Event-Based Narrative Knowledge Graph
 
